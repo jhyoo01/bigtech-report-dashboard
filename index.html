@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>글비 빅테크 리포트 👍</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif;
+            background-color: #1a1a1a;
+            color: #fff;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* 헤더 */
+        header {
+            margin-bottom: 30px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            font-style: italic;
+        }
+
+        .article-count {
+            font-size: 0.9rem;
+            color: #999;
+        }
+
+        .subtitle {
+            color: #999;
+            font-size: 0.95rem;
+            margin-bottom: 30px;
+        }
+
+        /* 검색 & 정렬 */
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .search-box {
+            flex: 1;
+            background: #2a2a2a;
+            border: 1px solid #3a3a3a;
+            border-radius: 8px;
+            padding: 12px 20px;
+            color: #999;
+            font-size: 0.95rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .search-box::before {
+            content: "🔍";
+        }
+
+        .sort-select {
+            background: #2a2a2a;
+            border: 1px solid #3a3a3a;
+            border-radius: 8px;
+            padding: 12px 20px;
+            color: #fff;
+            font-size: 0.95rem;
+            cursor: pointer;
+            min-width: 150px;
+        }
+
+        /* 카테고리 필터 */
+        .category-filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            overflow-x: auto;
+            padding-bottom: 10px;
+        }
+
+        .category-btn {
+            background: transparent;
+            border: 2px solid #3a3a3a;
+            border-radius: 25px;
+            padding: 10px 20px;
+            color: #fff;
+            font-size: 0.9rem;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .category-btn.active {
+            background: linear-gradient(135deg, #ff4757, #ff6348);
+            border-color: #ff4757;
+        }
+
+        .category-count {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 12px;
+            padding: 2px 8px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        /* 레이아웃 */
+        .main-layout {
+            display: grid;
+            grid-template-columns: 1fr 350px;
+            gap: 30px;
+        }
+
+        /* 뉴스 리스트 */
+        .news-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .news-card {
+            background: #2a2a2a;
+            border-radius: 12px;
+            padding: 25px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 1px solid #3a3a3a;
+        }
+
+        .news-card:hover {
+            background: #333;
+            transform: translateY(-2px);
+        }
+
+        .news-header {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+
+        .badge {
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .badge-breaking {
+            background: linear-gradient(135deg, #ff4757, #ff6348);
+            color: white;
+        }
+
+        .badge-company {
+            background: #00d2d3;
+            color: white;
+        }
+
+        .badge-google { background: #4285F4; color: white; }
+        .badge-meta { background: #0668E1; color: white; }
+        .badge-youtube { background: #FF0000; color: white; }
+        .badge-tiktok { background: #000000; color: white; border: 1px solid #666; }
+        .badge-paypal { background: #003087; color: white; }
+        .badge-microsoft { background: #00A4EF; color: white; }
+        .badge-amazon { background: #FF9900; color: white; }
+
+        .badge-time {
+            color: #999;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .news-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            line-height: 1.4;
+            color: #fff;
+        }
+
+        .news-meta {
+            display: flex;
+            gap: 15px;
+            color: #999;
+            font-size: 0.9rem;
+            margin-bottom: 12px;
+        }
+
+        .news-snippet {
+            color: #ccc;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .news-footer {
+            display: flex;
+            gap: 10px;
+        }
+
+        .tag {
+            background: #3a3a3a;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            color: #aaa;
+        }
+
+        .news-link {
+            color: #00d2d3;
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .importance-score {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            color: #00d2d3;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        /* 사이드바 */
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .sidebar-card {
+            background: #2a2a2a;
+            border-radius: 12px;
+            padding: 25px;
+            border: 1px solid #3a3a3a;
+        }
+
+        .sidebar-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .stat-item {
+            margin-bottom: 15px;
+        }
+
+        .stat-label {
+            color: #999;
+            font-size: 0.9rem;
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #fff;
+        }
+
+        .stat-subvalue {
+            color: #ff4757;
+            font-size: 2rem;
+            font-weight: 700;
+        }
+
+        .source-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .source-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #3a3a3a;
+        }
+
+        .source-name {
+            color: #fff;
+            font-size: 0.95rem;
+        }
+
+        .source-count {
+            background: #3a3a3a;
+            color: #fff;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        @media (max-width: 1024px) {
+            .main-layout {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <h1>글비 빅테크 리포트 👍</h1>
+                <div class="article-count" id="totalCount">0개 기사</div>
+            </div>
+            <div class="subtitle">당신의 일일 빅테크 인텔리전스 리포트 • <span id="currentDate"></span></div>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">기사 검색, 키워드...</div>
+            <select class="sort-select" id="sortSelect" onchange="sortNews()">
+                <option value="date">정렬: 최신순</option>
+                <option value="importance">정렬: 중요도순</option>
+                <option value="company">정렬: 기업별</option>
+            </select>
+        </div>
+
+        <div class="category-filters" id="categoryFilters">
+            <button class="category-btn active" data-company="all">
+                ⭐ 전체 뉴스 <span class="category-count" id="count-all">0</span>
+            </button>
+        </div>
+
+        <div class="main-layout">
+            <div class="news-list" id="newsList">
+                <!-- 뉴스 카드가 여기에 동적으로 추가됩니다 -->
+            </div>
+
+            <aside class="sidebar">
+                <div class="sidebar-card">
+                    <div class="sidebar-title">오늘의 인사이트</div>
+                    <div class="stat-item">
+                        <div class="stat-label">전체 기사</div>
+                        <div class="stat-value" id="totalArticles">0</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">속보 뉴스</div>
+                        <div class="stat-subvalue" id="breakingNews">0</div>
+                    </div>
+                </div>
+
+                <div class="sidebar-card">
+                    <div class="sidebar-title">주요 출처</div>
+                    <div class="source-list" id="sourceList">
+                        <!-- 출처 목록이 여기에 동적으로 추가됩니다 -->
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <script>
+        let allNews = [];
+        let currentFilter = 'all';
+        let currentSort = 'date';
+
+        const companyEmojis = {
+            'Google': '🔍',
+            'Meta': '👥',
+            'YouTube': '📹',
+            'TikTok': '🎵',
+            'PayPal': '💳',
+            'Microsoft': '💻',
+            'Amazon': '📦'
+        };
+
+        // 날짜 표시
+        document.getElementById('currentDate').textContent = 
+            new Date().toLocaleDateString('ko-KR', { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                weekday: 'long'
+            });
+
+        // 데이터 로드
+        async function loadData() {
+            try {
+                const response = await fetch('bigtech_data_latest.json');
+                const data = await response.json();
+                
+                // 데이터 처리
+                allNews = [];
+                Object.entries(data.news).forEach(([company, articles]) => {
+                    articles.forEach(article => {
+                        allNews.push({
+                            ...article,
+                            company: company
+                        });
+                    });
+                });
+
+                updateUI();
+                renderNews();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('newsList').innerHTML = 
+                    '<div style="text-align: center; padding: 60px; color: #999;">데이터를 불러올 수 없습니다</div>';
+            }
+        }
+
+        function updateUI() {
+            // 전체 카운트
+            document.getElementById('totalCount').textContent = `${allNews.length}개 기사`;
+            document.getElementById('totalArticles').textContent = allNews.length;
+            
+            // 속보 (중요도 70 이상)
+            const breaking = allNews.filter(n => n.importance_score >= 70).length;
+            document.getElementById('breakingNews').textContent = breaking;
+
+            // 카테고리 필터 생성
+            const companies = {};
+            allNews.forEach(n => {
+                companies[n.company] = (companies[n.company] || 0) + 1;
+            });
+
+            const filtersHTML = `
+                <button class="category-btn active" data-company="all" onclick="filterByCompany('all')">
+                    ⭐ 전체 뉴스 <span class="category-count">${allNews.length}</span>
+                </button>
+                ${Object.entries(companies).map(([company, count]) => `
+                    <button class="category-btn" data-company="${company}" onclick="filterByCompany('${company}')">
+                        ${companyEmojis[company] || '🏢'} ${company} <span class="category-count">${count}</span>
+                    </button>
+                `).join('')}
+            `;
+            document.getElementById('categoryFilters').innerHTML = filtersHTML;
+
+            // 출처 리스트
+            const sources = {};
+            allNews.forEach(n => {
+                sources[n.source] = (sources[n.source] || 0) + 1;
+            });
+
+            const sourceHTML = Object.entries(sources)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 5)
+                .map(([source, count]) => `
+                    <div class="source-item">
+                        <div class="source-name">${source}</div>
+                        <div class="source-count">${count}</div>
+                    </div>
+                `).join('');
+            document.getElementById('sourceList').innerHTML = sourceHTML;
+        }
+
+        function filterByCompany(company) {
+            currentFilter = company;
+            
+            // 버튼 활성화
+            document.querySelectorAll('.category-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            document.querySelector(`[data-company="${company}"]`).classList.add('active');
+            
+            renderNews();
+        }
+
+        function sortNews() {
+            currentSort = document.getElementById('sortSelect').value;
+            renderNews();
+        }
+
+        function renderNews() {
+            let filtered = currentFilter === 'all' 
+                ? [...allNews] 
+                : allNews.filter(n => n.company === currentFilter);
+
+            // 정렬
+            if (currentSort === 'date') {
+                filtered.sort((a, b) => new Date(b.published_date) - new Date(a.published_date));
+            } else if (currentSort === 'importance') {
+                filtered.sort((a, b) => (b.importance_score || 0) - (a.importance_score || 0));
+            } else if (currentSort === 'company') {
+                filtered.sort((a, b) => a.company.localeCompare(b.company));
+            }
+
+            const newsHTML = filtered.map(news => {
+                const isBreaking = news.importance_score >= 70;
+                const timeAgo = getTimeAgo(news.published_date);
+                
+                return `
+                    <div class="news-card" onclick="window.open('${news.url}', '_blank')" style="position: relative;">
+                        <div class="importance-score">📊 ${Math.round(news.importance_score)}</div>
+                        <div class="news-header">
+                            ${isBreaking ? '<span class="badge badge-breaking">속보</span>' : ''}
+                            <span class="badge badge-${news.company.toLowerCase()}">${news.company}</span>
+                            <span class="badge-time">⏰ ${timeAgo}</span>
+                        </div>
+                        <h2 class="news-title">${news.title}</h2>
+                        <div class="news-meta">
+                            <span>${news.source}</span>
+                            <span>•</span>
+                            <span>${news.published_date}</span>
+                        </div>
+                        <div class="news-snippet">${news.snippet || ''}</div>
+                        <div class="news-footer">
+                            <span class="tag">#${news.category}</span>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('newsList').innerHTML = newsHTML || 
+                '<div style="text-align: center; padding: 60px; color: #999;">해당하는 뉴스가 없습니다</div>';
+        }
+
+        function getTimeAgo(dateString) {
+            const now = new Date();
+            const date = new Date(dateString);
+            const diff = Math.floor((now - date) / 1000 / 60 / 60);
+            
+            if (diff < 1) return '방금 전';
+            if (diff < 24) return `${diff}시간 전`;
+            const days = Math.floor(diff / 24);
+            return `${days}일 전`;
+        }
+
+        // 페이지 로드
+        window.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>
