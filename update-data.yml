@@ -1,0 +1,53 @@
+name: Update BigTech News Data
+
+on:
+  schedule:
+    # 매일 오전 9시(KST)에 실행 (UTC 0시)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # 필요한 패키지가 있다면 여기에 추가
+        # pip install requests beautifulsoup4
+    
+    - name: Run crawler
+      run: |
+        python scripts/run_bigtech_crawler.py
+        
+    - name: Copy latest data
+      run: |
+        # 가장 최근 생성된 JSON 파일을 찾아서 latest로 복사
+        LATEST_FILE=$(ls -t bigtech_data_*.json | head -1)
+        if [ -f "$LATEST_FILE" ]; then
+          cp "$LATEST_FILE" docs/data/bigtech_data_latest.json
+          echo "Updated data file: $LATEST_FILE"
+        fi
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add docs/data/bigtech_data_latest.json
+        git add bigtech_data_*.json bigtech_report_*.md bigtech_data_*.csv || true
+        
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update: BigTech news data $(date +'%Y-%m-%d %H:%M')"
+          git push
+        fi
