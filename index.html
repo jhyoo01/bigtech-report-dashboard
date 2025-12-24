@@ -508,6 +508,10 @@
                 const isBreaking = news.importance_score >= 70;
                 const timeAgo = getTimeAgo(news.published_date);
                 
+                // 한글 번역이 있으면 사용, 없으면 원문
+                const title = news.title_ko || news.title;
+                const snippet = news.snippet_ko || news.snippet || '';
+                
                 return `
                     <div class="news-card" onclick="window.open('${news.url}', '_blank')" style="position: relative;">
                         <div class="importance-score">📊 ${Math.round(news.importance_score)}</div>
@@ -516,13 +520,13 @@
                             <span class="badge badge-${news.company.toLowerCase()}">${news.company}</span>
                             <span class="badge-time">⏰ ${timeAgo}</span>
                         </div>
-                        <h2 class="news-title">${news.title}</h2>
+                        <h2 class="news-title">${title}</h2>
                         <div class="news-meta">
                             <span>${news.source}</span>
                             <span>•</span>
                             <span>${news.published_date}</span>
                         </div>
-                        <div class="news-snippet">${news.snippet || ''}</div>
+                        <div class="news-snippet">${snippet}</div>
                         <div class="news-footer">
                             <span class="tag">#${news.category}</span>
                         </div>
