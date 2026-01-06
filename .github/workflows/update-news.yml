@@ -1,3 +1,5 @@
+
+
 name: Daily BigTech News Update
 
 on:
@@ -5,6 +7,9 @@ on:
     # 매일 오전 9시 (한국시간 기준, UTC+9 = UTC 0시)
     - cron: '0 0 * * *'
   workflow_dispatch:  # 수동 실행도 가능
+
+permissions:
+  contents: write
 
 jobs:
   update-news:
