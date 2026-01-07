@@ -39,10 +39,19 @@ jobs:
       - name: Run BigTech News Crawler
         run: |
           python scripts/update_news.py
-      
-      - name: Commit and push if changes
+
+- name: Commit and push if changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # 최신 상태로 업데이트
+          git fetch origin
+          git rebase origin/main
+          
           git add bigtech_data_latest.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')" && git push)
+          
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
+            git push origin main --force-with-lease
+          fi      
