@@ -11,7 +11,7 @@
 [🚀 라이브 데모](https://jhyoo01.github.io/bigtech-report-dashboard/) | [📖 문서](DEPLOY_GUIDE.md) | [🐛 버그 리포트](https://github.com/jhyoo01/bigtech-report-dashboard/issues)
 
 </div>
-
+ 
 ---
 
 ## ✨ 주요 기능
