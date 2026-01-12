@@ -41,17 +41,20 @@ jobs:
           python scripts/update_news.py
 
 - name: Commit and push if changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # 최신 상태로 업데이트
-          git fetch origin
-          git rebase origin/main
-          
-          git add bigtech_data_latest.json
-          
-          if ! git diff --quiet || ! git diff --staged --quiet; then
-            git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
-            git push origin main --force-with-lease
-          fi      
+  run: |
+    git config --local user.email "github-actions[bot]@users.noreply.github.com"
+    git config --local user.name "github-actions[bot]"
+    
+    # 변경사항 확인 및 커밋
+    git add bigtech_data_latest.json
+    
+    if ! git diff --quiet --cached; then
+      # 최신 상태로 업데이트
+      git fetch origin
+      git rebase origin/main
+      
+      git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
+      git push origin main
+    else
+      echo "No changes to commit"
+    fi
