@@ -37,13 +37,19 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          git add data/bigtech_data_latest.json
-          
-          if ! git diff --quiet --cached; then
-            git pull --rebase origin main
-            git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+                   
+      # 변경사항 확인
+      if git diff --quiet data/bigtech_data_latest.json; then
+      echo "No changes to commit"
+      exit 0
+    fi
+    
+      # 최신 상태로 업데이트
+      git stash
+      git pull --rebase origin main
+      git stash pop || true
+    
+      # 커밋 및 푸시
+      git add data/bigtech_data_latest.json
+      git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
+      git push origin main
