@@ -277,8 +277,7 @@ class BigTechNewsUpdater:
         }
         
         return data
-        
-        
+    
     def save_json(self, data):
         """JSON 파일 저장"""
         # 디렉토리 생성
