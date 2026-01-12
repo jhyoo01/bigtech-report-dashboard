@@ -1,0 +1,51 @@
+name: Daily BigTech News Update
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml --break-system-packages
+      
+      - name: Run BigTech News Crawler
+        run: |
+          python scripts/update_news.py
+      
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          if [ ! -f data/bigtech_data_latest.json ]; then
+            echo "Error: data/bigtech_data_latest.json not found"
+            exit 1
+          fi
+          
+          git add data/bigtech_data_latest.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git pull --rebase origin main || echo "Nothing to pull"
+          git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
+          git push origin main
