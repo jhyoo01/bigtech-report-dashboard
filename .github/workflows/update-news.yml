@@ -1,16 +1,9 @@
-
-
 name: Daily BigTech News Update
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 매일 오전 6시
+    - cron: '0 21 * * *'  # 매일 오전 6시 (KST)
   workflow_dispatch:      # 수동 실행
-  push:                   # 이거 추가! 푸시할 때마다 실행
-    branches:
-      - main
-    paths:
-      - '.github/workflows/update-news.yml'  # 이 파일 변경 시만
 
 permissions:
   contents: write
@@ -21,7 +14,7 @@ jobs:
   update-news:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 이 줄 추가!
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -39,22 +32,18 @@ jobs:
       - name: Run BigTech News Crawler
         run: |
           python scripts/update_news.py
-
-- name: Commit and push if changes
-  run: |
-    git config --local user.email "github-actions[bot]@users.noreply.github.com"
-    git config --local user.name "github-actions[bot]"
-    
-    # 변경사항 확인 및 커밋
-    git add bigtech_data_latest.json
-    
-    if ! git diff --quiet --cached; then
-      # 최신 상태로 업데이트
-      git fetch origin
-      git rebase origin/main
       
-      git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
-      git push origin main
-    else
-      echo "No changes to commit"
-    fi
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add data/bigtech_data_latest.json
+          
+          if ! git diff --quiet --cached; then
+            git pull --rebase origin main
+            git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
