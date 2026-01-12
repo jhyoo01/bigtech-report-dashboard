@@ -279,11 +279,16 @@ class BigTechNewsUpdater:
         return data
     
     def save_json(self, data):
-        """JSON 파일 저장"""
-        with open('bigtech_data_latest.json', 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        
-        print("✅ bigtech_data_latest.json 업데이트 완료!")
+    """JSON 파일 저장"""
+    # 디렉토리 생성
+    os.makedirs('data', exist_ok=True)
+    
+    # data 폴더에 저장
+    filepath = 'data/bigtech_data_latest.json'
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ {filepath} 업데이트 완료!")
     
     def run(self):
         """전체 프로세스 실행"""
