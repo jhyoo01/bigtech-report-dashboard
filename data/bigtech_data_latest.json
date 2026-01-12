@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-01-12T06:11:23.986893",
+  "timestamp": "2026-01-12T06:29:45.358531",
   "statistics": {
     "Google_count": 50,
     "Meta_count": 50,
     "YouTube_count": 30,
     "TikTok_count": 44,
-    "PayPal_count": 30,
+    "PayPal_count": 31,
     "Stripe_count": 31,
     "Microsoft_count": 49,
     "Amazon_count": 50
@@ -26,7 +26,7 @@
       },
       {
         "title": "‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk - The Guardian",
-        "title_ko": "'위험하고 놀라운': Google은 사용자의 건강이 위험에 처한 후 AI 요약 중 일부를 삭제합니다.",
+        "title_ko": "'위험하고 놀라운': Google은 사용자의 건강이 위험에 처한 후 AI 요약 중 일부를 삭제했습니다.",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0RmX0JwOU1JZVZQeTl1OE42czJQcDVXRWdhVWZMRWszT1RVZG9rb0p4a19Ca1d1OFR2UFh2aXBDdURJQ0dibDhaalB6NmhGZWVyZzZKYU5ZbWdMR0hWakRwR3JsSm5vX0ZOWUItT3h6cG4zN3ZaNDQ4cnpPa1loVktzOWdyRDZDT01oTElLQmlWdFJ0TVJXWW1tZ2tlSEVQQ3c?oc=5",
         "snippet": "‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk  The Guardian",
         "snippet_ko": "'위험하고 놀라운': Google은 사용자의 건강이 위험에 처한 후 AI 요약 중 일부를 삭제합니다.",
@@ -101,7 +101,7 @@
         "title_ko": "Google 공동 창업자들이 캘리포니아를 떠날 수도 있습니다 - TechCrunch",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEl5bC10NlVuaU1sU0FCbnFxc2dDYWZoSDQ1SDBxMHBSdGQxdUpoVnphQUx0SmhxeGtYLWRScXZHaDhyV205c043SjNvMHYxdXFUVk5vZmd6THpzYlM5UVZIaVUtRFdjaGI5SEdEbXA2NkdPNm9HTTVfSHVOQ3l3QjBFdXRmUkdtWnBzVlVNOA?oc=5",
         "snippet": "Google co-founders may be leaving California  TechCrunch",
-        "snippet_ko": "Google 공동 창업자들이 캘리포니아를 떠날 수도 있습니다 TechCrunch",
+        "snippet_ko": "Google 공동 창립자, 캘리포니아 TechCrunch를 떠날 수도 있음",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
@@ -110,7 +110,7 @@
       },
       {
         "title": "DuckDuckGo vs. Google: The Search Engine Choice That Says Everything About You - PCMag",
-        "title_ko": "DuckDuckGo 대 Google: 당신에 대해 모든 것을 말해주는 검색 엔진 선택 - PCMag",
+        "title_ko": "DuckDuckGo 대 Google: 당신에 대한 모든 것을 말해주는 검색 엔진 선택 - PCMag",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXQ0dmxRN0ZrNzN3ZHRfazNqR1hSTE91WlNqT1FYQlNBbzBCeVpHSVFLSFpXTlZiM3RFS21TdS1JbHNhbEpSUDVmS3pkUWd3Y3dyc2dUSE40WDhNYThBeVU3a2RDOVg2STdaWi15ZkVsWmpjQ2stM3lYVV81U3ZlTmhVOGEtbVJQUG1Udk5xY3F1Z25jQkR3Y0pNRThaSUNHb2x5Z2c0NjZqZw?oc=5",
         "snippet": "DuckDuckGo vs. Google: The Search Engine Choice That Says Everything About You  PCMag",
         "snippet_ko": "DuckDuckGo 대 Google: 당신에 대한 모든 것을 말해주는 검색 엔진 선택 PCMag",
@@ -121,14 +121,14 @@
         "company": "Google"
       },
       {
-        "title": "Google Maps finally gets this new menu for both Android and iOS versions of the app - PhoneArena",
-        "title_ko": "Google 지도는 마침내 Android 및 iOS 버전의 앱 모두에 대해 이 새로운 메뉴를 제공합니다 - PhoneArena",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnhmVU1SS3MtVkZtV2ZkU0I2YWFWckFXblFGSFYxSEJHbHdYc05yZGZ2LURZd01GTnVzb05nS1Q4NmJkWG5nU25pdVJPRHVTSEJOaGc5RGNWNWEzYTNXQTlrWGdkdzZ4cUplREk5YXpuZjhwS1JVNFVuU3NoTnpCZjhqRFBOTWZiV0E?oc=5",
-        "snippet": "Google Maps finally gets this new menu for both Android and iOS versions of the app  PhoneArena",
-        "snippet_ko": "마침내 Google 지도에 Android 및 iOS 버전의 앱 PhoneArena에 대한 새로운 메뉴가 추가되었습니다.",
+        "title": "Musician wrongly branded a sex offender by Google AI summary wants to sue over canceled concerts - New York Post",
+        "title_ko": "Google AI 요약에 의해 성범죄자로 잘못 낙인찍힌 음악가가 취소된 콘서트에 대해 고소를 원함 - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZHdNYkkzXzVrcTd3UUk2ejlRQ19TbzN1RjU1bzctSWMxNE5jXzF0VlRkdk1VbkUtclFpanhWMmZwOEFac3VTTTVSSTk1MTBadG1vSUVuSmRVUXRsdmRqREpRYTZhamJuZjdaT2pQSFFkS01qUTM2QWp3WG0xa191Y3VfcE4xMEYwUnVuczNtSmV0SURNRmhIeWVCWnFDaEwyQWh6Z1BGam0wQWxOVkxndTJ4YkRzOVA1LVlXUGxBbWp1ZmZxSG4zaEhsQkN5dW9fTGdvRA?oc=5",
+        "snippet": "Musician wrongly branded a sex offender by Google AI summary wants to sue over canceled concerts  New York Post",
+        "snippet_ko": "Google AI 요약에 의해 성범죄자로 잘못 낙인찍힌 음악가가 취소된 콘서트에 대해 고소를 원함  New York Post",
         "source": "news.google.com",
         "published_date": "2026-01-11",
-        "category": "Market Trends",
+        "category": "Technology Innovation",
         "importance_score": 50.0,
         "company": "Google"
       },
@@ -209,7 +209,7 @@
         "title_ko": "Google, 에이전트 주도 쇼핑을 위한 Universal Commerce Protocol 출시 - Search Engine Land",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0NlF4Q3RiT3hwbEJsS0NzelYzMzlrZFJWcTAwR0V0NmpFYm1BaVBaU3NBLTN3dVIxYVRuRzhWbDZNZl9scWxjbm9BQUhBTjd6LUdvOGlsNEd6aUZGVUxIWnk1VFdpdGo3c1VyN1hoV0NHOGZpUnRwZmhR?oc=5",
         "snippet": "Google launches Universal Commerce Protocol for agent-led shopping  Search Engine Land",
-        "snippet_ko": "Google, 상담원 주도 쇼핑을 위한 Universal Commerce Protocol 출시  Search Engine Land",
+        "snippet_ko": "Google, 에이전트 주도 쇼핑을 위한 Universal Commerce Protocol 출시  Search Engine Land",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Product Launch",
@@ -218,7 +218,7 @@
       },
       {
         "title": "Google Matches OpenAI on Shopping - The Information",
-        "title_ko": "Google이 쇼핑에서 OpenAI를 매칭합니다 - 정보",
+        "title_ko": "Google은 쇼핑에서 OpenAI를 매칭합니다 - 정보",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUWo1WFFUSnlEWWpVTDE1c2R0RFZDRE9ndXNPRDNxanJwdldGRjhCM2J2T3RkQzdqTFpRWTF1ZWRlckZSNm9Nb29kaVBPck1LeTRqSXVWcVBhVW9tZ1RRXzRxaEMzemZKMC1uWC1KWTZGcDdiWWJpVS1B?oc=5",
         "snippet": "Google Matches OpenAI on Shopping  The Information",
         "snippet_ko": "Google은 쇼핑에서 OpenAI를 매칭합니다. 정보",
@@ -255,7 +255,7 @@
       {
         "title": "Google’s AI Advantage, CES 2026 Highlights and More | Technology for Jan. 11 - WSJ - The Wall Street Journal",
         "title_ko": "Google의 AI 장점, CES 2026 하이라이트 등 | 1월 11일 기술 - WSJ - The Wall Street Journal",
-        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNcXdocTlPelk2bE5VcDZsTFBmUk1PQ1hhNmxjbGZIb3QwcUE1dUVmOVhXbjNsTEh4QnNfVkJMR2NvQ2prd3FTbGhfLW9BWlpOQ1RsRE9HQnU2UFJLMnQtTXVxN2ZqOWN0Y05vbWRzdF9jYTdtaGluZmtQSmUxYVYzMzJxN1BoQzRBY0p5TTI1ek5yTHVidDdfRTZyVjFEM2p2N0JpcERMVlhFTUVzVDNUOW12RHZyNGdWaXJXRnkxVFpxNFBYb1pXS0kyLU9Uc2Uxb1VYUzVTZUlsRi12YThtWE56TVpVS1VaLW9UWkUxaW9JUEVVUDd5V3dzVklwX0FGVHFHSWtkTTRxTy1oRGZhVWhQem5pc09vSVowWG5zNWRkZ2VOV2pMWHNhMHRPYjBzaG5BU1RRUEE4WkF4eE1zTV8yaDg5M0dhYWkwaExYT29YbEx2UTYxVzVVSnhJTmJKZXZJcC1faTVuUXhPYUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNS0g4VTE2cWt2XzY5WGZyRzdWajFXbTB5SHpvNFdQTzdCSllIWG5QcHphQWNZQ3p0Yjl2cE5FZ0psVDA0dkIxVnk2ZGQ1OTQ5N204NHl2azNVdGF1NTJHSDFpcXBHMVMxLUpEMHlXdFlHUnF3M0Q1NjZrTGtHTGZBcFllSndaSElOaG1UaEN6UGh3NGVReHlMVmVLOTNlaVZHSExOVjg3VnpEYzdCeDlnOVZOWlE5bXFvaE15ZEQwWk1DaTRndDk4dmwzUVUwM05ISkdoZDdsaF9KbjBvQ3pBNTFGMjFuTW1TNDhYczVwQUtydXF0WjJSLUZoUi1MMUFfRFZHZ09MdzBWYXVJN0ZPYTI3S1AtdnpjU0pFbFBRVjBMOFVBOGZSbUJPdXZLRHk0X0FoZzhvVXYwTkVSOVNTVVJfQXhGTlliRUliN0RHZVUxRW50a0wxbXBOOHo4d3RJZWxVN18wWWxTMGhleFE?oc=5",
         "snippet": "Google’s AI Advantage, CES 2026 Highlights and More | Technology for Jan. 11 - WSJ  The Wall Street Journal",
         "snippet_ko": "Google의 AI 장점, CES 2026 하이라이트 등 | 1월 11일 기술 - WSJ  The Wall Street Journal",
         "source": "news.google.com",
@@ -297,18 +297,6 @@
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Google"
-      },
-      {
-        "title": "Google unveils new agentic commerce protocol for retailers - American Banker",
-        "title_ko": "Google, 소매업체를 위한 새로운 에이전트 상거래 프로토콜 공개 - American Banker",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWpMV09yRFNLNDFGSVo5SXM4NGxKQ3Z5U1lrNkNqclZ6Zk1IdkdpdDMzUVJlX241ZW9aZFJaMnpLMjN4NFFQV1JTUE5WU00ydUhKWTBNSTF6XzBZYlNSUXN1cVN3YXEwNXNtdC1iaUhBNkNhTFg4Wkx6ejFvODF1NVlmTWhpc2RxaXJqUFo2bWhOdHJMbHpOOUExVEZLREh4cl9z?oc=5",
-        "snippet": "Google unveils new agentic commerce protocol for retailers  American Banker",
-        "snippet_ko": "Google, 소매업체를 위한 새로운 에이전트 상거래 프로토콜 공개  American Banker",
-        "source": "news.google.com",
-        "published_date": "2026-01-11",
-        "category": "Product Launch",
         "importance_score": 50.0,
         "company": "Google"
       },
@@ -397,11 +385,23 @@
         "company": "Google"
       },
       {
-        "title": "Why Warren Buffett Finally Bought Alphabet Shares - The Motley Fool",
-        "title_ko": "워렌 버핏이 마침내 알파벳 주식을 매입한 이유 - 잡다한 바보",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWc4bFBWV05sVXJWWVFEWFl3Uy04Mnc2bFNuSURNTmstenkxb014RVZVQjZEaEw1TVVYcXI5ZlpBeldlam5rN2E0S0xFTDlHU2lQTGdXVm9JeDhROEVIMWhZMVhDN1MzLWZMMUhhaGg2OXZUQ0JSRW9Gc1A4Q2FFd1pWckZsaGVKVWltZjNlakJTeGU1bE5j?oc=5",
-        "snippet": "Why Warren Buffett Finally Bought Alphabet Shares  The Motley Fool",
-        "snippet_ko": "워렌 버핏이 마침내 알파벳 주식을 매입한 이유",
+        "title": "Top Research Reports for NVIDIA, Alphabet & Amazon.com - TradingView — Track All Markets",
+        "title_ko": "NVIDIA, Alphabet 및 Amazon.com에 대한 최고 연구 보고서 - TradingView — 모든 시장 추적",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHYxYWhEOGZhVVFGSW9jQ3g2a09BTXZRbkl6SFdXMWFJQXVQNXlqZFV4Wk5mbldZRFUzaWgyNHBGaU55ci1NQXFvVndhVkd5bjBvR2tFN3ZmRmJVbWVkbzdrQms5YWN5b3p2ZlJtYktjVFZfNWdiSTZwd2pWZ3UwaVNWVFZtUTA2RHl4QWs3cVV4NkZkNWE5REd1Y1dpaElPcFF2SVY3SUs5aG8?oc=5",
+        "snippet": "Top Research Reports for NVIDIA, Alphabet & Amazon.com  TradingView — Track All Markets",
+        "snippet_ko": "NVIDIA, Alphabet 및 Amazon.com에 대한 주요 연구 보고서  TradingView — 모든 시장 추적",
+        "source": "news.google.com",
+        "published_date": "2026-01-09",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Google"
+      },
+      {
+        "title": "Why Warren Buffett Finally Bought Alphabet Shares - Yahoo Finance",
+        "title_ko": "워렌 버핏이 마침내 알파벳 주식을 매입한 이유 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXRQQU1jd3RyYWU0TjcxRjVWUWxpRHRUYWtIeDVOaEZwcDBieV9Pd3ByakQtQTZHX2VTQnVrUmNlSlN3amZrWDhFZ2Qxak8xUmNDY2VXS0NhcmFrd2dVeWRTME5yaGtTRFFyRXlIQ2d1bmdGdF9HdmtsRUd4d3BYZmZnTzFiUQ?oc=5",
+        "snippet": "Why Warren Buffett Finally Bought Alphabet Shares  Yahoo Finance",
+        "snippet_ko": "워렌 버핏이 마침내 알파벳 주식을 매입한 이유 Yahoo Finance",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Market Trends",
@@ -421,18 +421,6 @@
         "company": "Google"
       },
       {
-        "title": "Advertising revenue of Google from 2001 to 2024 - Statista",
-        "title_ko": "2001년부터 2024년까지 Google의 광고 수익 - Statista",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDelNHSVd2cEZTR2RIeElRMUlhNVV4QzZ1ZE4wNGt3T0FuS0Z4cEdKVHpSd1o3OHVyYVFldmZBcmoxLVcwRnNIcVlxbWtPaDNlMTlQREw4S2dQWFFyZ0lxNFBhNkY2Z1BkMWZ3RnhremJqUlNGdENvMTd2TWRWZw?oc=5",
-        "snippet": "Advertising revenue of Google from 2001 to 2024  Statista",
-        "snippet_ko": "2001년부터 2024년까지 Google의 광고 수익  Statista",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Financial Results",
-        "importance_score": 50.0,
-        "company": "Google"
-      },
-      {
         "title": "Gmail is entering the Gemini era - blog.google",
         "title_ko": "Gmail이 쌍둥이 시대로 접어들고 있습니다 - blog.google",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbk9wOVIyU0lMRGhEaWRxTDRhdkU0ekJDRGM4aXhWSDlpc2d5ZGl5RG5HbGdMSnBpM19jekdCc2JCRTI0YTByODdYWUtlUXVQbTVLOGVpYzBiMGlsSU90SzNoZ1JkQjl4N0RvbDJabVk3aDhyUVBpb2NSQkpiQ3hSMzhtdE9aSlMxNnVFN0tQanAyYzUxLWc?oc=5",
@@ -441,6 +429,18 @@
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Technology Innovation",
+        "importance_score": 50.0,
+        "company": "Google"
+      },
+      {
+        "title": "Advertising revenue of Google from 2001 to 2024 - Statista",
+        "title_ko": "2001년부터 2024년까지 Google의 광고 수익 - Statista",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDelNHSVd2cEZTR2RIeElRMUlhNVV4QzZ1ZE4wNGt3T0FuS0Z4cEdKVHpSd1o3OHVyYVFldmZBcmoxLVcwRnNIcVlxbWtPaDNlMTlQREw4S2dQWFFyZ0lxNFBhNkY2Z1BkMWZ3RnhremJqUlNGdENvMTd2TWRWZw?oc=5",
+        "snippet": "Advertising revenue of Google from 2001 to 2024  Statista",
+        "snippet_ko": "2001년부터 2024년까지 Google의 광고 수익  Statista",
+        "source": "news.google.com",
+        "published_date": "2026-01-08",
+        "category": "Financial Results",
         "importance_score": 50.0,
         "company": "Google"
       },
@@ -481,21 +481,9 @@
         "company": "Google"
       },
       {
-        "title": "Alphabet overtakes Apple as world's second-most-valuable company behind Nvidia - Yahoo Finance",
-        "title_ko": "알파벳, 애플 제치고 엔비디아에 이어 세계 2위 기업 가치 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmR5M0V6aVhqT1JxZHdUZlZXRXg0azk4QWl0eGpuMFozekwySXM4RFlTeGx5MmFZOExJQWVtcW84SFRpNVVpcHo4TU4yRlFiMG4zVzBGR0syQWlDYkM3UGpkZHROLXpadm9FbDVtRmZoQ0UtZ211c3ZJUFlLeVFiQl9veEtNZVZ6Mnp0UUtpaDBYbDVXa0dmaFZiclpSVVYtQmI2UjYzN3drd0ZkR3ROQUxDZ0xWbG1HbnV3VXVkZ0o?oc=5",
-        "snippet": "Alphabet overtakes Apple as world's second-most-valuable company behind Nvidia  Yahoo Finance",
-        "snippet_ko": "Alphabet, Nvidia Yahoo Finance에 이어 세계에서 두 번째로 가치 있는 기업으로 Apple 제치고",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Google"
-      },
-      {
         "title": "Alphabet Stock Gets an Upgrade. How Google’s Gemini Will Beat ChatGPT. - Barron's",
         "title_ko": "알파벳 주식이 업그레이드됩니다. Google의 Gemini가 ChatGPT를 이길 방법. - 배런의",
-        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOV3dVdWZJeVBEZW1SZnBHa18ydDNjemZlY1hrYk9Ncm5uWGZIbG96TnpuRkRFbTEyN3pIZ3h1T2ItV1k2V0NGRGZjSkxmd2RtLVpRRWdqaUxBNDZFMDhaTHc2Z1dFWHAxMEZmRmVheWNxamN2MFNmYk1KZDR3QWxrMW92Q0gtdUZzNUxxbkk4V2dYMlp1emljVmpwNElMRGdlSTY1dFp0RTl6RnNaT01WTlZ1WUpmUmlqU1NORXF0ck82R2ZRbW9kNVdZX2ExZ0kxSm1WMVVPaGNWMl9Tcy1RSC1fYUg1MkNFckRpbjVKRWJpR3hlWXQ2dHpRdmRITnZmQy10LUMxclp2REUzTE1XLXhYVUdoU0drd2w0b0RHQllCODlNaUhXaXMtcGJieUg4Qkg4RXp5VWlpMXpzeUpiUjVuc2hZTVNvUVlxOTlmS05QOXdzbnFYTGhpdk1jdVJ0M1ZlZy16dHA1QmNDR2VRZVFRSzg0dWZudVd5aWFERWNPRUFYOC1qYW5GZUVsYVFUYXN1T2w3Rk1peUpy?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPVGp0Ni0tdFZpdV9yY3NaOGhLcm1Yb2RlZ1hPM01xdTNGVU1IeEhKZEx4cW90REJZb21VUlQwak1US01BLUF1QXUxNEhIeDNNU3J3SEloMUZVWjNqWERaT1JZVVlxOWZnbWJxUENKbHNSRkJaT3UwZWVnUUlEeGdmb1NWRjVBMlVKZWtrcDZBZE5YbXR6a2hfS3FJbUNUTWRmZHRubWI3c2c5NzZBcnBDSnE4a3luOE82VlB3ZmluX2l2dElCM2FHUjlBVHByRnBQSUstVVowOUhKUUhrQ0dkN3hWNFE0Q2dZLTYxb0dVbUlGWFdVN2tCZW9UdEY2bDdOZlNSYTc5eXJ0NTI1dTJtWENGSmV3WmhuM2hCMmI3bER6MmFVMmdrdDZWNWRzcGRicWE1LVpmVjdiWUFfZTdTSjhhODh0Z1l1ZWNud3NtcVhLRXdTalNfX3UzRFFiQnFZRjZoQllFbWhJWmpMdDRGQVZRSEoyNlphVE9teGZ0clJvckc3dWN1cjlqOTVTQlRCVXdlVWplZnhUZE9O?oc=5",
         "snippet": "Alphabet Stock Gets an Upgrade. How Google’s Gemini Will Beat ChatGPT.  Barron's",
         "snippet_ko": "알파벳 주식이 업그레이드됩니다. Google의 Gemini가 ChatGPT를 이길 방법.  배런스",
         "source": "news.google.com",
@@ -507,12 +495,24 @@
       {
         "title": "Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026 - MarketWatch",
         "title_ko": "2026년 알파벳 주식이 AI 거래의 '왕'으로 군림할 수 있는 이유 - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQT3lucF9NTGxHbk1OSWVfeVlkdFdxSDFwck9jVHVVdjRCeFRNWnZCM2JzRG5jRkkwSHNBaXEtVEFQN215QnJfTGJub25ENGswQ1ZqRVhnVnpVbl91Sm03eDlVZ3BPbXFMTnJvSF9paWNoZkluMVRFN0QyQ05VWmd0bFQ1dkE5a3VDZ3FnUGg2Tkh2dHUxVGxfMnRhbnFjNEs5bGNHQUNWR1k0VXA4bHVQYXFmLTFnS2ZFQjlPZzV0Zl9nZzB5RkplWktuZmNlc3dpWElXV1M1RzdNMzZndmJUUWpLNkNiM3BwYWJ6d05qV0h5RUl5NjRrYkdMaDdOdnVuZF9oUWJ2TWRRRDRzd0xGVmM1UWg5NGpnQVJESG9PQ3Z0M056M1FONmtBT3FlLUk3ZmhPMGowbmZFU2ppWThkX1lwSDNLQkpIZTRTYk5JNWtoSEx5Y0V3ekFLSV9rVnUyT3JhOEd6VEswOTJzSlBDcEl2UzZDYmNNUGd6eTh5ck14UTJPeTBQWDNmWGtZV0djTEhaOHdWbGVJaWVhOG1NM1FxN3RyMzJ5alhTQWFPQXlURndxYTNB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQVGptR0dYWlV4bTBTNkthNUhlS0pDbHRfQnV1REYtUG5XVzgzR0h5bjZNQXc4TkFkODB2OUVRR0RBY3VPbUZCUk93XzFDTjFjSG80RjlIMDVfLWxaTjNYN2RGYVQ3Y2N5WGQyZmUyM1NMZVFxeVVhbURDSlJkOEp4Z1VjbGFCZ04ySzAzdXp3QnR2Y09JOVZtaGo0WXZvcWhSNGM0Z2ZGMUcyQU5KS25waF9nWmlwR2ZnLVN6RDBSenBLU2dObkhnbVpOZkRGLUIwV1M3em1Va2t1VjlHNHRwal96QW5HYW13eE5TdGZBN0ZfR0pkZ3A0dE9yZXZuQUJaX1ZtRE92WERIWm13a1ljM01QUzNpTG9sNUwtdlFwdklvVktzdG5TdDZLMHhXYUNmdV8wM0pFQ2ZIZEhWY1ViLV9mTzFKaDY2alEwNlREZXNRdDZta3BHRDZGVXFaSGY0YTdGLWs0MmkzVVRBYVJSdFFFQjlvdUVSRWZiS0FCSURfVlRlNDBhZmlqUUxnZnoyUUxyNmVRTUVXY2thRERiWmZRaFRSU3VBcmdQTFl1NlRrNHAzUWFn?oc=5",
         "snippet": "Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026  MarketWatch",
         "snippet_ko": "2026년 알파벳 주식이 AI 거래의 '왕'으로 더욱 군림할 수 있는 이유  MarketWatch",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Financial Results",
+        "importance_score": 50.0,
+        "company": "Google"
+      },
+      {
+        "title": "Alphabet overtakes Apple as world's second-most-valuable company behind Nvidia - Yahoo Finance",
+        "title_ko": "알파벳, 애플 제치고 엔비디아에 이어 세계 2위 기업 가치 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmR5M0V6aVhqT1JxZHdUZlZXRXg0azk4QWl0eGpuMFozekwySXM4RFlTeGx5MmFZOExJQWVtcW84SFRpNVVpcHo4TU4yRlFiMG4zVzBGR0syQWlDYkM3UGpkZHROLXpadm9FbDVtRmZoQ0UtZ211c3ZJUFlLeVFiQl9veEtNZVZ6Mnp0UUtpaDBYbDVXa0dmaFZiclpSVVYtQmI2UjYzN3drd0ZkR3ROQUxDZ0xWbG1HbnV3VXVkZ0o?oc=5",
+        "snippet": "Alphabet overtakes Apple as world's second-most-valuable company behind Nvidia  Yahoo Finance",
+        "snippet_ko": "Alphabet, Apple을 제치고 Nvidia Yahoo Finance에 이어 세계 2위 기업 가치",
+        "source": "news.google.com",
+        "published_date": "2026-01-08",
+        "category": "Market Trends",
         "importance_score": 50.0,
         "company": "Google"
       },
@@ -525,18 +525,6 @@
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Google"
-      },
-      {
-        "title": "Alphabet Dethrones Apple Amid Tech Stock Shuffle - Yahoo Finance",
-        "title_ko": "알파벳, 기술주 셔플 속에서 애플 제압 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFc4NzVlRkJnMGdHZGhaX3NqdEN0RGJzQTVyTGpWdnhOcVhEU1I2ekVtUWw0angyMVN0MVhkRzFMbDFhWlhHMURkUEZRd1JIb1ItVTJHbEZEeWx3MkVUd1RHemVBMHhtcVhNTndqcTEwbVhRdW9ldWUyTDg0cFloZXZrODZ2UVk?oc=5",
-        "snippet": "Alphabet Dethrones Apple Amid Tech Stock Shuffle  Yahoo Finance",
-        "snippet_ko": "알파벳, 기술주 셔플 속에서 애플 제압 야후 파이낸스",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Financial Results",
         "importance_score": 50.0,
         "company": "Google"
       },
@@ -555,9 +543,9 @@
       {
         "title": "Alphabet Surpasses Apple in Market Cap for First Time Since 2019 - Barron's",
         "title_ko": "알파벳, 2019년 이후 처음으로 시가총액에서 애플 추월 - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOTGdsbktCaElMUzFtMmFPNjhKZzhIN3ZmX0xQQzRxN0c0b1IwcGYtTm1oMzVobWFaZ2UzUUxJdTluR1dtSGhVY3h1SEVfTTc1bW5rb2g5cjl1OVdZMUhVbElydTlnUnhtWDVLaXNiUGhkdEhZejdmSmwzQUg1S05OOU5BUTBFeGpzTC1PTDZVR2RyMnM0VkdpeU84dTJPVmxobFlzWGktMXdITDVoVTRaclZMWUpIWDVYcFhlZkVKdFAwRUdhRUVkOEJJc0dSQXEydS04SzVJMFNWLXd3NEhqS2NFM0xrUG1NTlhfWTh4QTN3Z01TckdGRkItV3BqaFB2cmtqRWttVDBkeXVzYWkxbGFvYUh5SXVqUElPTG1zZ0hoZ2JBYVRLdXo0NTJEcWJvdUQydzNyR1pZdEdZeHQ1MTdtQ2kwS2JrM0R1NExBdklsdW1FMWdpcTFyS0dleTVNZVc4TkFjcmhpb0d5TERrTlgtTWttaldXek5tRWROSk5tZzg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPR01UUVdHcXdqU095RHVuX0JJNVhfd1EwRXZlSW9DNlV0UEx2RFN3akczTXdBZmotLXp6d3p4aVZwZGYyTzhGTTFlOHFja0NXY05JY3J4X1RTbVZyVmp0MVdUN0psWTh3MzlJUThBdks2ZG9rNUwyZkN6c3NvbTFNbTRJY0VKMHBBdFFKRDFjanBQdTlGdlNjVHhCcF9nZmtkVnNsbURaenZPMWRUaGhFZVA3RmNKWUVLeWtXWHZjb09rMGNaWWlxdWc3VmZDM1VjZWRGRThETVJRaGdFUDh4QUVwVzA5amxXWl9icDJvanVZNDEtNEIzcncyYXdqTkRzeG03NUczVnZxeTZFNXNKSE1zMXZmdHNCSzVpYkpvN1dKNEE0RmEwaERLajJSUGxfSmd2OTZ5M3prODc2c1FCemh4V0NIQ0hGYUNMeDlCWlZMbXRHVUNaTlBsUVMyQTluakNYMnRiMmZpQ2hnSEtLVzdtSGR2OGVjN1FSV0E5czFwT2c?oc=5",
         "snippet": "Alphabet Surpasses Apple in Market Cap for First Time Since 2019  Barron's",
-        "snippet_ko": "Alphabet, 2019년 이후 처음으로 시가총액에서 Apple 추월",
+        "snippet_ko": "Alphabet, 2019년 이후 처음으로 시가총액에서 Apple 추월  Barron's",
         "source": "news.google.com",
         "published_date": "2026-01-07",
         "category": "Market Trends",
@@ -567,7 +555,7 @@
       {
         "title": "How Alphabet surpassed Apple to become the second-most valuable company in the world - MarketWatch",
         "title_ko": "알파벳이 애플을 제치고 세계에서 두 번째로 가치 있는 회사가 된 방법 - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQZEg0SW1wenRWSTE2bEo5Z0FiMGhXcXhmcjFTY3NBazRjeWFTeThQUXMtU2s2M0pyLU53aVQtSGllWC1Vd2JxTE5aTGVwT2pZWkdBSHdmTm5BTS1JdWVXX1VNUnp2YXU2bTk5WW5ZVnBlN0p6SV9EOVBBZE8yOXB1UVR4NXlBZThnS2l4aEdhbXB6aVU1bWFIc183anZqRG85c0czRktfZzZ0dFJpTXpSd2M0NXNOQlJQRFJSX2xEdkUyR29HT3lvaXVTd3JlUEd6NWVTblpwRmRHeDBCajcxbkliYy1tWUJ6RGd3YWlCczQ1cDNFTDU4V1U0bVhFb0lRSEFWME9GMHpCSzkxMmFmMTVZV3AzdnJOaF9yR1RLTHYyR2txY3dGRG5xQkFLVnFGVkF4TTJ0dF9WN21yRi05Q1lxMjBMaWpFWTM3UDNYMzhDbDBaekhHUkZVV0hHMmhaeXlId1hiUGhBOEZVcDdBUTctX1ZSTm9XNzZ4Vi0wQy1wZlN5ejVtWHZ4ZDZudng4SllPdTNiVFdiZjJnVWJhN0NfLUZjWnhpTVZWZ0FLNW1hUlh6WktQLUJKcmZvVmVXR2p4SUgwY2lIX28?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPV3phZ2hNcjYxcEhPZlJ2Vnc5VEpXNndLQUtzYUw3N1loMWhacXBaUXd2SEk0cVRmR2o5cVNyZXF2TzYxS3BhdGhOYVFLVFdYRXNlbm5Jb2xDOUZRMlpqSnJqQ1l0ZDVmbTc4Sk1UV2NzOU5uTmV4LXU0RTdORHNIeGxKOFdUNmVRUTBCOUdxWjBVajRmRURiNTE5N0xySC1Tc3hwSURSRVpYcE9DcjVlczdFTXByWFNrbm9KVV8wVTlhb29oT2dXQVRaazJzcjNPQ2Faa2VIYktDRVJvNjF4SHdwOU9GTkw2S0IyTDJDMGJmYVRZSWtoT1JhUG00SXJRUlRNTzNjVDJMaC14d1NLRUxKYnRBVVdpblRIbTRrODFTbnNEc2tsTUloR01IRHlZTXdyel9pVEVUQXVCVmxqdkY2aEdCYXI1VDc0VmtrX3RYTlJaRWFXMDlqRERSNG9VdTloc3A0aDJ1cVBIMFRBZ21CdTE2Zi1NSWZVU2RCR2NXZEg0bmE1VnJ6V1h0YWJtaUpNQkdZbUxPNWdJb2FkeUtzU0hzbEdkUXFCUmJFTGhsNnUwRG9nQzB0OWxZb09lV214cl9Vak5lRFE?oc=5",
         "snippet": "How Alphabet surpassed Apple to become the second-most valuable company in the world  MarketWatch",
         "snippet_ko": "Alphabet이 Apple을 제치고 세계에서 두 번째로 가치 있는 회사가 된 방법  MarketWatch",
         "source": "news.google.com",
@@ -601,6 +589,18 @@
         "company": "Google"
       },
       {
+        "title": "Alphabet Takes A Swing At Nvidia, Making The Bull Case Stronger (NASDAQ:GOOG) - Seeking Alpha",
+        "title_ko": "알파벳은 Nvidia에서 스윙을 하여 Bull Case를 더욱 강력하게 만듭니다(NASDAQ:GOOG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkVNMzZVZkJ1cFhTTWFwVmY1YkxoNUlGSnE2YlI4LW5RYWJ0dVFZdlh2azloemc3ajVBZGcwb3RILUlJMV8tdHgwbkhSRk5tZlpqX1VRZGoxbkE1RmdObTFhMXczR0NFVE9INjJXVHIyc3FMSjgxVmpsWW5CSFJYVlhtbl8wUVRFS05zV3BmaXpnWHRUVTZueklzcUtoVUJDalpnckRR?oc=5",
+        "snippet": "Alphabet Takes A Swing At Nvidia, Making The Bull Case Stronger (NASDAQ:GOOG)  Seeking Alpha",
+        "snippet_ko": "Alphabet, Nvidia에서 흔들리면서 Bull Case를 더욱 강력하게 만들었습니다(NASDAQ:GOOG)  알파 추구",
+        "source": "news.google.com",
+        "published_date": "2026-01-06",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Google"
+      },
+      {
         "title": "Alphabet acquires clean energy developer Intersect for $4.75B - ESG Dive",
         "title_ko": "Alphabet, 청정 에너지 개발업체 Intersect를 47억 5천만 달러에 인수 - ESG Dive",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWpHZ2lhNzBTOXkydEZkX1pTS3NqU3RRWWd4NnEzMm9pYTRNRldhQmNVNmtfX2hLNnRYTF83WHA0ODVwMjN2SENsb2dwNWlPNFhXOW9BVm82VElwWjNfRHd3WWM0WGhScnVuSjJZM1JCWFliZjhYYzRzRlZiNmc3QXFKTUZSSnhCa05QT05lblpoOUhPUGFKWEkzWFhMWC1CX0dhSGlBaklFd3hZT3pLbmlUbUg2clExU0ZNOWRTOGI?oc=5",
@@ -627,6 +627,18 @@
         "company": "Meta"
       },
       {
+        "title": "China Is Investigating Meta’s Latest A.I. Acquisition - The New York Times",
+        "title_ko": "중국, 메타의 최신 AI를 조사 중 인수 - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96M2Q4QkpnWjBVV0RRVndGalBJY1d5SjdIbDBxbUNQU011RFRyLVlSaGdKajZTbnpjV09FRTJ4MVF5T05SamhLX3F5OE5SVnV4QUhSR0xndGZQVUZBR05RZ1ZnaFhfSE1NVUxmU1Zhdk0xZDlzbzhR?oc=5",
+        "snippet": "China Is Investigating Meta’s Latest A.I. Acquisition  The New York Times",
+        "snippet_ko": "중국, 메타의 최신 AI를 조사 중 인수  뉴욕타임스",
+        "source": "news.google.com",
+        "published_date": "2026-01-12",
+        "category": "Market Trends",
+        "importance_score": 60.0,
+        "company": "Meta"
+      },
+      {
         "title": "BREAKING: Syracuse UniversityPresident Kent Syverud to lead University of Michigan - facebook.com",
         "title_ko": "속보: 시러큐스 대학 켄트 시베루드(Kent Syverud) 총장이 미시간 대학을 이끌다 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjY0eEkxeWVqcWxXR0EzY1BZLWVZbWljdFVzcWJ0bzI1ZjhLSW9jWG54Y0RpVVJubE0xT2NfSFcweVJxNHd6X2RSYTZsUGRTV2YwU1k3OE53M05vbm1hOHlUX29KcjVvcHROSF9tRVBiNWZQcWJiejlIX0Q2d00zbmJ5QVItQ3A4NWc0U0Z6bmVNZzRNUVNWZkRBZElxQm9ZX0JnZnNBaXVJZWs0YkdGVHRmZC1KdGp4Z0gydXZSSnFDblRONkgxWVE5aFBfU0NNTzNHSkZPcW16MVF6eWkzNw?oc=5",
@@ -640,10 +652,10 @@
       },
       {
         "title": "Review: HBO’s “The Pitt” deservedly emerged as an Emmy darling this past year. The second season proves that the show understands its strengths — and its limits. https://wapo.st/4sLHTj4 - facebook.com",
-        "title_ko": "리뷰: HBO의 \"The Pitt\"는 작년에 에미상 후보로 떠올랐습니다. 두 번째 시즌은 이 프로그램이 자신의 강점과 한계를 이해하고 있음을 증명합니다. https://wapo.st/4sLHTj4 - facebook.com",
+        "title_ko": "리뷰: HBO의 \"The Pitt\"는 작년에 에미상 수상작으로 당연하게 떠올랐습니다. 두 번째 시즌은 이 프로그램이 자신의 강점과 한계를 이해하고 있음을 증명합니다. https://wapo.st/4sLHTj4 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWldnNXh5Zk9wUlhaQnozMXBmMzZRU3prR3I0dXI2YXVNV1VrdlJBV3ZLTkJwTDVid2dlTGg1UUN2T3JTekNtMmJ4OVZwVnNpMndhcFZQcGExMHBoUGZ2dGEyU3BfNW9BbDJ4VmRJckYtaEtDQ09jSjJXam9sb1c3bW1Hbk8zSkpUdDBnZ3RfUE9rTmI3a0E4dTkzWFpxeUNQQmN0bUcwVjlMdXZ1X25TMnI0Um03QkZCZ3RwLXVGbnF6a2Zid0g1UjhoTjZ1REJOMENEbmVDLVZmZkxXbFE?oc=5",
         "snippet": "Review: HBO’s “The Pitt” deservedly emerged as an Emmy darling this past year. The second season proves that the show understands its strengths — and its limits. https://wapo.st/4sLHTj4  facebook.com",
-        "snippet_ko": "리뷰: HBO의 \"The Pitt\"는 작년에 에미상 후보로 떠올랐습니다. 두 번째 시즌은 이 프로그램이 자신의 강점과 한계를 이해하고 있음을 증명합니다. https://wapo.st/4sLHTj4  facebook.com",
+        "snippet_ko": "리뷰: HBO의 \"The Pitt\"는 작년에 에미상 수상작으로 당연하게 떠올랐습니다. 두 번째 시즌은 이 프로그램이 자신의 강점과 한계를 이해하고 있음을 증명합니다. https://wapo.st/4sLHTj4  facebook.com",
         "source": "news.google.com",
         "published_date": "2026-01-12",
         "category": "Market Trends",
@@ -687,6 +699,18 @@
         "company": "Meta"
       },
       {
+        "title": "\"This recipe is spot on. My wife thinks I'm a pro when I cook it :).\" Looking for a simple, delicious spaghetti carbonara? Look no further: https://nyti.ms/4aOC3XG - facebook.com",
+        "title_ko": "\"이 레시피는 딱 맞습니다. 제 아내는 제가 요리할 때 프로라고 생각해요 :)\" 간단하고 맛있는 스파게티 카르보나라를 찾고 계시나요? 더 이상 보지 마세요: https://nyti.ms/4aOC3XG - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0JrcFRsWFJ2eHZFNEFfcjJyalp6ckxJTndQd3pGRmVWc1otVDJZSHhacElWbWdiZ0NTYzhZc25lUUxDc2NjbUU4RmpvNXdBZWZmTTVEMjFRTkpTV0hFTUMwUWNEUGZlNnNHVm1YTlEtMVRrS05YTldnbllIeW1zSlJvQjFoZW9MNlFITkNydnQ5VzNuNUJQaFNhN3ZVMWpZWUtKNzRPSUtIbXZUelliOE1xUGp1ZnNyLUtaT20yQzh6ajFHNllZRjlhMHFNb3pBTUhScg?oc=5",
+        "snippet": "\"This recipe is spot on. My wife thinks I'm a pro when I cook it :).\" Looking for a simple, delicious spaghetti carbonara? Look no further: https://nyti.ms/4aOC3XG  facebook.com",
+        "snippet_ko": "\"이 레시피는 딱 맞습니다. 제 아내는 제가 요리할 때 프로라고 생각해요 :)\" 간단하고 맛있는 스파게티 카르보나라를 찾고 계시나요? 더 이상 보지 마세요: https://nyti.ms/4aOC3XG  facebook.com",
+        "source": "news.google.com",
+        "published_date": "2026-01-12",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Meta"
+      },
+      {
         "title": "See all the looks from the Golden Globes red carpet here. https://nyti.ms/4qk9MNw - facebook.com",
         "title_ko": "Golden Globes 레드 카펫의 모든 룩을 여기에서 확인하세요. https://nyti.ms/4qk9MNw - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSTY1aFFlemFuZTFFRnFFWVZRLTVRcHBzRU9Ga010ZTFrb2pXOEx0RGwzTmFJR2FFYlpDX2xQNjlpNWE4QzlrQ056M2xZa0FfV1dmTXlIc0t3U1RITGVCZTFMcmZuNUxhREVyUW1DN0ZmWHcyc3Z0Yml6eEoyeW1VanJhMFhpN0h5Q1J5WjdsMy1sYlp5dzFnM3FZUTd4WVpaVko2MXVGWjUxVnRPaW9SSHcyVHNiNFZIbHQtSy1SZ0xVTS1fWFE3ZzlwaTVWQQ?oc=5",
@@ -715,7 +739,7 @@
         "title_ko": "'Hamnet'과 'One Battle After Another'가 골든 글로브에서 최고 영화상을 받았습니다: 전체 수상자 목록 https://deadline.com/lists/golden-globes-2026-winners-list/ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS3JoZ0RJaWFvUUZSM0VoVUQ5RThwSUFCZDJob1Z1cDJQWHFXNzNsaXVkcFZNb3pQVzYwNHpCakpHWjFadkdpcEFoclNCaGJQSmpFVDY3dXNsaDhGS1NWVmxDeVo1RGFqVFNNR04yWmpOUk5oQ3dqMVRSSHNuNmhCX1VWTnlLVVAtVjVsZ1RQd0Q3MzJ2VXRMM1FrUXpzMndnZGVMc3BzSkNUcjlmUmdnWjg5UXZaUTctWk5DdVhRSExpUVBVbGpXM29ZOEZOMmRzZlRTVGdR?oc=5",
         "snippet": "‘Hamnet’ & ‘One Battle After Another’ Take Top Film Prizes At Golden Globes: Full Winners List https://deadline.com/lists/golden-globes-2026-winners-list/  facebook.com",
-        "snippet_ko": "'Hamnet' 및 'One Battle After Another'가 골든 글로브에서 최고 영화상을 받았습니다: 전체 수상자 목록 https://deadline.com/lists/golden-globes-2026-winners-list/  facebook.com",
+        "snippet_ko": "'Hamnet' 및 'One Battle After Another'가 골든 글로브에서 최우수 영화상을 받았습니다: 전체 수상자 목록 https://deadline.com/lists/golden-globes-2026-winners-list/  facebook.com",
         "source": "news.google.com",
         "published_date": "2026-01-12",
         "category": "Market Trends",
@@ -759,35 +783,11 @@
         "company": "Meta"
       },
       {
-        "title": "See all the looks from the Golden Globes red carpet here. https://nyti.ms/4qnKFcK - facebook.com",
-        "title_ko": "Golden Globes 레드 카펫의 모든 룩을 여기에서 확인하세요. https://nyti.ms/4qnKFcK - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGZSREVCbE1UVmYtYU1Wd3FtU1hVLWJtNHpocGRiZWI3WlFVc2pEZUM5dUFtVXBKanlXTzNEblJBWVoxVkNrN1YtSUxVZHV2U3ZNX05vZk1faTgwZmNoNFhNRVlOd3VGdWo0bTFjeHJuQ2hLOFRhSnpaal9Vc2dmV21Lemt4ck5rSjBYX1U1UkdKM09LVWttdlkzdl96RUt4b1BfV1REMnVycVVxQjRXS0ZfbmRscmIyaXdrUDE1dnpEYXhJdE5PM3VCUUg2dw?oc=5",
-        "snippet": "See all the looks from the Golden Globes red carpet here. https://nyti.ms/4qnKFcK  facebook.com",
-        "snippet_ko": "Golden Globes 레드 카펫의 모든 룩을 여기에서 확인하세요. https://nyti.ms/4qnKFcK  facebook.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-12",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Meta"
-      },
-      {
-        "title": "“Good Hang With Amy Poehler” won the first-ever Golden Globe for best podcast. See more highlights from the show. https://nyti.ms/4sG6FkG - facebook.com",
-        "title_ko": "\"Good Hang With Amy Poehler\"는 최초의 팟캐스트 부문 골든 글로브상을 수상했습니다. 쇼의 하이라이트를 더 확인해 보세요. https://nyti.ms/4sG6FkG - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeS0tRUc1UVFpbnJJVjN0Wm8zMXFFMUNqTUNJanQ4REVEd0toWTVSRTVsNDRTbWpDQnl5SE1abnlrOGYtckJiSjZhLS1ib1RTWUg2YmIzLTVoTWpjSGpscU9VWWQ0eW1RbFo5a2JIdUxpZi1weHRJTnFyQ2hXM0VqU1hkQ01CU2dDV3o2LVpwWU9ibDZCQnhDX2FzLUFEY1pjWFB5akh2ZktOcGZnTktKR0ppdm5VZHFhQ01zYXZ1TWpodzFtOGR5SnlveW5jdGlab3Q2cA?oc=5",
-        "snippet": "“Good Hang With Amy Poehler” won the first-ever Golden Globe for best podcast. See more highlights from the show. https://nyti.ms/4sG6FkG  facebook.com",
-        "snippet_ko": "\"Good Hang With Amy Poehler\"는 최초의 팟캐스트 부문 골든 글로브상을 수상했습니다. 쇼의 하이라이트를 더 확인해 보세요. https://nyti.ms/4sG6FkG  facebook.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-12",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Meta"
-      },
-      {
         "title": "Meta Shuts 550,000 Accounts on Australia’s Kids Social Media Ban - Bloomberg.com",
         "title_ko": "Meta, 호주 어린이 소셜 미디어 금지로 550,000개 계정 폐쇄 - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGE1eUxEY0Z5c19jRGZ2RTRuREcydmdlM0I2aW9hZ1BIQURWSnlYOUtFLUYxbFlsRmd2WnhWeWRPUnJtRjBvZkdpQXFmSndESldiXzFXN0p4TEdUZlNhVXA4aFpoZzRZZkcwY3FnZWRLX1h3aWNuU2VVOFQtMXUxbTF4d19nMzY3NHplVHAyVUdPN2huMmI3bFZtT3diVmxxRWJOUXR3VFVKVHBlZFpXLUIzV0xVdw?oc=5",
         "snippet": "Meta Shuts 550,000 Accounts on Australia’s Kids Social Media Ban  Bloomberg.com",
-        "snippet_ko": "Meta, 호주 어린이 소셜 미디어 금지에서 550,000개 계정 폐쇄 Bloomberg.com",
+        "snippet_ko": "Meta, 호주 어린이 소셜 미디어 금지로 550,000개 계정 폐쇄 Bloomberg.com",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
@@ -807,14 +807,26 @@
         "company": "Meta"
       },
       {
-        "title": "Massive Instagram Data Scare Ties 17.5M Accounts to Leak, But Meta Denies Breach - Security Boulevard",
-        "title_ko": "대규모 Instagram 데이터 공포로 인해 1,750만 개의 계정이 유출되었지만 Meta는 침해를 거부했습니다. - Security Boulevard",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdi1oRUlCNmE5VUdFVmRVekkyUjVpaExaaHBISUtrNGtzdmFiNDJST1dMeFpibzczellwb2Z3djB6UGh5cWVsMlpjNElTT3hZOFA5MjYzZ05qTUNaNTdYVWlpb2R0eThUUkR6dWhjUjZBRzFZbG5WZnd4WFhVYm5hOXg4eDdSYlVBWnNkcnk5Mm8zQm5aZXI2VW9SSkMyMnVHbFpkNzdvLUdmY2Z4bW5QTzAyTGtwVC1LQUE?oc=5",
-        "snippet": "Massive Instagram Data Scare Ties 17.5M Accounts to Leak, But Meta Denies Breach  Security Boulevard",
-        "snippet_ko": "대규모 Instagram 데이터 공포로 인해 1,750만 개의 계정이 유출되었지만 Meta는 침해를 거부했습니다.  Security Boulevard",
+        "title": "Meta admits to Instagram password reset mess, denies data leak - theregister.com",
+        "title_ko": "메타는 인스타그램 비밀번호 재설정 문제를 인정하고 데이터 유출을 부인했습니다.",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40dEtvb1g1THRqeTJkaFBRcmhrcEF3Y0pvN1p0UnJ4c1ZoajN2Z0s5Qi1uNFluM0xBUUFzdXZQb1hJTFpKTFNQaXJkWnJSNVJReDFsTzRKZkRrTFdLRU9Ed08tZ3NyZmpvQjE1dFpB?oc=5",
+        "snippet": "Meta admits to Instagram password reset mess, denies data leak  theregister.com",
+        "snippet_ko": "Meta는 Instagram 비밀번호 재설정 문제를 인정하고 데이터 유출을 거부합니다. theregister.com",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Meta"
+      },
+      {
+        "title": "Zuckerberg’s AI Dream Unravels : Why Meta’s Push into AI is Falling Apart - Geeky Gadgets",
+        "title_ko": "Zuckerberg의 AI 꿈이 풀리다: Meta의 AI 추진이 무너지는 이유 - Geeky Gadgets",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcG1oWXVNRVpGbWhVWWcwTF9KTk1rdkFodWlKbHhPN21aNnZjaEtiU1RCVWQxRFpvbVpQa0pkcTNQdDdvXy1McFlWTG5HS2pwcEVBSUtuM3RzYTBDWmcyLWlmbzFBRXVnZ21UWHRjWElHcVdxdXJ5TjFSNGVPenNkdm9ZZWZCNHlX?oc=5",
+        "snippet": "Zuckerberg’s AI Dream Unravels : Why Meta’s Push into AI is Falling Apart  Geeky Gadgets",
+        "snippet_ko": "Zuckerberg의 AI 꿈이 풀리다: Meta의 AI 추진이 무너지는 이유  Geeky Gadgets",
+        "source": "news.google.com",
+        "published_date": "2026-01-11",
+        "category": "Technology Innovation",
         "importance_score": 50.0,
         "company": "Meta"
       },
@@ -831,20 +843,8 @@
         "company": "Meta"
       },
       {
-        "title": "Meta admits to Instagram password reset mess, denies data leak - theregister.com",
-        "title_ko": "Meta는 Instagram 비밀번호 재설정 문제를 인정하고 데이터 유출을 거부했습니다.",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40dEtvb1g1THRqeTJkaFBRcmhrcEF3Y0pvN1p0UnJ4c1ZoajN2Z0s5Qi1uNFluM0xBUUFzdXZQb1hJTFpKTFNQaXJkWnJSNVJReDFsTzRKZkRrTFdLRU9Ed08tZ3NyZmpvQjE1dFpB?oc=5",
-        "snippet": "Meta admits to Instagram password reset mess, denies data leak  theregister.com",
-        "snippet_ko": "Meta는 Instagram 비밀번호 재설정 문제를 인정하고 데이터 유출을 거부합니다. theregister.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-11",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Meta"
-      },
-      {
         "title": "She wasn’t 20 — she was a missing child: How Facebook put a convicted killer back in court - MassLive",
-        "title_ko": "그녀는 20살이 아니었습니다 – 그녀는 실종된 아이였습니다: 페이스북이 유죄 판결을 받은 살인자를 법정에 다시 회부한 방법 - MassLive",
+        "title_ko": "그녀는 20살이 아니었습니다 – 그녀는 실종된 아이였습니다: 페이스북이 유죄판결을 받은 살인범을 법정에 회부한 방법 - MassLive",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXV0QTkyWk1XUmxTNkZWeTJ0ZlRJV0lKd1duNUsxUktCZGlKWmtPdFJlb0hNREpHRGlrY3hjMnBTRFpLdlRGLWpxTGh0NWtpbUpTelk3a2tKX09OUUYzWENvcFJXUjJLWk40N2ZJSFpod3Vnb2R1cW04cWprWV8xaC13YzBEWWZqYWJqSzNJMzBIdm5vVTBtQVdfLUk0ZWZsRE5kbndjamxQakZYaVJTaEc1TGROd2RzRU5tS2QwOEV6TVl5RVdWWGwzSmRVRXF4SVE?oc=5",
         "snippet": "She wasn’t 20 — she was a missing child: How Facebook put a convicted killer back in court  MassLive",
         "snippet_ko": "그녀는 20세가 아니었습니다. 실종 아동이었습니다. Facebook이 유죄 판결을 받은 살인자를 법정에 다시 회부한 방법 MassLive",
@@ -867,6 +867,18 @@
         "company": "Meta"
       },
       {
+        "title": "East Windsor Facebook Marketplace transaction turns into armed robbery, police say - CT Insider",
+        "title_ko": "경찰은 East Windsor Facebook Marketplace 거래가 무장 강도로 변했다고 말합니다 - CT Insider",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmdSZTJxWjcxT2pYVV9odWFKZmoxM0l1RTNMMWxPaGlqU1JtN0VRZXlpb1Jjbk1GRGNMYURfZG1aOFNxNjBYMHNac1NYZHNIb3pBVVdhSzVNUlh5S0pCU09qRGlPUzlXQmY3anJ4aGhER085bXFSNXlkd1Q5ZEg4YUp2TkthYkxWVkgzclRWQkh4aWpfcmZBNjU5b1pEbEZkekhVNnQxdTFnSmNRelhr?oc=5",
+        "snippet": "East Windsor Facebook Marketplace transaction turns into armed robbery, police say  CT Insider",
+        "snippet_ko": "이스트윈저 페이스북 마켓플레이스 거래가 무장강도로 변했다고 경찰이 밝혔습니다. CT 인사이더",
+        "source": "news.google.com",
+        "published_date": "2026-01-11",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Meta"
+      },
+      {
         "title": "Tangy goat cheese tempers the sweetness of both potato and hot honey in this mouth-watering recipe. https://nyti.ms/3N71aej - facebook.com",
         "title_ko": "톡 쏘는 염소 치즈가 군침이 도는 이 레시피에서 감자와 뜨거운 꿀의 단맛을 완화시킵니다. https://nyti.ms/3N71aej - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOEVtZndXbWJjcERHeVJzOTg5Q3VNUE12THQyWUZOVV9nSnVrVWZiYV8xM1pYUV9nZElYUE16Sl9rdDA5U3ktMU9ISnhnU0psdGhoU3BlNFE1Tk5mU0FleGcwREw2bVFOZ0JKaG1kYndiaHFSSDZZamVhV3pKdV9fbVZ0cjVnZ1hPX01BUGtYcG1CQy1uMFJ3NWxNRG9BOGoyczZ3eWpLNG9Vb05TTW9Gd0FldVFZa2Yta1A5NjZ1dHVoZ3Y4MUdIUzdMZ3B1YXdCWGh1Vg?oc=5",
@@ -875,6 +887,30 @@
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Meta"
+      },
+      {
+        "title": "China to Mark Zuckerberg's Meta: We need to be sure that you have not broken any Chinese law on ... - Times of India",
+        "title_ko": "중국에서 마크 저커버그의 메타에 대해: 우리는 귀하가 중국 법률을 위반하지 않았는지 확인해야 합니다. - Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNajRIX0I2YnNNbjZULWlXbExUanE0alVfcFBvQlJPTFBvOFdDUGtNS2lZUEtQc1V4QjJNQXFQTWxPYjVfRnl4TExrYWF1YnIxY01kbW9tZE1uY0llUXZ0ODY4Z3FyRDluU0s0dHdQRXBMeFlMdXR3YWVjTXRENzY2MXRZUE5MYW9LVWV4Z1hPcERCalRzR1YyS0xOR3ZzRS1KalN0X3FXSUEtX0lzWUxBZTVQOE9LdUJDZDdQMkl2VEpJRE5vZUVnVkZEX3hkZndjTngwcDJUWkNxOTNpelRmNTRLOHhPQ1A4dE5ENHpzUVVucUxDRUtRTHhkTmgyRUI3Z2t5b2ZhcnPSAY4CQVVfeXFMUDg0bVhtMWxOTGIxNWRJRUZUQ2ZQQThmWlowZkJWcHp4ZU5Kb0xsMmtpalF4eWM3Z0ExTm1WSWh6X0sxSGtNUU1OX0drb05XbFZVbTh2UHZrdlBQU0NTS0xJV3Q2UW81WDByVUFKMFJnRzN4RGl2OUk2c3owOG0xUThIRGI4LVZNOXFYUHFsb2szZDNZYnBnbmxHZzVMaVd5YnUzV1ZCVXozS1YxMHdmZlpTUVhEVUlYYzZyTkx4OHYwRVlnS0hDSWJaN1hNSUkxcVI2ZWx3c0N4OUd1Tnp4RTBwQ2ZHWXJRaW5FS05sWVFsR3NHOVVxZmZwNHJQa2VLMWJtRnROYlNUTVY0VVR3?oc=5",
+        "snippet": "China to Mark Zuckerberg's Meta: We need to be sure that you have not broken any Chinese law on ...  Times of India",
+        "snippet_ko": "중국에서 Mark Zuckerberg의 메타에 대해: 우리는 귀하가 다음과 같은 중국 법률을 위반하지 않았는지 확인해야 합니다. Times of India",
+        "source": "news.google.com",
+        "published_date": "2026-01-10",
+        "category": "Regulation & Policy",
+        "importance_score": 50.0,
+        "company": "Meta"
+      },
+      {
+        "title": "Review of Meta-Manus deal underscores China’s tightening grip on AI exports - South China Morning Post",
+        "title_ko": "Meta-Manus 거래 검토는 AI 수출에 대한 중국의 강화된 통제를 강조합니다 - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTldsWXoxMXNlSUFlNGVQeDJHLTdqVnBQelAwdXZydEFoUW5lZnN1bXM4RFZnLVNmSHBac1FHTklkcS1qcjdvMjF1VlRxUUJocFlQaDR0ZU03UlVKdDlScHE1dlBLQ0tGYkJCYnFBdlJRZzJLNVhNMHAxZFN5UkxuXy1GY2tTakVod2lENGNFOVlnS3JvU1dGbExpS1hkOEJHdXk5bVk0cDVuNkhQM2QxSXdZM1lhN0J0MFHSAboBQVVfeXFMTUd6Y012a3cwdmROcU5nSk1SbG0zSy1yUHVaSWlwLXhhZVVkNW9Rd1VlcUpQYi1mYmxUOGVWcFhzdEhFNW5IZ2VSSG1xQUlGYjZmUmNkN1Z5b3hYZGNDOHJmVkkwWWgybkR3R0xGWGEzell6UHRoQnJNZ21reGVISTBZbmk1VlhoQlJKUmxKWGIwUXpObEZpWDJuTUFQalgyZXlZRnBNSlNDZEp6WnJESEhibmNhdGhLcjhB?oc=5",
+        "snippet": "Review of Meta-Manus deal underscores China’s tightening grip on AI exports  South China Morning Post",
+        "snippet_ko": "Meta-Manus 거래 검토는 중국의 AI 수출에 대한 통제 강화를 강조합니다. South China Morning Post",
+        "source": "news.google.com",
+        "published_date": "2026-01-10",
+        "category": "Technology Innovation",
         "importance_score": 50.0,
         "company": "Meta"
       },
@@ -951,15 +987,15 @@
         "company": "Meta"
       },
       {
-        "title": "Meta Unveils Sweeping Nuclear-Power Plan to Fuel Its AI Ambitions - WSJ - The Wall Street Journal",
-        "title_ko": "Meta, AI 야망을 촉진하기 위한 전면적인 원자력 발전 계획 공개 - WSJ - The Wall Street Journal",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOLTdfRXFvTk5lYUg4amxJQkpBU09VRkEzZmUweHBXUWlnTnFkYnhaLXIyam53VU1MaXZVUllCWmZEbUxHdEhmMExRTW5OUGlTcFRSRURSeURFVE9pZFkxLUV3MERFR2cydDY3b1V6WUx4QXFZS0lidC1BOF93VzdZOXB4R3BwOVE4c2dQZHBSTUdtYTBKQVM0QWFoM1dTVUI4R1Voc1NuVzFyODU1ay1jS3F4cEtNeEhFcE9SODVBXzN1eXRWelkwcFpjU2FSQVJ5YTQ5WDZpSXZFbUtQUUUtbnJCVmticVBPd3VjNXp0bzUxT0tpYUxHR2QzNXB0SVMxRy10Q3BhSWRuX3pQaDdkSHA2NUdPNWRLY20yODQyWG1adjF1OFF4aVVxdUt6dTVPRURReHY0ZUs2OF9YOGk2Q2JlanFhOUZVZ3dJQVEyNU1sblJLSnJzbm9UZi1vQ0JJd2I3ak9xT0FXc2tFWHNmLU1nREZGWTItTGhyeVlZcExRaWYzanlWV3JPaEkwUVFKWHVPVEVMUzVwcUx6bGRkUUw3OUdabWJ5UVE?oc=5",
-        "snippet": "Meta Unveils Sweeping Nuclear-Power Plan to Fuel Its AI Ambitions - WSJ  The Wall Street JournalOklo, Meta Announce Agreement in Support of 1.2 GW Nuclear Energy Development in Southern Ohio  Oklo Inc...",
-        "snippet_ko": "Meta, AI 야망을 촉진하기 위한 광범위한 원자력 발전 계획 공개 - WSJ  The Wall Street JournalOklo, Meta, 오하이오 남부의 1.2GW 원자력 개발 지원에 대한 합의 발표  Oklo Inc...",
+        "title": "Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW to Power American Leadership in AI Innovation - Meta Store",
+        "title_ko": "Meta, AI 혁신 분야에서 미국의 리더십을 강화하기 위해 최대 6.6GW의 원자력 에너지 프로젝트 발표 - Meta Store",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2pPa1RyS01SdjVXYmtibWp3MURDbHJuRjhMb3BuUkI4dXZueW5uMzhIUkFKamsxYW55VDZ5Z0RlU1R4M3ZnODRIMXl2SW5xOURoRTFyNlhYbkVlNXVTd3N6N0N5aHB4OXdrc3JKR3hTUG1jNnE4ZnRpdzM5bzRGdDh0S0JzVWZCSG1DN21fSlFqYzdObjJJ0gGcAUFVX3lxTE5MMy05clZwUVAtY2NTbzVWRVRnR0F5emgtRXlwS0NidU9FdUFxdUtUQ3VmZkZic29DbmVtS09BZkdZU0ROekUxc1ctWDVoYkk2aFhSdnB5dVcyd0FPT1dyeUlURklqV0g0VXhwYmNZZldsYlhXTUNUQ01Pc2l3SjA0MXl2TENJVHhVVy1OVXJFRGpZeS05dmd0WFBiUg?oc=5",
+        "snippet": "Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW to Power American Leadership in AI Innovation  Meta StoreMeta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers  Bloomberg.comMeta s...",
+        "snippet_ko": "Meta, AI 혁신 분야에서 미국의 리더십을 강화하기 위해 최대 6.6GW의 원자력 에너지 프로젝트 발표",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Product Launch",
-        "importance_score": 50.0,
+        "importance_score": 60.0,
         "company": "Meta"
       },
       {
@@ -1011,15 +1047,15 @@
         "company": "Meta"
       },
       {
-        "title": "Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW to Power American Leadership in AI Innovation - Meta Store",
-        "title_ko": "Meta, AI 혁신 분야에서 미국의 리더십을 강화하기 위해 최대 6.6GW의 원자력 에너지 프로젝트 발표 - Meta Store",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2pPa1RyS01SdjVXYmtibWp3MURDbHJuRjhMb3BuUkI4dXZueW5uMzhIUkFKamsxYW55VDZ5Z0RlU1R4M3ZnODRIMXl2SW5xOURoRTFyNlhYbkVlNXVTd3N6N0N5aHB4OXdrc3JKR3hTUG1jNnE4ZnRpdzM5bzRGdDh0S0JzVWZCSG1DN21fSlFqYzdObjJJ0gGcAUFVX3lxTE5MMy05clZwUVAtY2NTbzVWRVRnR0F5emgtRXlwS0NidU9FdUFxdUtUQ3VmZkZic29DbmVtS09BZkdZU0ROekUxc1ctWDVoYkk2aFhSdnB5dVcyd0FPT1dyeUlURklqV0g0VXhwYmNZZldsYlhXTUNUQ01Pc2l3SjA0MXl2TENJVHhVVy1OVXJFRGpZeS05dmd0WFBiUg?oc=5",
-        "snippet": "Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW to Power American Leadership in AI Innovation  Meta Store",
-        "snippet_ko": "Meta, AI 혁신 분야에서 미국의 리더십을 강화하기 위해 최대 6.6GW를 확보하는 원자력 에너지 프로젝트 발표  Meta Store",
+        "title": "Oklo, Meta Announce Agreement in Support of 1.2 GW Nuclear Energy Development in Southern Ohio - Oklo Inc.",
+        "title_ko": "Oklo, Meta, 오하이오 남부의 1.2GW 원자력 개발 지원 계약 발표 - Oklo Inc.",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZjBfZ0lBVl9vaXYxRTVLSlJ3QTJoSTA5SVFsOWtlM1VSUEdGdlpocUdvUGphbHc0RHFWVzhGRXlBZDZJSXBKWDNjUGlSRGp5Sy1veXJKLWJtLTBUNDlZcU9xOFotaXc1ODFPb2preVJkTDNfUWJyZk1qazRFc3p2N3ZjR2s0S2dsMG5qX3dTMzRLLTVqaU03dGFrQ0tNajRINlBwTWN4TU1VRlZXSHhnd291T2sxMWNWNVFtTTBaVi1jdWkycGt0amRCNE9JNDc3UERXMG1rZkFCU01fMDRkUEttRXo?oc=5",
+        "snippet": "Oklo, Meta Announce Agreement in Support of 1.2 GW Nuclear Energy Development in Southern Ohio  Oklo Inc.",
+        "snippet_ko": "Oklo, Meta, 오하이오 남부의 1.2GW 원자력 개발 지원 계약 발표 Oklo Inc.",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Product Launch",
-        "importance_score": 60.0,
+        "importance_score": 50.0,
         "company": "Meta"
       },
       {
@@ -1040,6 +1076,18 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRnNwUmdLdWlqUkExbmx1ZTd4ZEpibEtCTTE0N0l2ZW11ZlJOODcyY25adzRSY0hrU1Z3WF82cTVtU2xiYUw3Z2lmeG9iMVNlSUstN0FSYTNvMnYxQzIxLWhBMnpfcVVHd2VVVEJmNmYtbVpwTFJIQlhna3JiT3VxWEFIQW1KSjQyczY5UVhHZERJMm13Tl9SQk1BVUxISVgyZ3VBODYxZk8yUVV6UXVBa0NMOUEwd0todVpXUG9XZUw5ckp0cTQza05Bc0dfZW52RGlUQTBKdXdscnJhT181Q2VLUGEtMi1OTC1OVHZyLWp2SlYtcWtoczMwVQ?oc=5",
         "snippet": "Vistra and Meta Announce Agreements to Support Nuclear Plants in PJM and Add New Nuclear Generation to the Grid  PR Newswire",
         "snippet_ko": "Vistra와 Meta, PJM에서 원자력 발전소를 지원하고 전력망에 새로운 원자력 발전을 추가하기로 합의 발표 PR Newswire",
+        "source": "news.google.com",
+        "published_date": "2026-01-09",
+        "category": "Product Launch",
+        "importance_score": 50.0,
+        "company": "Meta"
+      },
+      {
+        "title": "Meta Unveils Sweeping Nuclear-Power Plan to Fuel Its AI Ambitions - WSJ - The Wall Street Journal",
+        "title_ko": "Meta, AI 야망을 촉진하기 위한 전면적인 원자력 발전 계획 공개 - WSJ - The Wall Street Journal",
+        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxObk56b1B2Z0ItZjNmMzFjalJkdzdlLTlVeHMzRDRhQXRTaGpBR3RsZVFnaGJkSkd0Vy1HUnBxSGZ2OVcxWkljLTF2N2NwT0hueGxBRFI0VjBTMk9fYXpUcFNXSjl4V3hEdTA1R1h0U05JcnVyejVDUGh6N21qbVhDM25RMHRVOXBVTXc1bUFWdWFNSGVKTDR4N3dfSmZsSlhlaHlEdmRMYUZWOWZicVB3dzFvR0RWTWtEWVZ3SXFfRTJLQ1NGbUpTa1BsTWJmVDBIRElRbVcwQ2VfQjFNX25jcTlWdFc1YllXWDN1RTlHTWl2M2l2SS1oTWV1eUhCbWVvbm5tejI2SW5id3lQYlZyQXAzc0FMdk84NnZCdWdVZ3dQRXJ1VGZHeGJ3QVpnbTB3YUFyV1NPZU5mc1cta1lLWWlqTWtJeUQzYVVVQ0VsSjJTRTZtLXZQWWZhRE9pa2ZzVU9lbk5fN1RRLXZaMy1sY1lmNGR3X2NyLWNwd2Rqd05CWkxFOE95Y01Ta1l2MUpTZVBSOW5SYlRBU1J6SEM2U2xRR2RSUXRQSGc?oc=5",
+        "snippet": "Meta Unveils Sweeping Nuclear-Power Plan to Fuel Its AI Ambitions - WSJ  The Wall Street Journal",
+        "snippet_ko": "Meta, AI 야망을 촉진하기 위한 전면적인 원자력 발전 계획 공개 - WSJ  The Wall Street Journal",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Product Launch",
@@ -1072,7 +1120,7 @@
       },
       {
         "title": "Meta strikes nuclear power agreements with three companies - Reuters",
-        "title_ko": "Meta, 3개 기업과 원자력 발전 계약 체결 - Reuters",
+        "title_ko": "Meta, 3개 기업과 원전 계약 체결 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1hLaFlSWkd5VmRReVRybi1PSTI5VFBPeHF1a29qbWRzWEhVa19zbVM3VjhralQyQ2xVT3cyY0FVcnRyc0l5Q2RvWTF6bG5kUlJmOVFnbzE0eWxDdFVDN3FQZzlFVGRSUDZVR2UwMjNnSFM5eVlqaEdydmVWWHpNWWZtS0c4Vy1Zc2UzU3hwTHYwTUdJaTEwTkxLdGwyUWdPdy13b204MFhnZ1ZFR21Z?oc=5",
         "snippet": "Meta strikes nuclear power agreements with three companies  Reuters",
         "snippet_ko": "Meta, 3개 회사와 원자력 발전 계약 체결 Reuters",
@@ -1083,11 +1131,11 @@
         "company": "Meta"
       },
       {
-        "title": "Meta Signs Deal with Bill Gates’ TerraPower to Build up to 8 Advanced Nuclear Reactors in U.S. - ESG Today",
-        "title_ko": "Meta, 미국에서 최대 8개의 첨단 원자로 건설을 위해 Bill Gates의 TerraPower와 계약 체결 - ESG Today",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnI2NzhxR3g1TzRRQzl2YjlxS3R6WElUMlJxa05wVTExcjF5SHNCMS1Jd09oZW1jc3ZHTmJRQ1hGY2ZpLTRFZWdicHFqR0ZqWUNLa1NObHFvWnJKOXUtdGxKcXZPZjJnaGJNOTVkQ1NiTUdDcnRNUUg2d0tLdFdXVUlnUEpzYzRObV9FaUxDZzBXNi1xNHR1Y1VrOWJtZ245LXd2b2ktSE5NcUozMDV6dUI3Z2ZMbTZHT2c?oc=5",
-        "snippet": "Meta Signs Deal with Bill Gates’ TerraPower to Build up to 8 Advanced Nuclear Reactors in U.S.  ESG Today",
-        "snippet_ko": "Meta는 Bill Gates의 TerraPower와 미국에서 최대 8개의 첨단 원자로 건설 계약을 체결했습니다. ESG Today",
+        "title": "Meta signs deals with three nuclear companies for 6-plus GW of power - TechCrunch",
+        "title_ko": "Meta, 6GW 이상의 전력 공급을 위해 3개 원자력 회사와 계약 체결 - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTJLTTg2ZDNOdjYyaU5ua0I1R3ZWRmZINFh1RTVBNmFodVBzQ0JHQi1vc1lFSXlHSW9pWWY5YUFHZWJXY0dYRUYtMENSanF2UHBaeDdqQWNIbkVrYUtPVkQ5djhZZEdVS1Bjc1ExbVpWekpMSHRySUhBbGVyN2cyU2VkQ2E0b0l0b2tGcllhRnRxVlRjSGxzdkMzN091MUF4U1FZTlZR?oc=5",
+        "snippet": "Meta signs deals with three nuclear companies for 6-plus GW of power  TechCrunch",
+        "snippet_ko": "Meta는 6GW 이상의 전력을 위해 3개 원자력 회사와 계약을 체결했습니다. TechCrunch",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Market Trends",
@@ -1143,47 +1191,11 @@
         "company": "Meta"
       },
       {
-        "title": "China Is Investigating Meta’s Latest A.I. Acquisition - The New York Times",
-        "title_ko": "중국, 메타의 최신 AI를 조사 중 인수 - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96M2Q4QkpnWjBVV0RRVndGalBJY1d5SjdIbDBxbUNQU011RFRyLVlSaGdKajZTbnpjV09FRTJ4MVF5T05SamhLX3F5OE5SVnV4QUhSR0xndGZQVUZBR05RZ1ZnaFhfSE1NVUxmU1Zhdk0xZDlzbzhR?oc=5",
-        "snippet": "China Is Investigating Meta’s Latest A.I. Acquisition  The New York Times",
-        "snippet_ko": "중국, 메타의 최신 AI를 조사 중 인수  뉴욕타임스",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Market Trends",
-        "importance_score": 60.0,
-        "company": "Meta"
-      },
-      {
-        "title": "Meta faces China probe over acquisition of AI agent startup Manus - CNBC",
-        "title_ko": "메타, AI 에이전트 스타트업 마누스 인수로 중국 조사에 직면 - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHQwSjBTV2tyMG91eWpnUzFiOWpoVVowVkJZV2ZsVnhiX1dHcHFMVXVFMGIyc0pLVmVIelcySWpsYzVaYUhzOE5Gc1MzbUNFY2Q1dE5JOWtYdVRHWlE4U3o0OFhBbFAwbmVrbVBNWlQ3dEhnWVQ5MF9lWFViWl8ydGhZMXd5ejBBdzBzctIBkgFBVV95cUxNZlFuTHQ1Q2F0c0tLelc1V0JPM0xJR2xlSWFnM1FoTkhadHBUVkRfRFZjVF95empXS1hIT0x5cmI0dnktYUtXSzRHMmk3UTdNellyMGtGVTZGcUlabFhwZ3k2Y044aTMwRnFua2xDZUg4anpuTEZJeTROWXVVdzJoSHlZZnFnSGZ2MlkycHJuTUVxQQ?oc=5",
-        "snippet": "Meta faces China probe over acquisition of AI agent startup Manus  CNBC",
-        "snippet_ko": "Meta, AI 에이전트 스타트업 Manus 인수로 중국 조사에 직면",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Technology Innovation",
-        "importance_score": 60.0,
-        "company": "Meta"
-      },
-      {
-        "title": "Meta Ray-Ban Display Smart Glasses Are Delayed, Company Admits - Forbes",
-        "title_ko": "Meta Ray-Ban 디스플레이 스마트 안경이 지연되고 회사가 인정합니다 - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEhoQWNDTTlYTkhJeERkclVkOTlCc0VKT2Q2YnBtLTFrZW1fazUxbUtGU1k3ZVhJd1RDMzBkX0VyNjUxT09FeFd2MHMwMVhqNjlQSDNBMHZZQkl6bDlzUmhuQnJIeWdTVGMyNUYyYzk0aWdWYWk4SWVVNlZjbFpUQ1pQWlVlVXlzRDdOazBqZTd1djQtbk51WlZPSmZHNHctUjZLOGRhaHlPLWU3aVQ1a202dXU?oc=5",
-        "snippet": "Meta Ray-Ban Display Smart Glasses Are Delayed, Company Admits  Forbes",
-        "snippet_ko": "Meta Ray-Ban 디스플레이 스마트 안경이 지연되고 회사는 포브스 인정",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Meta"
-      },
-      {
         "title": "Fired Clemson faculty member wins settlement after being fired for a Facebook post about Charlie Kirk - ACLU of South Carolina",
         "title_ko": "해고된 클렘슨 교수, 찰리 커크에 대한 페이스북 게시물 때문에 해고된 후 합의 승리 - 사우스 캐롤라이나 ACLU",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON3lXU01lUWxEOGZpVjlEeUtmZHJzTFdxVHN5U2MybXZZNGVWVnh1VVI0YmpjOXBGQS02TXRUVFR0Z3hqMWwza0JfclBRWnp6dU1wMF81YWdjYy1CUVJmX1lxSlBFLVdLN1loUGpRT19xNUpaY3h5MWEweUxIdEU0UzA0TEdDSHhHRllnTENfem1OcVVYanBEV0puaFBUYVczZ1VYYzZmZGU0NWRRbVJjNTB4NFFmczZ4LVhYUWIxaWhhbjVBVTB5R0thLVNncUhxSU9uLWd2Zw?oc=5",
         "snippet": "Fired Clemson faculty member wins settlement after being fired for a Facebook post about Charlie Kirk  ACLU of South Carolina",
-        "snippet_ko": "해고된 Clemson 교수진은 Charlie Kirk에 대한 Facebook 게시물로 해고된 후 합의에 도달했습니다. 사우스 캐롤라이나의 ACLU",
+        "snippet_ko": "해고된 Clemson 교직원, 사우스 캐롤라이나의 Charlie Kirk ACLU에 대한 Facebook 게시물로 해고된 후 합의 승리",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -1201,18 +1213,6 @@
         "category": "Market Trends",
         "importance_score": 50.0,
         "company": "Meta"
-      },
-      {
-        "title": "Meta just acquired a Chinese-founded AI startup for $2B. Here's why that matters - CBC",
-        "title_ko": "Meta는 최근 중국에서 설립된 AI 스타트업을 20억 달러에 인수했습니다. 이것이 중요한 이유는 다음과 같습니다 - CBC",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWsyY29weURDNktaZXZYb0VOZ3lNdXVxa3hkLW1fUHR6RGp4YzdMSXdMTTJHR2tRa1pfQm5tdUw3NlU5R3M2UjRhWFhZZ00tT204S05aWk03aXZUS2F4TllqX1RQay1EdUxteHpld2ZKMDQzVVZwVjZwTWNlOXB2d3d2MzVsZzZwVG9TVmw5LVQ?oc=5",
-        "snippet": "Meta just acquired a Chinese-founded AI startup for $2B. Here's why that matters  CBC",
-        "snippet_ko": "Meta는 최근 중국에서 설립된 AI 스타트업을 20억 달러에 인수했습니다. 이것이 중요한 이유는 다음과 같습니다.  CBC",
-        "source": "news.google.com",
-        "published_date": "2025-12-30",
-        "category": "Technology Innovation",
-        "importance_score": 50.0,
-        "company": "Meta"
       }
     ],
     "YouTube": [
@@ -1221,7 +1221,7 @@
         "title_ko": "YouTube TV, Android, iOS에서 라이브 가이드 디자인 변경 - 9to5Google",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nTEd0bTFkUElHOS1qa3E4ZFVrR2hyV0pOY0pvelRTUVhkQzl0VDZxbUJPZGlQMVNDR1VsbGtjWDBsVk5BcHBacEJEQW94SW1YQkM1S2w3em0wVmtTZ1Q3aVU1MWZNNFhJNVc4eFBmSS0tWl9QYlE?oc=5",
         "snippet": "YouTube TV rolls out Live Guide redesign on Android, iOS  9to5Google",
-        "snippet_ko": "YouTube TV는 Android, iOS 9to5Google에서 새롭게 디자인된 라이브 가이드를 선보입니다.",
+        "snippet_ko": "YouTube TV는 Android, iOS 9to5Google에서 라이브 가이드 디자인을 새롭게 선보입니다.",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
@@ -1242,7 +1242,7 @@
       },
       {
         "title": "The ‘Bob Ross of the bike industry’ retires from YouTube - Star Tribune",
-        "title_ko": "'자전거 업계의 밥 로스' 유튜브 은퇴 - 스타트리뷴",
+        "title_ko": "'자전거 업계의 밥 로스' 유튜브 은퇴 - Star Tribune",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzllb3hfUUV1a2RUTVp1a185RzJjWGJfNjgxYm9maVY0R3R3aW1EN0ZQZnNKZTBuUFR3YXdteGoyeWRwNXcxWmVoTEJRWGRxTVNuV2lTOXNCekJHWXpGa3kweHhYU1RKNkFUSnI4OG15blNIYUZXVWhrT0RqSFJIY291NGhWT2hkVENJWXhTenIxZHRiZkEw?oc=5",
         "snippet": "The ‘Bob Ross of the bike industry’ retires from YouTube  Star Tribune",
         "snippet_ko": "'자전거 업계의 밥 로스'가 YouTube 스타 트리뷴에서 은퇴합니다.",
@@ -1289,11 +1289,11 @@
         "company": "YouTube"
       },
       {
-        "title": "'Heated Rivalry' Star Connor Storrie Says It Was 'a Choice' to Leave Up His Old, Now-Viral YouTube Videos (Exclusive) - People.com",
-        "title_ko": "'열띤 경쟁' 스타 코너 스토리(Connor Storrie)는 지금은 바이럴되고 있는 자신의 오래된 YouTube 동영상을 남기는 것이 '선택'이었다고 말합니다(독점) - People.com",
+        "title": "'Heated Rivalry' Star Connor Storrie Says It Was 'a Choice' to Leave Up His Old, Now-Viral YouTube Videos (Exclusive) - people.com",
+        "title_ko": "'열띤 경쟁' 스타 코너 스토리(Connor Storrie)는 이제는 바이럴되고 있는 자신의 오래된 YouTube 동영상을 버리는 것이 '선택'이었다고 말합니다(독점) - people.com",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2I1RDFWTW40OUZZQ0F2NzVJUHJrOXR5ME82WHZHWGNJRkxoSl81aXJXLWc5ZUl0aDJCLVNkdXluak1nSkVWZWJhUzdfYm5VQXB0NHJvWEgxdktUZ3ItdXhhc2sySHNYdzRnTzNoV0FoQXBwb2FudXJiaDRRNDRHSVFsd1liaHM5bU5EQVFEMC1FdHl4dmgyMU55M25sZ3lr?oc=5",
-        "snippet": "'Heated Rivalry' Star Connor Storrie Says It Was 'a Choice' to Leave Up His Old, Now-Viral YouTube Videos (Exclusive)  People.com",
-        "snippet_ko": "'열띤 경쟁' 스타 코너 스토리, 지금은 인기를 누리고 있는 자신의 오래된 YouTube 동영상을 버리는 것이 '선택'이었다고 말함(독점)  People.com",
+        "snippet": "'Heated Rivalry' Star Connor Storrie Says It Was 'a Choice' to Leave Up His Old, Now-Viral YouTube Videos (Exclusive)  people.com",
+        "snippet_ko": "'열띤 경쟁' 스타 Connor Storrie는 지금은 인기를 누리고 있는 자신의 오래된 YouTube 동영상을 그대로 두는 것이 '선택'이었다고 말합니다(독점)  people.com",
         "source": "news.google.com",
         "published_date": "2026-01-10",
         "category": "Competition",
@@ -1398,7 +1398,7 @@
       },
       {
         "title": "YouTube Premium: Is It Worth It..? Suggested Web Site (nPoBzDfTEl) - Leaders.com.tn",
-        "title_ko": "YouTube Premium: 그만한 가치가 있나요..? 추천 웹사이트(nPoBzDfTEl) - Leaders.com.tn",
+        "title_ko": "YouTube Premium: 그만한 가치가 있나요..? 추천 웹사이트 (nPoBzDfTEl) - Leaders.com.tn",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcWJxYW5FLVBmc1RNS1JXbUZ1bHJ6bzlkOThEN0VTQWhLZjVTM1ZueWcwNzRhNUxXN0VTWHo3M1FmODRDTHpqY3pwSnRlVkZ6S3ZJVFc2c1pWOXU5bHpzSFZWNjUtMHUwd0dRd1haVmlibXVzSFFHVnZHRV9wZ0x5cjZZSE5BWmcteGIwc0RpM2pRVnJrREVvYmJDcUlGYnd6b3A3TERIZjdPVThxZHFWRWVQSmJ3NjJVTzdocGZCbjVkVWY5RXdUOUZfRERsUDdJNnZaSUwyd1Q5eThlSUJJQzNR?oc=5",
         "snippet": "YouTube Premium: Is It Worth It..? Suggested Web Site (nPoBzDfTEl)  Leaders.com.tn",
         "snippet_ko": "YouTube Premium: 그만한 가치가 있나요..? 추천 웹사이트(nPoBzDfTEl)  Leaders.com.tn",
@@ -1494,7 +1494,7 @@
       },
       {
         "title": "Minneapolis day care targeted in Nick Shirley YouTube video is now closed, state records show - Valley News Live",
-        "title_ko": "Nick Shirley YouTube 동영상을 대상으로 한 미니애폴리스 보육 시설이 이제 폐쇄되었으며 주 기록이 표시됩니다-Valley News Live",
+        "title_ko": "Nick Shirley YouTube 동영상을 대상으로 한 미니애폴리스 보육원이 이제 폐쇄되었으며 주 기록이 표시됩니다-Valley News Live",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2JZMmxtQlZGa0EyTWMwVm9xamJ3Q1kwQXpUdl9xRUh5aFZSQ1hzMEJWVjYxcDFDckJBRGtZUkY3eFBjbFhqbF9ra25PQ2xIYUFJMUxkSmFWeDNJMTV3dDY5WFdHMUFsVGtsX1NkUmRJaHhjVmFrcEV5dHdvdlpZV1M3RnRZRE1hNGlOT0RkM3g5VmRyMTI0T2w0TEJpYlZpOTBVZ28xVEU1YUlsdEE3ZDdOdXhhSHIwYXhGdUctSDEyUm5VbXJSdFBZdXfSAeABQVVfeXFMT2RoaVN0eVU5ZGF6VC02NUxuc01LNktpVGc0aDJmT3ZKajVhcXd1WUp5MzFVc2JSY0hRVTNXbFNCbzMwbkY1UUlzRFlkd1hjcm5VLWR2YWRvRVhBTUpROXEwdlc4eER0WlNwaVZsekZpZDdQUGl1eUhOcHFsakN4dE9hdWFDWUdOWWtSQjJkOEhqQVVDSjM0a3JnZks4c2dsOEJxaW1rOEJmWkh5TTdSbXJtSU8tYWhUaUVESUNMdVQ3aDlETTdwR1F1Y3BCSjR5dXUxc0hRSDNRUHJ3dVh5anI?oc=5",
         "snippet": "Minneapolis day care targeted in Nick Shirley YouTube video is now closed, state records show  Valley News Live",
         "snippet_ko": "Nick Shirley YouTube 동영상을 대상으로 한 미니애폴리스 보육 시설이 이제 폐쇄되었으며 주 기록에 따르면 Valley News Live가 표시됩니다.",
@@ -1591,11 +1591,23 @@
         "company": "TikTok"
       },
       {
+        "title": "The 'dangerous rise' in TikTok's young urban explorers - BBC",
+        "title_ko": "TikTok의 젊은 도시 탐험가들의 '위험한 상승'-BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSmlLWFhoMnZQRHBjVi1QemQ5RVlDc0NsZHdBdlMwVHRsQzh3bC00VVdRMm04eE5PYVkzTW12b01yaU1SMG5wRGJ2NEh4NklycENfZFkzcVEwZ9IBX0FVX3lxTE85RjJJb0V5TFlrVjhaX1ZTS1U4eTlVdlk2Z0hENkxadUxHclhFWjVyczNkU05vVG9pTXp2QnJtcG1XaWUtRVV5LVBZZXRDUVplSHZ1b1NhMU05d1cwdXRr?oc=5",
+        "snippet": "The 'dangerous rise' in TikTok's young urban explorers  BBC",
+        "snippet_ko": "TikTok의 젊은 도시 탐험가들의 '위험한 상승'  BBC",
+        "source": "news.google.com",
+        "published_date": "2026-01-12",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "TikTok"
+      },
+      {
         "title": "Plea deal means no prison for Minnesota driver on TikTok when she fatally struck pedestrian - Red Lake Nation News",
         "title_ko": "TikTok의 미네소타 운전자가 보행자를 치명상을 입혔을 때 탄원 거래는 감옥이 없다는 것을 의미합니다-Red Lake Nation News",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYzNMdmhCQnZ3bzlaNEV2ZjI0RU1HSlpSV0F2alcxYzBxbmNtUnB6X1IwRktFRzlqSzBMY1VnU1FNTFU1SEVJdUZlY0VYYmp3bkRNUmhoUzBoWmlwTXdZQVpiY1kwRVVKNHB5Snk0MFYwbVhTZDdEVHQycUdRRVN3NFRwcmc3Um9MTktMNjU3VUlpdHhjV3c2cmdmOU9UVlpHVldwdzByTXBiX0ZVdFloSGRmalpzeXFYZW5jem9qUlgzSk5kODlLYjlTZGg3dHczNTN3U0tYaFB2bU5GUjZtSU84QWlDSmk5VENIQTUtbmE?oc=5",
         "snippet": "Plea deal means no prison for Minnesota driver on TikTok when she fatally struck pedestrian  Red Lake Nation News",
-        "snippet_ko": "탄원 거래는 TikTok에서 보행자를 치명상을 입힌 미네소타 운전자에게 감옥이 없다는 의미 Red Lake Nation News",
+        "snippet_ko": "탄원 거래는 TikTok의 미네소타 운전자가 보행자를 치명상을 입혔을 때 감옥에 갇히지 않는다는 것을 의미합니다. Red Lake Nation News",
         "source": "news.google.com",
         "published_date": "2026-01-12",
         "category": "Market Trends",
@@ -1639,11 +1651,23 @@
         "company": "TikTok"
       },
       {
-        "title": "Hailey Bieber Denies Reposting TikTok About Alleged 'Abuse' in Her Relationship with Justin Bieber - People.com",
-        "title_ko": "헤일리 비버(Hailey Bieber), 저스틴 비버(Justin Bieber)와의 관계에서 '학대' 혐의에 대해 틱톡 재게시 거부 - People.com",
+        "title": "Hailey Bieber Denies Reposting TikTok About Alleged 'Abuse' in Her Relationship with Justin Bieber - people.com",
+        "title_ko": "Hailey Bieber는 Justin Bieber와의 관계에서 '학대'혐의에 대해 TikTok 재 게시를 거부했습니다.",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlBhSWJlUGdWWVoxdkhGSVRDSU15WlVVS2lSOXRvd19tbXRZU2gtMnZvdlZsckk3R004dEVHc3pFNzU2OXVLX19STkZTV0VpZHd1WFZmVXpUdVdrRG81RTNJVktSckJJWkk4SlMya202Z1FoSmtELUVTTWo3SUZCTWpEM1VsUGp3Mjk1VlpLdzl0alRleTV5cnljQkxqcHpu?oc=5",
-        "snippet": "Hailey Bieber Denies Reposting TikTok About Alleged 'Abuse' in Her Relationship with Justin Bieber  People.com",
-        "snippet_ko": "헤일리 비버(Hailey Bieber)는 저스틴 비버(Justin Bieber)와의 관계에서 '학대' 혐의에 대해 틱톡(TikTok) 재게시를 거부했습니다.",
+        "snippet": "Hailey Bieber Denies Reposting TikTok About Alleged 'Abuse' in Her Relationship with Justin Bieber  people.com",
+        "snippet_ko": "헤일리 비버(Hailey Bieber)는 저스틴 비버(Justin Bieber)와의 관계에서 '학대' 혐의에 대해 틱톡 재게시를 거부했습니다.",
+        "source": "news.google.com",
+        "published_date": "2026-01-11",
+        "category": "Technology Innovation",
+        "importance_score": 50.0,
+        "company": "TikTok"
+      },
+      {
+        "title": "Hailey Bieber Slams Claims She Reposted a TikTok About Her Tolerating \"Abuse\" From Justin Bieber - Cosmopolitan",
+        "title_ko": "Hailey Bieber는 Justin Bieber의 \"학대\"를 용납하는 것에 대해 TikTok을 다시 게시했다고 주장합니다.",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0ZWSnFBelBhZVRCTTEwcm5DTVdtUGVHbTRPdWcydGxoSXU0cmd0aWg2eGdDYzJVS2lkenpQVDJrWXFkcmp1eHRCTkx4NU43TmZhSlI0MWQ5eEtBQjJJbV9WcnU5QzE0TnVIOUJvSlR5dV9ZTUlaS0tQM1h0d2JLSE8xSjNwNU94ZUVsTFZqQ2QtMDRMd3JZMm51em1ZU1ZIWGJ0LTExWmp1OTNuSGZRUWZ1djh0Y3gzQjhVUE1aSTdrMHM?oc=5",
+        "snippet": "Hailey Bieber Slams Claims She Reposted a TikTok About Her Tolerating \"Abuse\" From Justin Bieber  Cosmopolitan",
+        "snippet_ko": "Hailey Bieber Slams는 자신이 Justin Bieber의 '학대'를 용납하는 내용을 TikTok에 다시 게시했다고 주장합니다.",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Technology Innovation",
@@ -1695,18 +1719,6 @@
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "TikTok"
-      },
-      {
-        "title": "Hailey Bieber denies reposting TikTok on Marriage ‘Abuse’ - - Happy Mag",
-        "title_ko": "헤일리 비버, 결혼 '학대'에 대한 틱톡 재게시 거부 - - Happy Mag",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWmtZNkI1QVFHOWNBSnYwUDRlWVU5M3B4aU5sYXlGVS1BLW5XZkpqUUpTaC1oWU5MdTd6b3F5cFYza2lvMmQwUUo5UDlMRWhQdTE4XzBOWDhfSDEyUjRLUkc2Q18?oc=5",
-        "snippet": "Hailey Bieber denies reposting TikTok on Marriage ‘Abuse’ -  Happy Mag",
-        "snippet_ko": "헤일리 비버(Hailey Bieber), 결혼 '학대'에 대한 틱톡 재게시 거부 -  Happy Mag",
-        "source": "news.google.com",
-        "published_date": "2026-01-11",
-        "category": "Technology Innovation",
         "importance_score": 50.0,
         "company": "TikTok"
       },
@@ -1807,30 +1819,6 @@
         "company": "TikTok"
       },
       {
-        "title": "How Topgolf Turned 1 TikTok Comment Into a Viral Social Media Campaign - inc.com",
-        "title_ko": "Topgolf가 TikTok 댓글을 바이럴 소셜 미디어 캠페인으로 전환한 방법 - inc.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM19kQ1IxWlo3RU56dU1yNnZDLV9ydmtoaGNRSExnOGx1OW96UFRLUzVDemptOWtoVlk5YmVpTzNSSmFFdncxTjNRdnVvVHBCOXZOUGJLTnBSN1UwOUtyTE1iSFRBQjFydkstWWJ6MDBFR2YyMkZ1NEdPYUNIV3RYeEFHd1hrZHlwbUZGVFJIU3RiQl9VeTBKS292WTB6RFM5eWtFcUJSZ1pjUkE3R2VENUxyWQ?oc=5",
-        "snippet": "How Topgolf Turned 1 TikTok Comment Into a Viral Social Media Campaign  inc.com",
-        "snippet_ko": "Topgolf가 TikTok 댓글을 바이럴 소셜 미디어 캠페인으로 전환한 방법 inc.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-09",
-        "category": "Technology Innovation",
-        "importance_score": 50.0,
-        "company": "TikTok"
-      },
-      {
-        "title": "“Impractical Jokers” Star Sal Vulcano Spoke Out After His TikTok Used Racist Audio - BuzzFeed",
-        "title_ko": "\"실용적이지 않은 조커\" 스타 Sal Vulcano가 TikTok에서 인종차별 오디오를 사용한 후 발언 - BuzzFeed",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MTDhLdEQ2WU1UN2pPN1M2NXlkT0FnbzdxUzJsa2JTMnhhSGFGaEZOVnFDMVZTdmQ4cXdCUUhGQXhqdWZocnB1dF9qN0VXRnZUZFZKLUZlUmcxcFZqQThoVTF4TW4ySnozQ3hJM3R5RnpUTUhxem9ZcWM1N01zdw?oc=5",
-        "snippet": "“Impractical Jokers” Star Sal Vulcano Spoke Out After His TikTok Used Racist Audio  BuzzFeed",
-        "snippet_ko": "'실용적이지 않은 조커' 스타 Sal Vulcano가 TikTok에서 인종차별 오디오를 사용한 후 발언",
-        "source": "news.google.com",
-        "published_date": "2026-01-09",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "TikTok"
-      },
-      {
         "title": "China’s ByteDance may not allow some American TikTok employees to join US unit, here’s why - Times of India",
         "title_ko": "중국의 ByteDance는 일부 미국 TikTok 직원의 미국 부서 합류를 허용하지 않을 수 있습니다. 그 이유는 다음과 같습니다. - Times of India",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYlpRbnlaWDZUX1ZkeE9ObkFLSTVQUlRCNUxGdzhlSUMwVWNSZEVfYXlpdi03Y3B0Y0ozUlRXN184WG9raER0QXk4Q1NydE1USlYtSHQ2OUlsRmxYaVFzc3ZHV3YwVEoyNVNlbTNaRm9Gcm9pV1JOSUk4UjVDYTBIdkVaUThDeW9lcUc1a0FQcWdBLXhZa181UjZrcHcxY1c5QnBQajRGMlVFTWNnUHBaUEpUUm1PNFlRRWxpZS05bEgwbnNSZ2dORld1cDFtU3lsZE9rbGhPOWF4SUhZMHB1NDUxU2o0TEtOOV81ZGdFYXFVc3RobS0tbWNLMV83dmvSAYQCQVVfeXFMTkQ1R284a1VuWTd6UHpSQ0Z3Y3dfOW85bXRzbWtVNkVURHNtSW9EOUNKbGxVTVdIcEVpeUtPT2RyZHltR0tBQ21Xd2VSZjlPemFkVnJGM3Rya2VsMjdxOS05bXZhMktDSFBxNHBqajRWSVI4NEdQM3lkS0IwY1ZTSDVheEJkV2g3OG8zd0NJeVRtcUxyNDlPRHpFVU5PVlRIWDdIczFxbHBIcFFyLTRHNnZfX080NWVKcHJESlE1Zm1WM0c0Sm1lUF9VN2Q2eU5DUXdPbmtBSlVROTdsTlRDNXVBdVZLUUROcjFLS0pBUmNlZVg5TVNSS0YwLU93QldpLWZ6TTQ?oc=5",
@@ -1855,18 +1843,6 @@
         "company": "TikTok"
       },
       {
-        "title": "What Is the '365 Buttons' TikTok Meme? Explaining the Viral Trend About Not Explaining Yourself - People.com",
-        "title_ko": "'365 버튼' TikTok Meme은 무엇인가요? 자신을 설명하지 않는 것에 대한 바이러스 추세 설명 - People.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIVmlrb1lSbUZlNkpaNHkzNmJSYjg1OTFyVENHQVFZUl9MWWpWbDdQeFVIOFg4cElqWkxjMDJKRFBNV1JkVE9jOTdTS2dTcndpbGV6NEpEcjRCR0FmUGs4V1V6QkJQaU1ZYVNkQktR?oc=5",
-        "snippet": "What Is the '365 Buttons' TikTok Meme? Explaining the Viral Trend About Not Explaining Yourself  People.com",
-        "snippet_ko": "'365 버튼' TikTok Meme은 무엇인가요? 자신을 설명하지 않는 것에 대한 바이러스 추세 설명  People.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Technology Innovation",
-        "importance_score": 50.0,
-        "company": "TikTok"
-      },
-      {
         "title": "Chicago-area doctors warn TikTok challenge is sending teens to the hospital - FOX 32 Chicago",
         "title_ko": "시카고 지역 의사들은 TikTok 챌린지가 십대를 병원으로 보내고 있다고 경고합니다-FOX 32 Chicago",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjlhejZ3VUpLM19tTFlMSlhmbXFGVXFaaTV1Q2w1d08yUWw3UVdDX1dzN045NjdxME16dlE1VUUwVHpkMkFxbXlCeGgxcDNYZktLT05ia3NidXBnX0xKeU52SVp4dUZxeDFCWjNDWXA4WVFORy1KVHNxeV9paDNsd2xVdktzbkJsdFBCYjdGYWx0SmVVWlFDbXBuTHhRdFp6LUMyOdIBqgFBVV95cUxPTG9na29jMmNLRWlIQ0RaQU40Mm5FNEFtaEFGNndKN1dPSWJFV2V2VW5xcXpTOGdJMmR1c2hXZUFaZ0dHY1ctTmtZQ2kxRnBiclpDWHVpYUswRWJXMmhjVzFhSFM2UGhJaVQ4TTJ0R1NRNGNidlVLbWlHV0djMzR1eXItOW1Yb1VCU0dfaUlkcEtTNGFwLTVmVjNCNU9VWjdSaHdGYm53YjZOdw?oc=5",
@@ -1884,6 +1860,18 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3VidDdWVXVhQkppbHB0bmRDYXNfQ19oQm03a0FCb1VHcU9SamJNQXprRGtNeUpwRjFoaE1taFhLZUtwRmp6bzU5QmVsT2R3MTQxMXhfMF9xQ3RJTnkzOGZzb2hVZWNwZFFXRkpRQmZ1aW9NM2RFMV82ajJkd0JoNkxLRWw3UFJZZ1E5bg?oc=5",
         "snippet": "World Cup match footage to be broadcast live on TikTok, FIFA says - The Athletic  The New York Times",
         "snippet_ko": "FIFA는 월드컵 경기 영상을 TikTok에서 생중계할 것이라고 밝혔습니다 - The Athletic  The New York Times",
+        "source": "news.google.com",
+        "published_date": "2026-01-08",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "TikTok"
+      },
+      {
+        "title": "The Past, Present, and Future of TV Are on TikTok - Paste Magazine",
+        "title_ko": "TV의 과거, 현재, 미래가 TikTok에 있습니다 - Paste Magazine",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5laUVRRGJYcDJUTk5sQS1XMnltc01uakZFMXA2MjdLdW5JVERKcDh0bVMzWEgtSHhGbGxMN3VNR211WU9mSmFQLTRCX0V2UjR2MjFieXBlczlwVDVMT1dybkZ1MnNia0tyaDFhXzhPbU1Qc05XbGQtaQ?oc=5",
+        "snippet": "The Past, Present, and Future of TV Are on TikTok  Paste Magazine",
+        "snippet_ko": "TV의 과거, 현재, 미래가 TikTok에 있습니다. Paste Magazine",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -1939,11 +1927,11 @@
         "company": "TikTok"
       },
       {
-        "title": "ByteDance | Apps, Controversies, & Facts | Britannica Money - Encyclopedia Britannica",
-        "title_ko": "바이트댄스 | 앱, 논쟁 및 사실 | 브리태니커 돈 - 브리태니커 백과사전",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43QVRCdnA5d1FOblR4VXlUbHN6NEEtY0txUV96dG1ZS1BiYnNULTBXQ0NzSWU4QTNha1dKNm50RVNvRThiSXc4TFNrTWNFMlM2NUg0eQ?oc=5",
-        "snippet": "ByteDance | Apps, Controversies, & Facts | Britannica Money  Encyclopedia Britannica",
-        "snippet_ko": "바이트댄스 | 앱, 논쟁 및 사실 | 브리태니커 돈  브리태니커 백과사전",
+        "title": "TikTok's Global Head of Creators Is Leaving the Company Amid a Reorg - Business Insider",
+        "title_ko": "TikTok의 글로벌 크리에이터 책임자가 조직 개편으로 인해 회사를 떠납니다 - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2NyRm9iVXI3SnVLNGp2MTFYN1ZhNkU3eUo0UnFGdVZVRS0zT3UwRVd6VUFZQWt4SkRhNWRvZmo1WEY5THRMYkFfSThnNGstSmxPV2pXeHh2OV9DY0pnZUNXYkxsNm9mWVd6ZXF2ZWc4dWpLWDdZaHpCWC1ROUdWc2habGI5ekFRWEF4dGtHUmdvekcyeTZuZw?oc=5",
+        "snippet": "TikTok's Global Head of Creators Is Leaving the Company Amid a Reorg  Business Insider",
+        "snippet_ko": "TikTok의 글로벌 크리에이터 책임자가 조직 개편으로 인해 회사를 떠납니다. Business Insider",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -1951,11 +1939,11 @@
         "company": "TikTok"
       },
       {
-        "title": "ByteDance denies entering car manufacturing despite automotive tech partnerships - TechNode",
-        "title_ko": "ByteDance는 자동차 기술 파트너십에도 불구하고 자동차 제조 진입을 거부합니다 - TechNode",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjIzR0ZhWlhZRUYwUlBnamFEbzV4T2xWdDhxa3l2OU9oT3JVTkx0eW9xZkU3NGFERkJHUUhmTVdSckRBRzRkcnllZWZyTVZDaWk2QUdQX0hONmxVZ3RuUXpBZXAxVFR0aXJ1NjdWNVdMY2RlNkhEeVUyQWlyamhBNU1lTXdyS08yVXQ3Y20xdXd1dmZickFtWmtoME1zSU1PSEl1b0h2eWxpSjRXMUVvTDZZWQ?oc=5",
-        "snippet": "ByteDance denies entering car manufacturing despite automotive tech partnerships  TechNode",
-        "snippet_ko": "ByteDance는 자동차 기술 파트너십에도 불구하고 자동차 제조 진입을 거부합니다. TechNode",
+        "title": "ByteDance | Apps, Controversies, & Facts | Britannica Money - Encyclopedia Britannica",
+        "title_ko": "바이트댄스 | 앱, 논쟁, 사실 | 브리태니커 돈 - 브리태니커 백과사전",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43QVRCdnA5d1FOblR4VXlUbHN6NEEtY0txUV96dG1ZS1BiYnNULTBXQ0NzSWU4QTNha1dKNm50RVNvRThiSXc4TFNrTWNFMlM2NUg0eQ?oc=5",
+        "snippet": "ByteDance | Apps, Controversies, & Facts | Britannica Money  Encyclopedia Britannica",
+        "snippet_ko": "바이트댄스 | 앱, 논쟁, 사실 | 브리태니커 돈  브리태니커 백과사전",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -1979,7 +1967,7 @@
         "title_ko": "소식통에 따르면 HSG의 지속 펀드는 ByteDance의 가치를 최대 3,700억 달러로 평가합니다 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenM1NS1sN0FVX2thNEZ2a2otSkdmWUJ6SGhDSmU5MXJEZTIyYVZkc01HSGYzZ0M2dDdkbGZPTk8wU3B3SlQ0c1A4N0VRaldRYUNyMkszNkVsYkRvaTFhb1FjbTVzZzdQOXVJNWl0NGZxSkVhYVdCcEZpS0FNSUxybDNYdEg4aDZPQ3Y5UFhGUzRmNVB5OEFsamIxTERLcVFmRmJVY19IMENLZEJiZVBWV0YwYThjOEZ5U3lOZXFB?oc=5",
         "snippet": "HSG's continuation fund to value ByteDance at up to $370 billion, sources say  Reuters",
-        "snippet_ko": "소식통에 따르면 HSG의 지속 기금은 ByteDance의 가치를 최대 3,700억 달러로 평가합니다.  Reuters",
+        "snippet_ko": "소식통에 따르면 ByteDance의 가치를 최대 3,700억 달러로 평가하는 HSG 지속 기금",
         "source": "news.google.com",
         "published_date": "2026-01-07",
         "category": "Market Trends",
@@ -2011,20 +1999,8 @@
         "company": "TikTok"
       },
       {
-        "title": "TikTok’s US sale update: Oracle and investors take control - ContentGrip",
-        "title_ko": "TikTok의 미국 판매 업데이트: Oracle과 투자자가 장악 - ContentGrip",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94c3Q5VXN0cUpnb29jWjdsNU1MVDlBc3ZON0pKX0J0SzRKVjFCZnQ3bmJzLWU4dkNZTTRSa1lQTmpORkRCZHhTcTFiVFFMOWMxZkVnVVluVlh1TGNWZ29R?oc=5",
-        "snippet": "TikTok’s US sale update: Oracle and investors take control  ContentGrip",
-        "snippet_ko": "TikTok의 미국 판매 업데이트: Oracle과 투자자가 통제권을 가집니다. ContentGrip",
-        "source": "news.google.com",
-        "published_date": "2026-01-05",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "TikTok"
-      },
-      {
         "title": "TikTok owner ByteDance to reportedly purchase $14 billion worth of Nvidia AI GPUs in 2026 — Company betting on Beijing's approval following Trump admin's ease on AI export controls - Tom's Hardware",
-        "title_ko": "TikTok 소유자 ByteDance는 2026년에 140억 달러 상당의 Nvidia AI GPU를 구매할 것으로 알려졌습니다. 회사는 트럼프 행정부의 AI 수출 통제 완화에 따라 베이징의 승인에 베팅했습니다. - Tom's Hardware",
+        "title_ko": "TikTok 소유주 ByteDance는 2026년에 140억 달러 상당의 Nvidia AI GPU를 구매할 것으로 알려졌습니다. 회사는 트럼프 행정부의 AI 수출 통제 완화에 따라 베이징의 승인에 베팅했습니다. - Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQX1pmSGgteHByd1U1cmNWUzlxVVlWdWRRQ0x3amFuTTZXTzZrUV9IMzFmMjctX0JkNXg2OHJCZm13U213X1lINTJhSlVYenZmNVhvVU4yZVNHMjc1QTRpSzdIQTNRUlV3SHM0bmljdFpza2JkaGp1MmlaandwR1lyN090OUtEQTduYkQ2aGUyenVrOWNfaEdOVXFmMFRMSjJyWHpaUnRrWi16QnNMd0hZMG1xMDBiT0xVbTlSSklQQ2pGeTdhc2FfVVVnNE1TNFpiMVNUVUtTRU55c09WdE5TQ2otUW13aXE0STB2N2xzN1VXWnpMR1ZKcm9QNjVxM3VISnlkWWY1YUZycDc4N1dpZFdLZXlYWUE0ZnU4eXo0bkR4ZkdtTmhLT0daZWpIUVZmY05pWXdoazRjaVQtTXpJZEw5bHhneFZhd1E?oc=5",
         "snippet": "TikTok owner ByteDance to reportedly purchase $14 billion worth of Nvidia AI GPUs in 2026 — Company betting on Beijing's approval following Trump admin's ease on AI export controls  Tom's Hardware",
         "snippet_ko": "TikTok 소유주 ByteDance는 2026년에 140억 달러 상당의 Nvidia AI GPU를 구매할 것으로 알려졌습니다. 회사는 트럼프 행정부의 AI 수출 통제 완화에 따라 베이징의 승인에 베팅했습니다. Tom's Hardware",
@@ -2059,6 +2035,18 @@
         "company": "TikTok"
       },
       {
+        "title": "ByteDance to pour US$14 billion into Nvidia chips in 2026 as computing demand surges - Yahoo Finance",
+        "title_ko": "컴퓨팅 수요 급증에 따라 ByteDance는 2026년 Nvidia 칩에 140억 달러를 투자할 예정입니다 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vWDRFbVQxSm5yNU5fTU53NzZwQjhucDhTR1lrMl9KN3JWdWJ3ZXZxb241TlhvcjRHWGNmZ0ZkTHNROUN0cnlFdmY4TG5wM05rVV9NTFVLUE5oTDBUdkFfejNlYTFIY1U4TGQ3c0ZHXzNDdUNvLU9kSjI5SllVaTQ?oc=5",
+        "snippet": "ByteDance to pour US$14 billion into Nvidia chips in 2026 as computing demand surges  Yahoo Finance",
+        "snippet_ko": "ByteDance는 컴퓨팅 수요 급증에 따라 2026년에 Nvidia 칩에 140억 달러를 투자할 예정입니다. Yahoo Finance",
+        "source": "news.google.com",
+        "published_date": "2025-12-31",
+        "category": "Market Trends",
+        "importance_score": 60.0,
+        "company": "TikTok"
+      },
+      {
         "title": "ByteDance to spend about $14 billion in Nvidia chips in 2026, SCMP reports - Yahoo Finance",
         "title_ko": "ByteDance는 2026년에 Nvidia 칩에 약 140억 달러를 지출할 것이라고 SCMP 보고서 - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjhIRjdmVEpuUlBMNVlCcS1ZOVNwS2R2NTMySWk1OGtCVmk3NF9OdFZLT1BON2xzNlVPVGNWQXJJZ1k0X1JDWDVXQXhBSXo3QVZoQkF2ZDJJOTdkSFEtNWNTX2I2OUhIQVhsakZFdHVzZTZWZ2dkMWxJY0hHU3lvVGR3UnBGZw?oc=5",
@@ -2083,6 +2071,18 @@
         "company": "TikTok"
       },
       {
+        "title": "Here’s what you should know about the US TikTok deal - TechCrunch",
+        "title_ko": "미국 TikTok 거래에 대해 알아야 할 사항은 다음과 같습니다 - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOblc4OC1ZVUJac0tENklnTWlsY1RSOFNyZUYtNEtJNk1nQjNfcWJQc3BIUU5fYjRrUFV6bnJJaEVIZ1hLWkZpcXc2THpLYVdndERDWjdsYU5TM0hXeTgycTVLNV9XMlYxTTcyUnNjYmlrampIVFhNYjhPVHA1SlAzQnlEVEV5WnZ1aV91LTRBcUU?oc=5",
+        "snippet": "Here’s what you should know about the US TikTok deal  TechCrunch",
+        "snippet_ko": "미국 TikTok 거래에 대해 알아야 할 사항은 다음과 같습니다. TechCrunch",
+        "source": "news.google.com",
+        "published_date": "2025-12-30",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "TikTok"
+      },
+      {
         "title": "TikTok GamePlan: Harness the power of TikTok's sports community - Newsroom | TikTok",
         "title_ko": "TikTok GamePlan: TikTok 스포츠 커뮤니티의 힘을 활용하세요 - 뉴스룸 | 틱톡",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmNwSTZmWEdibDMwMC1wcGVhejkzbXRwOVJZakY3dWtiNUZtR3g4MHJGR01Kc2JVTlRNSnpHeHBEeERramVwTS1FN2dDUHdBZ3lQckhwc0t2dk9HLUUxZnpmMFdkTnhNMFNyd0Rtcm5JbFBLMmUwTnlBUjBFSHVIdmxjdVhqdTdBYk4zaUN2RTVER3lJeHBwNnVOTmcyZw?oc=5",
@@ -2096,7 +2096,7 @@
       },
       {
         "title": "ByteDance reportedly plans to purchase $5.6 billion worth of Huawei’s Ascend AI chips - TechNode",
-        "title_ko": "ByteDance는 56억 달러 규모의 Huawei Ascend AI 칩을 구매할 계획인 것으로 알려졌습니다.",
+        "title_ko": "ByteDance는 56억 달러 상당의 Huawei Ascend AI 칩을 구매할 계획인 것으로 알려졌습니다.",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzJHLWZvRjJQR3ZWV2U5UW1rZUNybEZKNm0teFpGWUlmZWZ4VEhfY1lSSlQtRW1PQ3NOUVI3eTdJNGZ0VFJpclhMY3hmMTlTeEtHcU1oTDZRc3ZKTnZsVjNtN3FwZlN3X1hMbWY1ZlRMTVRSa09mSEhsNVFNLXJJQlloYXVRUXdTeldON09QV2YzN3VIUDQ2elY3TzNJM3VuXzFFenhDeDMteHNEcVY4eXlwM3pBdEE?oc=5",
         "snippet": "ByteDance reportedly plans to purchase $5.6 billion worth of Huawei’s Ascend AI chips  TechNode",
         "snippet_ko": "ByteDance는 56억 달러 규모의 Huawei Ascend AI 칩을 구매할 계획인 것으로 알려졌습니다.",
@@ -2121,11 +2121,11 @@
         "company": "PayPal"
       },
       {
-        "title": "Susquehanna Lowers PT on PayPal Holdings (PYPL) Stock - Insider Monkey",
-        "title_ko": "Susquehanna, PayPal Holdings (PYPL) 주식의 PT 인하 - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0FzM1Z4OS1fNzlUeDF5bGZoOWFNY2tndzlKLUhGLXdiR0NyTDBGMko4LUhoSzczeG40a282c2tycGZmN0RieV80S29ueEtCRzJVMUdydlNBOVlXREpUOVJzWDBOS0dNYkx3WlVhQkFKR3RBb0tKbWt0aU1tUDdtay10R3lidnhhcEN0aEFyMW5nTGwzRUhzRXQyRdIBowFBVV95cUxPY1ZmcnFxVkViXzlyY1BEX3ZXTEM0SF8xT29SZ2tGT2ltNTNGSVQzbGludy1yaGNTWFdRSElWLXdvNFE3QzU3M1FPenh4MXQ1UUdLcm9zZlRuLThXRkZ2cGVHUndqVl92MmJmODBkLVRLa1hxVVp2NnlvWEduTm1nQUFCdzlYRmhXYWVIVk1FbWh4cUpoNmtqS1N0SWpDcGZhcFMw?oc=5",
-        "snippet": "Susquehanna Lowers PT on PayPal Holdings (PYPL) Stock  Insider Monkey",
-        "snippet_ko": "Susquehanna는 PayPal Holdings(PYPL) 주식의 PT를 인하합니다.  Insider Monkey",
+        "title": "Susquehanna Lowers PT on PayPal Holdings (PYPL) Stock - Finviz",
+        "title_ko": "Susquehanna는 PayPal Holdings(PYPL) 주식의 PT를 인하합니다 - Finviz",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWo2RG5Nam1aZHJOdzMzWHZvNkxKbHktcGtJbWlmUU13WnV6SUNTeGJkWkdKUVotbGswd2NyQllZMFZ4UTBxTmI0TUxhTFhhU3M3UDJRdHhzV1VGeFFQZk5TN09TMDZRNnVISEdFUUxFQ29VSVZobnpITUtZRGJ6REp6OFoxenJiUVE?oc=5",
+        "snippet": "Susquehanna Lowers PT on PayPal Holdings (PYPL) Stock  Finviz",
+        "snippet_ko": "Susquehanna는 PayPal Holdings(PYPL) 주식의 PT를 인하합니다.  Finviz",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Financial Results",
@@ -2153,6 +2153,18 @@
         "source": "news.google.com",
         "published_date": "2026-01-10",
         "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "PayPal"
+      },
+      {
+        "title": "PayPal Is The Most Hated Stock We Track Today - Yahoo Finance",
+        "title_ko": "PayPal은 오늘날 우리가 추적하는 가장 싫어하는 주식입니다 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXp5S1pNZFNOX09BdEVqaDREakd2c3FqX1A3YmhoWFNzcXIzUVFYdW5KMkNKTzdhQl9seVJRc1JPdWNWeWtZWWF4WkQzODZ6UF9tTWpFdW5ObTNBY3RCQ1JYS09aU3BaYUlmT3hmZjk4UExfa2psemlFUnlKSEJwOQ?oc=5",
+        "snippet": "PayPal Is The Most Hated Stock We Track Today  Yahoo Finance",
+        "snippet_ko": "PayPal은 현재 우리가 추적하는 가장 싫어하는 주식입니다. Yahoo Finance",
+        "source": "news.google.com",
+        "published_date": "2026-01-10",
+        "category": "Financial Results",
         "importance_score": 50.0,
         "company": "PayPal"
       },
@@ -2193,14 +2205,14 @@
         "company": "PayPal"
       },
       {
-        "title": "How Does PayPal Make Money? - The Motley Fool",
-        "title_ko": "PayPal은 어떻게 돈을 벌 수 있나요? - 가지각색의 바보",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalhIZUxuM2Q5YkxvNXU3TGwydXBXSjAyc0xWQzNZSUFaTUJVVFdGU2lBN0E3cV8wTktGR05DaXd2Q0NkWVlERU9TZVJ5YWdHOUprRi1QVXRQQTBTWGp1NThJM2hZR2lJWTQ4dEJzbm4yaFZYWlp2LW5YUl9tSGRvTWx4RjZSUQ?oc=5",
-        "snippet": "How Does PayPal Make Money?  The Motley Fool",
-        "snippet_ko": "PayPal은 어떻게 돈을 벌 수 있나요?  가지각색의 바보",
+        "title": "How to Buy PayPal Stock (PYPL) in 2026 - The Motley Fool",
+        "title_ko": "2026년 PayPal 주식(PYPL)을 구매하는 방법 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlN6Qk81Mm9JcmVRdTBhYWUyVVgtWU1tUUYzT2xDSXg1XzNITUJnNHZfUmxvd1k3cGxIVzdyb0lFRmpYRjQzWTRiSXhkWW4xYkNRcTY2Rmt4cVVSc1ZYZWl6eTNOUmtORHRwOGF3eHBCVl9UOFNfd2hXeE95blZmOGx2YTdaQ0FGNmc?oc=5",
+        "snippet": "How to Buy PayPal Stock (PYPL) in 2026  The Motley Fool",
+        "snippet_ko": "2026년에 PayPal 주식(PYPL)을 구매하는 방법  The Motley Fool",
         "source": "news.google.com",
         "published_date": "2026-01-09",
-        "category": "Market Trends",
+        "category": "Financial Results",
         "importance_score": 50.0,
         "company": "PayPal"
       },
@@ -2229,23 +2241,23 @@
         "company": "PayPal"
       },
       {
-        "title": "PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Holdings",
-        "title_ko": "PayPal, Microsoft의 Copilot Checkout 출시 지원 - PayPal Holdings",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamJWank3SUkxWXdvSHlJNndVSDh3ZkVnU0JDM1NUQlotLTluRWtnRDFlV3dXdUVpNHNmM1NGVlpGYVBhUFl4dFNza1Y4blNYZHR0bFEtU2RxUGxjSVlzc25UaFhVS2FfZ0h6bHB5ZFV4cEMzNUthYzl1WkNxd2NuZllfQURDcmNRVTN3dFJWWFh3M1F5ZUFlN1FHYzJzOUJNelhEZTlVUjg2R1l3NTZEeFR2ZDJYcnpSVVJtQkxyd3RYdw?oc=5",
-        "snippet": "PayPal Powers Microsoft’s Launch of Copilot Checkout  PayPal Holdings",
-        "snippet_ko": "PayPal, Microsoft의 Copilot Checkout 출시 지원 PayPal Holdings",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Product Launch",
-        "importance_score": 60.0,
-        "company": "PayPal"
-      },
-      {
         "title": "Microsoft turns Copilot chats into a checkout lane with Shopify, PayPal and Etsy - Axios",
         "title_ko": "Microsoft, Shopify, PayPal 및 Etsy를 통해 Copilot 채팅을 결제 ​​창으로 전환 - Axios",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CS3kyNmtmR2l0MXAyWlBDOUtwUFZFNkhfT3FTZXc4aVhoRFQ5enFJME5VWW1qQzI0bHBsYkJBV1YzemsyWUJVTm5VTFQ4Qmg4QVozeFRrYVRVUk9UeFBMT0lhVDBOUGRjQ1d1SmhYQQ?oc=5",
         "snippet": "Microsoft turns Copilot chats into a checkout lane with Shopify, PayPal and Etsy  Axios",
         "snippet_ko": "Microsoft는 Shopify, PayPal 및 Etsy Axios를 통해 Copilot 채팅을 결제 ​​창으로 전환합니다.",
+        "source": "news.google.com",
+        "published_date": "2026-01-08",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "PayPal"
+      },
+      {
+        "title": "PayPal Teams With Microsoft to Power Checkout in Copilot - PYMNTS.com",
+        "title_ko": "PayPal, Microsoft와 협력하여 Copilot 결제 기능 강화 - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEk3d0gtcTNFMzQ1Qi1zVzVrX3lLUm5uZktaSU96dVlsa21rV2pxTVJtbHgyYnFxLWR1T0x5dWU5eC1YTUVMOUlDN1dzektHM2E0cVU5Ry1XU0R6akFHdnFNRGJqNzA5akdtTmdpLW93b1FjTjFiV0FJeEJDalJIbGhoNDV4YWVhWWRZM0hiV3FDbEltRV9qeUVMUWliM00?oc=5",
+        "snippet": "PayPal Teams With Microsoft to Power Checkout in Copilot  PYMNTS.com",
+        "snippet_ko": "PayPal, Microsoft와 협력하여 Copilot의 결제 기능 강화 PYMNTS.com",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -2289,20 +2301,8 @@
         "company": "PayPal"
       },
       {
-        "title": "PayPal Teams With Microsoft to Power Checkout in Copilot - PYMNTS.com",
-        "title_ko": "PayPal, Microsoft와 협력하여 Copilot 결제 기능 강화 - PYMNTS.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEk3d0gtcTNFMzQ1Qi1zVzVrX3lLUm5uZktaSU96dVlsa21rV2pxTVJtbHgyYnFxLWR1T0x5dWU5eC1YTUVMOUlDN1dzektHM2E0cVU5Ry1XU0R6akFHdnFNRGJqNzA5akdtTmdpLW93b1FjTjFiV0FJeEJDalJIbGhoNDV4YWVhWWRZM0hiV3FDbEltRV9qeUVMUWliM00?oc=5",
-        "snippet": "PayPal Teams With Microsoft to Power Checkout in Copilot  PYMNTS.com",
-        "snippet_ko": "PayPal, Microsoft와 협력하여 Copilot의 결제 기능 강화 PYMNTS.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "PayPal"
-      },
-      {
         "title": "Jim Cramer on Paypal: “The Company’s Been Late to New Technologies” - Yahoo Finance",
-        "title_ko": "PayPal의 Jim Cramer: “회사는 신기술 도입에 늦었습니다” - Yahoo Finance",
+        "title_ko": "PayPal의 Jim Cramer: \"회사는 신기술 도입에 늦었습니다\" - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzA5NHN2alFvSVZZekZTb2h3aG5qN3ZMY2dBUnRDWm5uOG5CeWxVbDZYR3l4Y0VodURJUmNNMktMWms2T2pYaHpBMXRrQm1yNVFZZ2RfTWdwa0taemxQSm1ZdEhDd00zbU84QTV3VDRUdmVONGVpR3dKUjNPUHAzY1ZtVlNjMnltYnJDbQ?oc=5",
         "snippet": "Jim Cramer on Paypal: “The Company’s Been Late to New Technologies”  Yahoo Finance",
         "snippet_ko": "PayPal의 Jim Cramer: \"회사는 신기술 도입에 늦었습니다\"  Yahoo Finance",
@@ -2325,6 +2325,18 @@
         "company": "PayPal"
       },
       {
+        "title": "Paychex and PayPal Team Up to Bring Direct Deposit Alternatives Into Paychex Flex® Perks - Yahoo Finance",
+        "title_ko": "Paychex와 PayPal이 협력하여 Paychex Flex® 혜택에 직접 입금 대안 도입 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmV0QWlMUU9rXzdhM0JPMUFSS2dqYWZUUmJkUlFHVGtTYkpuU1pPeEs3SEJyYnEzY3U3T3dBVGZXOWFKUUxLMWxNZmdHTGZ4SGZQVEI1TldwLUUzSS1jUUdsN1kya0lCRnpLWTZycU4yRWlCZUF1b0lTRlZBSkpzblRqUzI?oc=5",
+        "snippet": "Paychex and PayPal Team Up to Bring Direct Deposit Alternatives Into Paychex Flex® Perks  Yahoo Finance",
+        "snippet_ko": "Paychex와 PayPal이 협력하여 Paychex Flex® 혜택에 직접 입금 대안을 제공  Yahoo Finance",
+        "source": "news.google.com",
+        "published_date": "2026-01-08",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "PayPal"
+      },
+      {
         "title": "Where Will PayPal Stock Be in 1 Year? - The Motley Fool",
         "title_ko": "PayPal 주식은 1년 후에 어디에 있을까요? - 가지각색의 바보",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbURkRDQ3NUItdG0ydVcydUVKdUY3RV9lQjRUYmRpdWhGdndrbmZJTjFzc0R1ZHl3cUpMVjlVdzRCQy1XZmxKVFV5Mm1SUUJJVGZPZHgyQmY0OTJDcXZxMVJlU3A5N0NkaWFBLS13cElXb0ZEVDNLcThhellLYnJMd1V1di1fUQ?oc=5",
@@ -2338,7 +2350,7 @@
       },
       {
         "title": "Khloe Kardashian Doesn’t Expect Kim to Always Pay, Says Sisters Don’t Venmo Request Each Other - Us Weekly",
-        "title_ko": "Khloe Kardashian은 Kim이 항상 돈을 지불할 것이라고 기대하지 않으며 자매들이 서로 Venmo를 요청하지 않는다고 말합니다 - Us Weekly",
+        "title_ko": "Khloe Kardashian은 Kim이 항상 돈을 지불할 것이라고 기대하지 않고 자매들이 서로 Venmo를 요청하지 않는다고 말합니다 - Us Weekly",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZy1HYkpjTGtmdDRMQzF0b0ZmRXJpbWMtZHc5QjVfZk00cExXbmFUcHNtY0lhMXZGV3BhdEpsakstNmZMckx3eWtfaVZUNlF2YkxzWWdrNFhCNXJydU1hTmJFc1VsQ29WWEd2UmlxalItNmdPaEdOVUNUR211cWhhNGtzc19FUERMUmZIV1F1Y1pJTjRNSGlERVRJSlZYVWJUU1RqajBqMm9Qdm1lYUZLVi1uTHMwaHFo?oc=5",
         "snippet": "Khloe Kardashian Doesn’t Expect Kim to Always Pay, Says Sisters Don’t Venmo Request Each Other  Us Weekly",
         "snippet_ko": "Khloe Kardashian은 Kim이 항상 돈을 지불할 것이라고 기대하지 않으며 자매들이 서로 Venmo를 요청하지 않는다고 말했습니다.  Us Weekly",
@@ -2385,11 +2397,11 @@
         "company": "PayPal"
       },
       {
-        "title": "Is It Time To Reassess PayPal (PYPL) After A 32% One-Year Share Price Decline - Yahoo Finance",
-        "title_ko": "1년 동안 주가가 32% 하락한 후 페이팔(PYPL)을 재평가해야 할 때인가 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNlN3S2E0V3pKcGhURnA4ZGU1QnRYNkxybUY4aVIzZ2xubVFlZkY4dFJqdm91c1pQUkhjQkQ0eTNxRHdUNDB5c29JQldqMkUxN2hEMVBMYXVOY1p0ZjNjX3N4M1hHZXlpeE9qTTFwaktKTjhYbmxNRThySTJhSE0?oc=5",
-        "snippet": "Is It Time To Reassess PayPal (PYPL) After A 32% One-Year Share Price Decline  Yahoo Finance",
-        "snippet_ko": "1년 동안 주가가 32% 하락한 후 PayPal(PYPL)을 재평가해야 할 때인가요? Yahoo Finance",
+        "title": "The stars are lining up for this PayPal-Amazon hybrid, according to the charts - CNBC",
+        "title_ko": "차트에 따르면 스타들이 PayPal-Amazon 하이브리드를 위해 줄을 서고 있습니다 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjJHbTAwMl9STWF5SDctSnZpUFlIbUFZOWpUalFHZjlyNXJRNVBsbmtmaXBtbzhZYUw5TnFpemdJd2E2RmkwYlVkVFp3OTA5MmF4VEtLb0FrTW9INTBBX05mQUtaOGhrbFgwQzJENFdDOWg3QzhlNG5kbHc3elRLV1lSeXAxUkdXUXFlV0pFcGZ0eXNfU00zR28tSGMtclNfNGVLNGhSNDNacjNIbWptNENVSjg?oc=5",
+        "snippet": "The stars are lining up for this PayPal-Amazon hybrid, according to the charts  CNBC",
+        "snippet_ko": "CNBC 차트에 따르면 스타들이 PayPal-Amazon 하이브리드를 위해 줄을 서고 있습니다.",
         "source": "news.google.com",
         "published_date": "2026-01-06",
         "category": "Market Trends",
@@ -2397,11 +2409,11 @@
         "company": "PayPal"
       },
       {
-        "title": "The stars are lining up for this PayPal-Amazon hybrid, according to the charts - CNBC",
-        "title_ko": "차트에 따르면 스타들이 PayPal-Amazon 하이브리드를 위해 줄을 서고 있습니다 - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjJHbTAwMl9STWF5SDctSnZpUFlIbUFZOWpUalFHZjlyNXJRNVBsbmtmaXBtbzhZYUw5TnFpemdJd2E2RmkwYlVkVFp3OTA5MmF4VEtLb0FrTW9INTBBX05mQUtaOGhrbFgwQzJENFdDOWg3QzhlNG5kbHc3elRLV1lSeXAxUkdXUXFlV0pFcGZ0eXNfU00zR28tSGMtclNfNGVLNGhSNDNacjNIbWptNENVSjg?oc=5",
-        "snippet": "The stars are lining up for this PayPal-Amazon hybrid, according to the charts  CNBC",
-        "snippet_ko": "CNBC 차트에 따르면 스타들이 PayPal-Amazon 하이브리드를 위해 줄을 서고 있습니다.",
+        "title": "Is It Time To Reassess PayPal (PYPL) After A 32% One-Year Share Price Decline - Yahoo Finance",
+        "title_ko": "1년 동안 주가가 32% 하락한 후 페이팔(PYPL)을 재평가해야 할 때인가 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNlN3S2E0V3pKcGhURnA4ZGU1QnRYNkxybUY4aVIzZ2xubVFlZkY4dFJqdm91c1pQUkhjQkQ0eTNxRHdUNDB5c29JQldqMkUxN2hEMVBMYXVOY1p0ZjNjX3N4M1hHZXlpeE9qTTFwaktKTjhYbmxNRThySTJhSE0?oc=5",
+        "snippet": "Is It Time To Reassess PayPal (PYPL) After A 32% One-Year Share Price Decline  Yahoo Finance",
+        "snippet_ko": "1년 동안 주가가 32% 하락한 후 PayPal(PYPL)을 재평가해야 할 때인가요? Yahoo Finance",
         "source": "news.google.com",
         "published_date": "2026-01-06",
         "category": "Market Trends",
@@ -2433,18 +2445,6 @@
         "company": "PayPal"
       },
       {
-        "title": "Sending Money on PayPal — Should I Use My Credit Card for the Points? - NerdWallet",
-        "title_ko": "PayPal로 송금 — 포인트 적립을 위해 신용카드를 사용해야 합니까? - 너드월렛",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkYwTkJxdTVSZ1RvYkVJTmVLeXVPVG5vWmVHX013LVdtOE9mWm90WDlHdEl4OWZyT1RFcThOY282blpCUFBmSEJ3YWltZkd1c1AwTDlmSi01b0tuQVJSM0xRUUoweWVic1BIaGlOT01QX2FqTXhRN1l1NjlENkgzS0ZjZlBubW1nNzljUVFzSEh6d3p1Z1NqOGpuWUgwLU9IUnZkOG9YcG9pekU?oc=5",
-        "snippet": "Sending Money on PayPal — Should I Use My Credit Card for the Points?  NerdWallet",
-        "snippet_ko": "PayPal로 송금 — 포인트 적립을 위해 신용카드를 사용해야 합니까?  Nerd월렛",
-        "source": "news.google.com",
-        "published_date": "2026-01-06",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "PayPal"
-      },
-      {
         "title": "I'm a 69-year-old startup founder and former PayPal and Intuit CEO. I bike to work, take midday naps in my closet, and use index cards to stay organized. - Business Insider",
         "title_ko": "저는 69세의 스타트업 창업자이자 전 PayPal 및 Intuit CEO입니다. 자전거를 타고 출근하고, 한낮에는 옷장에서 낮잠을 자고, 색인 카드를 사용하여 정리를 합니다. - 비즈니스 인사이더",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTYwX2NXSHRIS181aElzbnBsbldRdVNuQTR4a0RMQ0JfTFdXSkhvWWQ0cDFTQmY5TkM0VGxLX1pfRnZDX2h4MUNUalc4ZHlsMjNBa3NqOFJSUzZYQ0RTZk5BN3dwRm5CTWZOWW81WUNCeE9mSUdXYWZjdGJ6SHVydG5NN2k4bFZ4REx6NEhoUHlOS2FvMkhZUXlLc1BlaDhTa1Q4b0x3?oc=5",
@@ -2465,6 +2465,18 @@
         "source": "news.google.com",
         "published_date": "2025-12-29",
         "category": "Technology Innovation",
+        "importance_score": 50.0,
+        "company": "PayPal"
+      },
+      {
+        "title": "Teen accused of stealing thousands in East Cobb Venmo scam - FOX 5 Atlanta",
+        "title_ko": "East Cobb Venmo 사기로 수천 달러를 훔친 혐의로 기소된 10대 - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN096VUc2ZzZfNHpJeXVXM3RaZ1E4UmM0VGZETmxIMExaaWthZktPYVhrRUdSTWNOUUFfSVpITmZaZmZRVVhfczJfUTUxZ2tCbVFtNUd3UGhNSXNWQ0tRZXFnUjhENVlQRFhmeWozNVNEQXRFMzRuZlBheERsRmFHblFzSmhxaVpKWWNvZFJKdmEyd2FtdHfSAZsBQVVfeXFMTmR3bERRRklIYk9JbFVoaUtWY3pZTTY0UEJTdXVpSWR4TUVha2JHcEd5dVVlaUEzYW10T0pxZDBmaHl6QkxQVmdHMURKQ0Z2d2VIYTE4a3JqT0pEUURvdXlqcXFSWnl1STByQjR0RHZRMW9xLUVJSjVVTmhBVDZpUkFDSDZBandxeHQ5aUJjV25TWFIyUHpUdzVBRjQ?oc=5",
+        "snippet": "Teen accused of stealing thousands in East Cobb Venmo scam  FOX 5 Atlanta",
+        "snippet_ko": "East Cobb Venmo 사기로 수천 달러를 훔친 혐의로 기소된 10대 FOX 5 애틀랜타",
+        "source": "news.google.com",
+        "published_date": "2025-12-29",
+        "category": "Market Trends",
         "importance_score": 50.0,
         "company": "PayPal"
       }
@@ -2535,7 +2547,7 @@
         "title_ko": "케리 학생, 뇌암 진단 도구로 Stripe YSTE 우승 - Silicon Republic",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONk1EaHVISDZoUFRpclM0RHdIek5yNUM3SUpvd3I4aEQ4REN3VFZRRWFaSmFMTi1CZzVsYjRBZlJ6YTVoSi1FZGF3STVGbE5ieC1iZnFOeW13YjJkaDZaeTEzcGJUZEhaVmJmR1htdVhSME9BLUdlT1MxRmViek9MSHBuUzB4OUFUbWNTXzFBSnNLbzd5NF9ZdC13?oc=5",
         "snippet": "Kerry student wins Stripe YSTE with brain cancer diagnosis tool  Silicon Republic",
-        "snippet_ko": "케리 학생, 뇌암 진단 도구로 Stripe YSTE 우승  Silicon Republic",
+        "snippet_ko": "케리 학생이 뇌암 진단 도구로 Stripe YSTE 우승  Silicon Republic",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Technology Innovation",
@@ -2547,7 +2559,19 @@
         "title_ko": "Stripe, 암호화폐 결제 활성화: 핀테크 및 시장에 미치는 영향 - VT Markets",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWVIR2N6T19naHhsRUh6MG5OTkFPYWxrWVNrWFR1OWZ2ZENjYzJKSXFRckJlMWNaZDJOdDFqNnlqLWNsMnpfc1hCQkdzRGRPSmtIRXdQTGpGbENCcWo3WFdWb1VQdkJlTkxpSHRYRFVFZ1pHeVRCXy11MW5TOC1ld2JIbmpKR0QxTHVDMmdWMVcxTHVERjRKMlZmYi12WXI3NFE?oc=5",
         "snippet": "Stripe Enables Crypto Payments: What It Means for Fintech & Markets  VT Markets",
-        "snippet_ko": "Stripe을 통해 암호화폐 결제 가능: 핀테크 및 시장에 미치는 영향  VT Markets",
+        "snippet_ko": "Stripe을 통한 암호화폐 결제: 핀테크 및 시장에 대한 의미  VT Markets",
+        "source": "news.google.com",
+        "published_date": "2026-01-09",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Stripe"
+      },
+      {
+        "title": "Stripe supports in-chat shopping through Microsoft Copilot - Tech Edition",
+        "title_ko": "Stripe은 Microsoft Copilot - Tech Edition을 통해 채팅 내 쇼핑을 지원합니다.",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXk4X1hrQ2VnSmpOdXFKVlJ6Z2dydDNwbFVZVWpNTF9mMUdOWXVjZmhCZ3NOYTZFcGFrbG9zRkZ4VWFUUGZSQklJdlI5UUc3UjVyYl81TXRXNWZaZklVWWhDUmRHbnhmY0RzcFhzWERkQUhuSlNHRXJaQWF1TnlxcE9kZVZwODFqMHc?oc=5",
+        "snippet": "Stripe supports in-chat shopping through Microsoft Copilot  Tech Edition",
+        "snippet_ko": "Stripe은 Microsoft Copilot Tech Edition을 통해 채팅 내 쇼핑을 지원합니다.",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Market Trends",
@@ -2571,19 +2595,7 @@
         "title_ko": "Stripe을 사용하면 Crypto.com 파트너십을 통해 암호화폐 결제가 가능합니다 - ledgerinsights.com",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU0Zwb05oRHlmN1NvSmhlajJCdVJXaVBGMFowUE93cVBRUzVjMXBnOFVDdko3VGRjMDVQNG9oeG9uQk1ZVFNYSFhqNFFaTVpsWXFuRHBiNng3NHlmb3lHZXd0aEcxNTVvZ09lb1lpNlJ4RzdHM1VxQWV3RVhzSlVIaGRWdTF3MDYyRldfZ2VhSUtxSTg?oc=5",
         "snippet": "Stripe enables crypto payments via Crypto.com partnership  ledgerinsights.com",
-        "snippet_ko": "Stripe은 Crypto.com 파트너십을 통해 암호화폐 결제를 가능하게 합니다.  ledgerinsights.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-08",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Stripe"
-      },
-      {
-        "title": "Stripe Partners With Crypto.com In First-Of-Its-Kind Deal To Bring Crypto Payments To Millions Of Merchants - Yahoo Finance",
-        "title_ko": "Stripe, 수백만 명의 판매자에게 암호화폐 결제 제공을 위한 최초의 거래로 Crypto.com과 파트너십 체결 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMW5vU0k2M19wY1JUUERZYmVQRExzMGdNN0V1S2FKTDRWT3ZjaEVGaTkyNzlTdDI2OUdoS1E1LWh2U3JPc2prMlJna29vQnZkd0pFeGtFb3FRLXBCX1luVWlOQ25tV0hXTTVwXy1xRjMyUnVvOWxLb2NWQTd3YjdCdWZOT0I?oc=5",
-        "snippet": "Stripe Partners With Crypto.com In First-Of-Its-Kind Deal To Bring Crypto Payments To Millions Of Merchants  Yahoo Finance",
-        "snippet_ko": "Stripe는 수백만 명의 판매자에게 암호화폐 결제를 제공하기 위해 최초의 거래로 Crypto.com과 파트너십을 맺었습니다. Yahoo Finance",
+        "snippet_ko": "Stripe을 사용하면 Crypto.com 파트너십을 통해 암호화폐 결제가 가능합니다.  ledgerinsights.com",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -2596,6 +2608,18 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHBqQkZhSGpEbmE4djJKclRGSWpQWlBCQ3AwNGR1UGM0NlhVTHhsT2FkOVF6N0d5RnQ2cmtpZzUtSUd1N3ptTTFNYzQ3SVYyd2paa1BpVEFCMlRScEZsbHo0TnhtSnViQUVXOEdHZzU4NlJ3clNTVklNQkVtaGhfa01ZZjI1OFFEWTVMQ2lqbS1rNUtxTmVOV0txOE5oU0U2NXUzVg?oc=5",
         "snippet": "PayPal, Stripe and other fintech giants flex crypto muscles — ‘2026 is going to be massive’  dlnews.com",
         "snippet_ko": "PayPal, Stripe 및 기타 핀테크 거대 기업이 암호화폐 역량을 발휘합니다 — '2026년은 엄청날 것입니다'  dlnews.com",
+        "source": "news.google.com",
+        "published_date": "2026-01-08",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Stripe"
+      },
+      {
+        "title": "Stripe Partners With Crypto.com In First-Of-Its-Kind Deal To Bring Crypto Payments To Millions Of Merchants - AfroTech",
+        "title_ko": "Stripe, 수백만 명의 판매자에게 암호화폐 결제 제공을 위한 최초의 거래로 Crypto.com과 파트너십 체결 - AfroTech",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MOW9YdDJUU0pnYS1aZjI2dTJrdFRHTUZZdGRkbzlpRF9DT29RRGdDSWgyLTdsbGl5aXZUOTRGeWZUQlNxX19MeUR1eXl5V1Nfc0huZHRhbldBTkFEQklj?oc=5",
+        "snippet": "Stripe Partners With Crypto.com In First-Of-Its-Kind Deal To Bring Crypto Payments To Millions Of Merchants  AfroTech",
+        "snippet_ko": "Stripe는 수백만 명의 판매자에게 암호화폐 결제를 제공하기 위해 최초의 거래로 Crypto.com과 파트너십을 맺었습니다.",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -2652,7 +2676,7 @@
       },
       {
         "title": "Microsoft and Stripe bring shopping checkout directly into Copilot chat for US users - the-decoder.com",
-        "title_ko": "Microsoft와 Stripe은 미국 사용자를 위해 쇼핑 체크아웃을 Copilot 채팅에 직접 제공합니다. - the-decoder.com",
+        "title_ko": "Microsoft와 Stripe은 미국 사용자를 위해 Copilot 채팅에 직접 쇼핑 결제 기능을 제공합니다. - the-decoder.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjdnZWZ6aDVZNE9pdU9vTXRKbWplUHpBOVRuYVRiTmNWa1cxVVFCb2pJTS1mNVdzNVR3YUJhb2ZvUnU2bjJUdEZ2MHNEZmpmTGp0dnpKUG12c2c0UGM0djJRZU5zZUlMSUxnUWVTbnptQlZ2WHBCX1ZHdTVKaWtIbzFiYjlqY1hfci1VMmVGcXpxZllHTW8yeEd5VEFaaTJrVkgxNUxka0tRelpoaHc?oc=5",
         "snippet": "Microsoft and Stripe bring shopping checkout directly into Copilot chat for US users  the-decoder.com",
         "snippet_ko": "Microsoft와 Stripe은 미국 사용자를 위해 쇼핑 체크아웃을 Copilot 채팅에 직접 제공합니다. the-decoder.com",
@@ -2667,7 +2691,7 @@
         "title_ko": "ETHUSD 오늘, 1월 8일: Stripe–Crypto.com 거래로 암호화폐 결제가 쉬워졌습니다 - Meyka",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjlYTm9BVWZZUFRVelJyX3QzbHJ1SW5iRXpDR3gyUlg2UDFHQnUtWVE4b00wZUNtS1dWUWdaMlctYzBCSTMzZnVBZzRqcWFtNUFkdTRjSjZzaU5UZjRCWVVBa2szaXl5QmFnUEFDMU5CcVhuOTZUS0xSM1kyVldLRy1aZVAwSmw2X25pNFp1YjE5Y0VmOF9UcnltVQ?oc=5",
         "snippet": "ETHUSD Today, January 08: Stripe–Crypto.com Deal Eases Crypto Checkout  Meyka",
-        "snippet_ko": "ETHUSD 오늘, 1월 8일: Stripe–Crypto.com 거래로 암호화폐 결제가 용이해짐 Meyka",
+        "snippet_ko": "ETHUSD 오늘, 1월 8일: Stripe–Crypto.com 거래로 암호화폐 결제가 쉬워졌습니다. Meyka",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Market Trends",
@@ -2679,7 +2703,7 @@
         "title_ko": "Stripe CEO Patrick Collison이 RTÉ 과학 및 기술 특파원 Brian O'Donovan과 대화합니다. - RTE.ie",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SajFnUGZ4a1ZsM29VRGpzcWJpNHdXM2UtR2RHZEV2UXhQd3NEeGZGMUM3Ykk3WXdNZjl3SXh3YllTQ2dFU0RJeA?oc=5",
         "snippet": "Stripe CEO Patrick Collison speaks to RTÉ Science and Technology Correspondent Brian O'Donovan  RTE.ie",
-        "snippet_ko": "Stripe CEO 패트릭 콜리슨(Patrick Collison)이 RTÉ 과학 및 기술 특파원 Brian O'Donovan과 대화합니다. RTE.ie",
+        "snippet_ko": "Stripe CEO Patrick Collison이 RTÉ 과학 및 기술 특파원 Brian O'Donovan  RTE.ie와 대화합니다.",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Technology Innovation",
@@ -2751,22 +2775,10 @@
         "title_ko": "Gigabyte, V-Stripe QD-OLED, 광택 WOLED, 추가 2026 모니터 공개 - FlatpanelsHD",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JcU1EclVHZlBFYks1SUFYc2l5cUFJLWVDb2lULXRCR2t5by1pc0FnWlhXZ0RueDBHZnkwdC16X0NBUGdSZ0tncjduSDRvLXgyR3JUaWFBcHlVN3ZRYTd3WGpXYkxIWGNBNXRMU0JvNktSRXpuZkoxMmF3?oc=5",
         "snippet": "Gigabyte unveils V-Stripe QD-OLED, glossy WOLED, more 2026 monitors  FlatpanelsHD",
-        "snippet_ko": "Gigabyte, V-Stripe QD-OLED, 광택 WOLED, 추가 2026 모니터 FlatpanelsHD 공개",
+        "snippet_ko": "Gigabyte는 V-Stripe QD-OLED, 광택 WOLED, 추가 2026 모니터  FlatpanelsHD 공개",
         "source": "news.google.com",
         "published_date": "2026-01-07",
         "category": "Product Launch",
-        "importance_score": 50.0,
-        "company": "Stripe"
-      },
-      {
-        "title": "Marqeta names Stripe alum as CFO - Payments Dive",
-        "title_ko": "Marqeta, Stripe alum을 CFO로 임명 - Payments Dive",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmdjbFBwLWtqWFpmQUVXQVNHMHFsUktuMm5aeHhnZ0NQLXBlN3o1ZVpZalFkeTdLSS00LTJjeWhXanN6R2syTEZOVy1XY1hjWnlhcV9xYzVlcmpkbUd6d1FGNXpwNHNpZlBJWTBOSmlFeUp2azRtcl8zVmJMM2xrUEVVN1pvTjBKU2xXQnNQYkdMaW5IN05rMF9LMEZ5Z1hFaWRkSlp3?oc=5",
-        "snippet": "Marqeta names Stripe alum as CFO  Payments Dive",
-        "snippet_ko": "Marqeta는 Stripe 졸업생을 CFO  Payments Dive로 임명했습니다.",
-        "source": "news.google.com",
-        "published_date": "2026-01-07",
-        "category": "Market Trends",
         "importance_score": 50.0,
         "company": "Stripe"
       },
@@ -2811,7 +2823,7 @@
         "title_ko": "Stripe, 암호화폐 결제 촉진을 위해 Crypto.com 통합 - PYMNTS.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0dPS3ZyUFBjdi1aX3V6NHkxNGJLcGtuMEYtd2dRR2s0SmRFSlBHb1VqX0N1Q3pfLU14T1VVaE9IR2ZBbEJObm0xaUgzSlU3Ym1Lc25qNjk2cHVPTWg0dElqSzA0N3Q4Q1VsUmZQcG90NS1ZMl9Danc1NWNRVGZwNlN4ZThod2lYYjVGeXNNUnVDM2Q5dDJwb3BZSm9qMnM?oc=5",
         "snippet": "Stripe Integrates Crypto.com to Facilitate Crypto Payments  PYMNTS.com",
-        "snippet_ko": "Stripe, Crypto.com을 통합하여 암호화폐 결제 촉진  PYMNTS.com",
+        "snippet_ko": "Stripe, 암호화폐 결제 촉진을 위해 Crypto.com 통합 PYMNTS.com",
         "source": "news.google.com",
         "published_date": "2026-01-06",
         "category": "Market Trends",
@@ -2882,10 +2894,10 @@
       },
       {
         "title": "Microsoft AI CEO to all the companies working on AI: I worry we are... - Times of India",
-        "title_ko": "AI 관련 모든 기업에 보내는 Microsoft AI CEO: 우리가 걱정되는 건... - Times of India",
+        "title_ko": "AI를 연구하는 모든 기업에 보내는 Microsoft AI CEO: 우리가 걱정되는 것은... - Times of India",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa1E4cGNGWjgySGw0TlJqZWs0dzNLV1VzMkZBcHB1UlhQMGZ0cmtkd0VrZUNHMHM2ZjV2WGJod0JDNTM5ckdXbzc0bi10ZEx1SUpxcC14OFREYzBad3hnT1Fqc05uNU5NYTlsQ0t3azJfTFczSkU1NkJJdzZJd0dLLVItLVo1cXR5ZVlYS2JSMEU1MXpWa0lraFhiUG05V29Wa1B6NEhvUnplcktrb3dkeGV6ZElhWXV4NWVKdFlaTEdKclB5NlByaWFZcmU1RTRQQzNMZ2F1bzBTalZkME5WbTc1MHDSAeoBQVVfeXFMTUhycnhQWW5zZk1xdDRLamtOTUNjQWp5ZWxKcUp1ZE11WG9NbHBON2tKZFpwcUN5MjlCZnhHN2QtN1VKMnZHV1Y4X1FhTmczU0ZGMkdrUThpQmFyVXNVQTFULUNoS1ZSLVl6RklpX3pfYm9ldzFMTUczNllQc1hWQWxMZEJSVU0wTDZBUHRDcEpjV2dDSHgxS0NRbEk2dmxOMElQZ3hzdXBFS2NlVVdSZkctM082dnRKYXhHbTF5ajdTaENjbmhoUnBrWjJnMVJVWVRqYV8yXzVzZUtZTFdna0Jsbjg1VjhTUEZ3?oc=5",
         "snippet": "Microsoft AI CEO to all the companies working on AI: I worry we are...  Times of India",
-        "snippet_ko": "AI를 연구하는 모든 회사에 보내는 Microsoft AI CEO: 우리가... Times of India가 걱정됩니다.",
+        "snippet_ko": "AI를 연구하는 모든 회사에 보내는 Microsoft AI CEO: 우리가 걱정되는 것은...  Times of India",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Technology Innovation",
@@ -2965,18 +2977,6 @@
         "company": "Microsoft"
       },
       {
-        "title": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app - Tom's Hardware",
-        "title_ko": "관리자는 마침내 Windows 11 Pro, Enterprise 및 EDU 버전에서 Microsoft Copilot을 제거할 수 있는 권한을 얻었습니다. AI 앱을 제거하려면 장치가 특정 조건을 충족해야 합니다. - Tom's Hardware",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPd0laeE1ZeEpaTlpKQ2FXLXVFTFJlT25EdktzaVozSDVwWWNTWjVKQXpNZmFNYnpTVV92OWxJc2ZBbm45bDN4a2tXQmZocm1ranBqZldwbWFmaXdiWk9RbkVDcl85ZjZGbktOMXpUSzI5VkhJYVdtUUVEWnVXb2s5V3IwMnZkSXpmVk5FbkdvN2F3bUpHMVFlMzd4dmxOZjJyMFJqekwwNnk3U2ZhRWh3YXl6LVlhcmt2N2lmeGowVzBWLW9HSFdxeHRmUVplQWowLS1DSW9TNTI1ei1pOVNLUUNZVFB4MnFLcGViczVvTUUyaHhiWkJDN0U0VVJJdWhnUlR3cWVaS2VDbUJuWFlhMTc0dWNWRVNnMDdyWjQ1RTNrMjJkU01tNV9kTXA2cVcxV1R5WGR2R1R5YmNuUm5zbW05bUpCVXM?oc=5",
-        "snippet": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app  Tom's Hardware",
-        "snippet_ko": "관리자는 마침내 Windows 11 Pro, Enterprise 및 EDU 버전에서 Microsoft Copilot을 제거할 수 있는 권한을 얻었습니다. AI 앱을 제거하려면 기기가 특정 조건을 충족해야 합니다.  Tom's Hardware",
-        "source": "news.google.com",
-        "published_date": "2026-01-10",
-        "category": "Technology Innovation",
-        "importance_score": 50.0,
-        "company": "Microsoft"
-      },
-      {
         "title": "Microsoft brings another AI feature to all Windows 11 devices without special hardware - Neowin",
         "title_ko": "Microsoft는 특별한 하드웨어 없이 모든 Windows 11 장치에 또 다른 AI 기능을 제공합니다 - Neowin",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3lFd0V2UWlnOXVkQ19Gc25FOHF1eTQzTWNNZGQtcmFJM0Nyc1hvQnc4X2xmTlN1cDZlMlBOV3owS2lPTWttZlcyRDJpSkhjeFBaM1M5alBYcTRITGpsSmVtZzkxUE54c2tSTlJQMXhQZFZsS0JVYl85R2t1VVBIUkZCV0lld2xLUXBmN3hHZWRMYnJKZE01bElEcEZpRWpDUVhDSTR4U0V0cW50cXZzUTdZY0FkUdIBtAFBVV95cUxOcDNyMU50VTlWVDlwRjgyRmdMdUhKZlFlazY0N2trUGhHMHFUME50eEV3ejRwZTBJalQwSHZMUS1WNHFUU25aSGloRUxtd00tWWJJRVZXLUxBS3lCT01VQVBKaC12ZS03U2tQWFpOVi14WWk4RVZta2lsT3dFYzRsR1o4UV9DMVEwMzJ3Mm1yRTYwa0hZbl8zVkE2WjhKUUpaUjlUMWM4ZlF4SkExV2ZuWFpwTkE?oc=5",
@@ -2989,11 +2989,23 @@
         "company": "Microsoft"
       },
       {
+        "title": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app - Tom's Hardware",
+        "title_ko": "관리자는 마침내 Windows 11 Pro, Enterprise 및 EDU 버전에서 Microsoft Copilot을 제거할 수 있는 권한을 얻었습니다. AI 앱을 제거하려면 장치가 특정 조건을 충족해야 합니다. - Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPd0laeE1ZeEpaTlpKQ2FXLXVFTFJlT25EdktzaVozSDVwWWNTWjVKQXpNZmFNYnpTVV92OWxJc2ZBbm45bDN4a2tXQmZocm1ranBqZldwbWFmaXdiWk9RbkVDcl85ZjZGbktOMXpUSzI5VkhJYVdtUUVEWnVXb2s5V3IwMnZkSXpmVk5FbkdvN2F3bUpHMVFlMzd4dmxOZjJyMFJqekwwNnk3U2ZhRWh3YXl6LVlhcmt2N2lmeGowVzBWLW9HSFdxeHRmUVplQWowLS1DSW9TNTI1ei1pOVNLUUNZVFB4MnFLcGViczVvTUUyaHhiWkJDN0U0VVJJdWhnUlR3cWVaS2VDbUJuWFlhMTc0dWNWRVNnMDdyWjQ1RTNrMjJkU01tNV9kTXA2cVcxV1R5WGR2R1R5YmNuUm5zbW05bUpCVXM?oc=5",
+        "snippet": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app  Tom's Hardware",
+        "snippet_ko": "관리자는 마침내 Windows 11 Pro, Enterprise 및 EDU 버전에서 Microsoft Copilot을 제거할 수 있는 권한을 얻었습니다. AI 앱을 제거하려면 기기가 특정 조건을 충족해야 합니다.  Tom's Hardware",
+        "source": "news.google.com",
+        "published_date": "2026-01-10",
+        "category": "Technology Innovation",
+        "importance_score": 50.0,
+        "company": "Microsoft"
+      },
+      {
         "title": "Microsoft execs respond to mass layoff rumors - Fast Company",
         "title_ko": "Microsoft 임원, 대량 해고 소문에 대응 - Fast Company",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aeXQyWHV6WHFBdWUtQ2JsSGtJZmVuZjFxRVdFZ0wyWEZOcTBvVkNiTGtrdFFISThWVnN0NmE2TkNDVzNONkU2VFBRMGVrM0dCVm11M25EbHRnMlplY2VIRVlDWGQwR0pHNDhkVm9peEhMX2VrRW9LRg?oc=5",
         "snippet": "Microsoft execs respond to mass layoff rumors  Fast Company",
-        "snippet_ko": "Microsoft 임원, 대량 해고 소문에 대응  Fast Company",
+        "snippet_ko": "Microsoft 임원, 대량 해고 소문에 대응 Fast Company",
         "source": "news.google.com",
         "published_date": "2026-01-10",
         "category": "Market Trends",
@@ -3038,7 +3050,7 @@
       },
       {
         "title": "Microsoft Windows Media Player stops serving up CD album info - theregister.com",
-        "title_ko": "Microsoft Windows Media Player가 CD 앨범 정보 제공을 중단합니다. - theregister.com",
+        "title_ko": "Microsoft Windows Media Player가 CD 앨범 정보 제공을 중지합니다. - theregister.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONE1vaFFjWGRoN083NFUtU09aLVF0MVhqRUkwWmt6VGEtZy1qQ0ZOZjN6NTFoMmd1eTJxXzVEdHVkXzFhNFA3V1VlamJNcGhuUkRscDZUVENmdnlUWUtVZC1uRjREb1NPU21IajdubmZUU2tNV3B1UHByRjcwMmZmdENDTTc?oc=5",
         "snippet": "Microsoft Windows Media Player stops serving up CD album info  theregister.com",
         "snippet_ko": "Microsoft Windows Media Player가 CD 앨범 정보 제공을 중단합니다. theregister.com",
@@ -3161,7 +3173,7 @@
         "title_ko": "아니요, Microsoft는 Office의 브랜드를 Microsoft 365 Copilot으로 변경하지 않았습니다. - The Verge",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wN3RfbWtwT3E2NndCUV9MbTQ0ak5ORzlpV0tOMkItdWdOOG1pZkM4V2I5VHllNFV5c0hoUURsdmlqN0hfXy1adWhiemxuU1kwcWEyQUZyNS1HSXZOcG41OGxmMmxsR0JjYnVaeDh6NGd4bVRCV2JiZXdMVjdTUQ?oc=5",
         "snippet": "No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot  The Verge",
-        "snippet_ko": "아니요, Microsoft는 Office의 브랜드를 Microsoft 365 Copilot  The Verge로 변경하지 않았습니다.",
+        "snippet_ko": "아니요, Microsoft는 Office의 브랜드를 Microsoft 365 Copilot으로 변경하지 않았습니다.  The Verge",
         "source": "news.google.com",
         "published_date": "2026-01-06",
         "category": "Market Trends",
@@ -3266,7 +3278,7 @@
       },
       {
         "title": "Microsoft CEO Begs Users to Stop Calling It \"Slop\" - Futurism",
-        "title_ko": "마이크로소프트 CEO, 사용자들에게 '슬롭'이라고 부르지 말라고 당부 - 미래주의",
+        "title_ko": "마이크로소프트 CEO, 사용자들에게 \"슬롭\"이라고 부르지 말라고 당부 - 미래주의",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUWo5bTItWDk0S2lmVExqUlhfM0h1dGRHSWdUSF9iTUctOHZzSTZNWFM5a1BTeW1CNDdnMnZUZjRiRTNGOEVHZHZsWERodnNDd29Ycnp5aHQ0QzV2Y1BhTUk2cnNBZUdhNS1wSHNkOEdDUE9IQmlUTm1JaEtXQ1VtOGh3?oc=5",
         "snippet": "Microsoft CEO Begs Users to Stop Calling It \"Slop\"  Futurism",
         "snippet_ko": "마이크로소프트 CEO, 사용자들에게 '슬롭'이라고 부르지 말라고 당부",
@@ -3314,7 +3326,7 @@
       },
       {
         "title": "Microsoft's Satya Nadella wants you to stop saying AI \"slop\" in 2026 - Windows Central",
-        "title_ko": "Microsoft의 Satya Nadella는 2026년에는 AI가 \"슬롭\"이라고 말하는 것을 중단하길 원합니다. - Windows Central",
+        "title_ko": "Microsoft의 Satya Nadella는 2026년에는 AI가 \"슬롭\"이라고 말하는 것을 중단하길 원합니다 - Windows Central",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGtOWlpSakJ2V1Ziei1WY1dJazQzdnlGMURnWV9ha0IxQVc1bkJwQ2ViZno2MmV4bEh2MEVRQ2JfQWRSNGhRQ2U4OVpmemdJOGozMjRxcVB3MWNQM0tUMldsQkRvM1YwT0tNYTFhZ25PRnUtQjRQS3RUaEdlR3VyVE1hU3RXbVlFMHM5dDA4ZC04d0NwM2w2ekRMNElKUXhWYmJEbXNMLXBiY2xHUjBYbTNBMERRamNh?oc=5",
         "snippet": "Microsoft's Satya Nadella wants you to stop saying AI \"slop\" in 2026  Windows Central",
         "snippet_ko": "Microsoft의 Satya Nadella는 2026년에는 AI가 \"슬롭\"이라고 말하는 것을 중단하길 원합니다.  Windows Central",
@@ -3436,7 +3448,7 @@
     "Amazon": [
       {
         "title": "Policy Proposal Gains National Attention After Book Detailing Framework Reaches Amazon Bestseller Status - Ventura County Star",
-        "title_ko": "도서 상세화 프레임워크가 Amazon 베스트셀러 상태에 도달한 후 정책 제안이 전국적인 주목을 받음 - Ventura County Star",
+        "title_ko": "도서 세부화 프레임워크가 Amazon 베스트셀러 상태에 도달한 후 정책 제안이 전국적인 주목을 받음 - Ventura County Star",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcFhDcUpsTnlKU3NMS0V1VURqd2pENG53dzNCcjEwODdVTlBUQkdiMi1KaEhNbXR3Y0hxWmtHUk4zOERLYnNkc1lOWGVnMVJ6WHQ0VWVUSXJvSW9lQkFoaWhSeHlyUmpYb3pCekg5em5jMVA1NFlzOEVUS21IZ19YNy1UUEVtdjl3dGZCaWo4aVYtdXEtWlRBamgzZFgtbkdncUR5aTVyS2V5RHpadTNFckFXYUxmUW9Kb3VibTZCYkR0Ump0UzBQeldGV2xGZXFramJNLVh3OEpDZHBYeS1oSG51djc0clNGckE?oc=5",
         "snippet": "Policy Proposal Gains National Attention After Book Detailing Framework Reaches Amazon Bestseller Status  Ventura County Star",
         "snippet_ko": "도서 상세 프레임워크가 Amazon 베스트셀러 상태에 도달한 후 정책 제안이 전국적인 주목을 받음 Ventura County Star",
@@ -3471,20 +3483,8 @@
         "company": "Amazon"
       },
       {
-        "title": "Amazon Has a Victorinox Swiss Army Knife on Sale for 36% Off - Autoblog",
-        "title_ko": "Amazon, Victorinox Swiss Army Knife 36% 할인 판매 - Autoblog",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXlMNllhcGJCQlJVMENqZzJjeFk4N3JzbzAxd0hQVlYtcE51N0lQdTBCcE1TYWNLT0F1aTJJYTlKeGhwQ1RERUk0aFdFWUgxdXBCb0VjMTV6d19fSHFjakhaOFBFREkxRnN6UzhXVUEzQkF6a0F3cHdJTUphcGp6TFFQVUd6UndxS0tTYVRoNk5ncGhzUklHYjA0dExQTlY0Q3lZ?oc=5",
-        "snippet": "Amazon Has a Victorinox Swiss Army Knife on Sale for 36% Off  Autoblog",
-        "snippet_ko": "아마존, Victorinox Swiss Army Knife 36% 할인 판매 중",
-        "source": "news.google.com",
-        "published_date": "2026-01-11",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Amazon"
-      },
-      {
         "title": "‘The Night Manager’ Review: Tom Hiddleston’s Brooding Spy Moves to Amazon for a Second Season That Sizzles After a Sluggish Start - The Hollywood Reporter",
-        "title_ko": "'더 나이트 매니저' 리뷰: 톰 히들스턴의 우울한 스파이가 부진한 시작 이후 지글지글 끓는 두 번째 시즌을 위해 아마존으로 이동 - The Hollywood Reporter",
+        "title_ko": "'나이트 매니저' 리뷰: 톰 히들스턴의 우울한 스파이가 부진한 시작 이후 지글지글 끓는 두 번째 시즌을 위해 아마존으로 이동 - The Hollywood Reporter",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMm04SGJWWTNicXNEdkFkTDk2Z1ptZzVUMlVMOTBHMEplbjg5SGJjUGcxNFhQUFJZUkh0STdDeVhobER3Q1JRODJSSnBfTWVhZmhkYWhnMExPbjlJWGNPSXcyVVdaZGt6ODZoZjdpNkhlT05nckQ4NE5veXRYQ3hTdDJROE5lNlYwaXluam5kc0I0YVUzSVpiMjB0VzBwbjJobkZmeDJpSlpPdw?oc=5",
         "snippet": "‘The Night Manager’ Review: Tom Hiddleston’s Brooding Spy Moves to Amazon for a Second Season That Sizzles After a Sluggish Start  The Hollywood Reporter",
         "snippet_ko": "'나이트 매니저' 리뷰: 톰 히들스턴의 음울한 스파이가 부진한 시작 이후 지글지글 끓는 두 번째 시즌을 위해 아마존으로 이동  The Hollywood Reporter",
@@ -3503,6 +3503,18 @@
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Technology Innovation",
+        "importance_score": 50.0,
+        "company": "Amazon"
+      },
+      {
+        "title": "Amazon Has a Victorinox Swiss Army Knife on Sale for 36% Off - Autoblog",
+        "title_ko": "Amazon에서는 Victorinox Swiss Army Knife를 36% 할인된 가격으로 판매합니다 - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXlMNllhcGJCQlJVMENqZzJjeFk4N3JzbzAxd0hQVlYtcE51N0lQdTBCcE1TYWNLT0F1aTJJYTlKeGhwQ1RERUk0aFdFWUgxdXBCb0VjMTV6d19fSHFjakhaOFBFREkxRnN6UzhXVUEzQkF6a0F3cHdJTUphcGp6TFFQVUd6UndxS0tTYVRoNk5ncGhzUklHYjA0dExQTlY0Q3lZ?oc=5",
+        "snippet": "Amazon Has a Victorinox Swiss Army Knife on Sale for 36% Off  Autoblog",
+        "snippet_ko": "아마존, Victorinox Swiss Army Knife 36% 할인 판매 중",
+        "source": "news.google.com",
+        "published_date": "2026-01-11",
+        "category": "Market Trends",
         "importance_score": 50.0,
         "company": "Amazon"
       },
@@ -3544,10 +3556,10 @@
       },
       {
         "title": "Amazon is selling a $150 robot vacuum for just $90 (and 9 more fab deals) - Yahoo",
-        "title_ko": "아마존이 150달러짜리 로봇 진공청소기를 단 90달러에 판매합니다. (그리고 9개의 추가 팹 거래) - Yahoo",
+        "title_ko": "아마존이 150달러짜리 로봇 진공청소기를 단 90달러에 판매합니다(그리고 9개의 추가 팹 거래) - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamJEY1NhRTE0bWdaRldpUEZYZTVMQmpoZVZmRFRyOG1rQlExQVlkMlVpY1lWUUFxbnZRV2Jsak9ySkhFVzVCSUFqNldHYWdKb0k3MU1iUmNGNFpIZ0RIa3lqa09scWVGVWZxVGVoQ055MlVqYVNodk9TOGVmeS1SdF9QTGZUU2FSbVFGakxMMWJmZTlyRGJHMGlmRUNHb0dVb0F4bXpUVzdoZzUwSjNIQ0VISlBNODN3ODlNMTdFUEFwZ1E?oc=5",
         "snippet": "Amazon is selling a $150 robot vacuum for just $90 (and 9 more fab deals)  Yahoo",
-        "snippet_ko": "Amazon은 150달러짜리 로봇 진공청소기를 단돈 90달러에 판매합니다(그리고 9개의 추가 팹 딜). Yahoo",
+        "snippet_ko": "Amazon은 150달러짜리 로봇 진공청소기를 단 90달러에 판매합니다(그리고 9개의 추가 팹 딜).  Yahoo",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
@@ -3571,7 +3583,7 @@
         "title_ko": "Barkhamsted 충돌 사고에 연루된 Amazon 박스 트럭으로 Route 44에서 가스 누출이 발생했다고 관계자가 밝혔습니다. - CT Insider",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzdZbWo3UHhoRzJyMC1iRmV5ZTNNZHRLZXhyZDVFbndjRTFTUmlYclBCU2pQQ0gtM3Z2ckNxZnRFOHRRSTNPNnV4TWFfanFhUTdDUmZIeTgydm8zRVRERW1TWTBWSTlkdUdEZ1o3dGpSLWJzSEVzTmQ1US15Z0hiMS14dVN6bTQ2a1RRQURKRmRnZXhkNTlSb2h5YWhNTUpMUFdSRg?oc=5",
         "snippet": "Amazon box truck involved in Barkhamsted crash causes gas leak on Route 44, officials say  CT Insider",
-        "snippet_ko": "Barkhamsted 충돌 사고에 연루된 Amazon 박스 트럭으로 Route 44에서 가스 누출이 발생했다고 관계자는 말합니다. CT Insider",
+        "snippet_ko": "Barkhamsted 충돌 사고에 연루된 Amazon 박스 트럭으로 Route 44에서 가스 누출이 발생했다고 관계자는 CT Insider에 말했습니다.",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
@@ -3595,7 +3607,7 @@
         "title_ko": "아마존, 시카고 교외에 새로운 대형 박스 매장 계획 - PCMag",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2phcFRIWE9IWEZFOG5oMW9ETE0xX3k0OE5jTGV6bmsyTUlpVGdQeFJ4cDhLLWpPWXZjcktnaVZCYXNQb1IzOWI2SnBqWU1XQmZVZUo0NmdEWkcwc3EyTE9zeER5VTdkS1d2b0paU3FUanFQVnRXMXBWYlJRNVl1T2dB?oc=5",
         "snippet": "Amazon Plans New Big Box Store in Chicago Suburbs  PCMag",
-        "snippet_ko": "아마존, 시카고 교외에 새로운 대형 박스 매장 계획 PCMag",
+        "snippet_ko": "Amazon, 시카고 교외에 새로운 대형 박스 매장 계획 PCMag",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
@@ -3604,25 +3616,13 @@
       },
       {
         "title": "Shoppers can ‘just walk out’ of Kalamazoo’s new cashierless Amazon store - MLive.com",
-        "title_ko": "쇼핑객들은 칼라마주(Kalamazoo)의 새로운 계산원 없는 아마존 매장에서 '그냥 걸어 나갈' 수 있습니다 - MLive.com",
+        "title_ko": "쇼핑객은 칼라마주(Kalamazoo)의 새로운 계산원 없는 아마존 매장에서 '그냥 걸어 나갈' 수 있습니다 - MLive.com",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDRHUHNOWWg3dU8weC1aNXhlNjdiX1J4Y1hpTVVYcFBsQ2VwZzRFSUpwNG1GOWhncjhUblBLS0V4RWFSWUVFRHBYMk9kdXlzWHNwNF9QaG00Y19NUjgtQ2Fxd1JpMHFyY0JUZFZMOGVNdjZkQTFnM01KZlVPaE11TGRtNWdRN19WOFpsTlcxS29CRVhWRTVlVXpwWFR1YWpHdHl3ZHVLZTVVeDcwanR5UzFmTmRiamlLZ1F30gHPAUFVX3lxTE8weXk5bmw1blNWcHlWV0FuX3BlNU9iQW5TOWRwNlp3djhwYTNyUDBhX2xPRDJUUVA4aTE2dmE1YWcycFhLX3VaSWgzeHg3WUJabEtTQzl6ZHpWMkNRa0lEOVR1YmJQWDVqaTlnTHlacGN3UFpVaGo3Y1I3bzJhQVoxclZEVWlqRDBZdGo4blBDbHZlcGFNeHFaclF5amQwbl9velJvbWtka0tTV2ltRnctazJIWXJSTjg5ZmxQUjJ5MkdhS2RxMGFSaTlFWGxwNA?oc=5",
         "snippet": "Shoppers can ‘just walk out’ of Kalamazoo’s new cashierless Amazon store  MLive.com",
         "snippet_ko": "쇼핑객은 Kalamazoo의 새로운 계산원 없는 Amazon 매장에서 '그냥 걸어 나갈' 수 있습니다. MLive.com",
         "source": "news.google.com",
         "published_date": "2026-01-11",
         "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Amazon"
-      },
-      {
-        "title": "Amazon is selling a rolling office chair for only $46 - thestreet.com",
-        "title_ko": "아마존은 단돈 46달러에 롤링 사무실 의자를 판매합니다 - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1haHNZYXFfR1FVMC04NXZQQUwzWENXcXlLUl92OVdIeWFwbFhYWHNaaTE2MXpscmEwZHdLbFVLRVpMTzk1Wm5oZ0NQSXl2azdVdUlNQU83TURyaEtGZE15emJ6dC0wVzFlSnhpMnE3Y1FMamNqN1hTTmpiUQ?oc=5",
-        "snippet": "Amazon is selling a rolling office chair for only $46  thestreet.com",
-        "snippet_ko": "아마존은 단돈 46달러에 이동식 사무실 의자를 판매합니다. thestreet.com",
-        "source": "news.google.com",
-        "published_date": "2026-01-11",
-        "category": "Technology Innovation",
         "importance_score": 50.0,
         "company": "Amazon"
       },
@@ -3663,6 +3663,18 @@
         "company": "Amazon"
       },
       {
+        "title": "Amazon Pharmacy now offers Wegovy pill with insurance and cash options - Yahoo Finance",
+        "title_ko": "Amazon Pharmacy는 이제 보험 및 현금 옵션이 포함된 Wegovy 알약을 제공합니다 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHAybnd1MGtELW1FLS1PTjc5WGhvSWhuSUhrcjNNekJicFdQSGc0NW5xYXBPMFBYYnFWNGhRSlFWX0dDemJvSTB1dDJvd1ljNUdIREpGek53Rk1Bd3gtZXhUUUdobGR3UHpONXVxdW5ZeHA4Y3BBeUF2RlIwdXBFa2FZZy1wQQ?oc=5",
+        "snippet": "Amazon Pharmacy now offers Wegovy pill with insurance and cash options  Yahoo Finance",
+        "snippet_ko": "Amazon Pharmacy는 이제 보험 및 현금 옵션이 포함된 Wegovy 알약을 제공합니다.  Yahoo Finance",
+        "source": "news.google.com",
+        "published_date": "2026-01-10",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Amazon"
+      },
+      {
         "title": "Amazon is paying millions of Prime customers — Are you on the list? - MassLive",
         "title_ko": "Amazon은 수백만 명의 Prime 고객에게 비용을 지불하고 있습니다. 귀하도 목록에 있습니까? - 매스라이브",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGU4SlAxSWlVajJSUXg0dDdyTkE1Wmx3dFpFS0ZvUVpiM05FdjFzTHRveGpxcDNSeXRSX2VyejE2dTVXQjBPV1JLUzcwdWtOOHZSVFdRbVI0aDFQdjd2MWhEaEJsYmxRRHVGN3JQZ3JiZkh2UU1vZjhIZ3NGanpEM1hVX3hNbGotalplQW40YWlJa0tlVzNDRFZUWlJCV0czb19OVzFmS21TcknSAb8BQVVfeXFMTXY5WTR5S0g5RDBuRHZZbDd3c2xucEUxM1pINE41Wi1wTDdRcUowM0c2dUNLTnNkUDdkZzNoeV9LbHY3UXNneGs1SnRxb19GXzJHNk5qQTlJczR1LVgyS3dwc3g1eER0V21nVzJ6N1VpZVFfYWs3NHpET3FUSXA5bG5OR2tWSjBQeUdqdXhSclU1VmtxOHo4RFNqWmVieDgyOHMzWER4dTNKNlQ1MjJ3cUhYVXNkeWY4LVJYaWVkSDg?oc=5",
@@ -3687,6 +3699,18 @@
         "company": "Amazon"
       },
       {
+        "title": "Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill - CNBC",
+        "title_ko": "Amazon Pharmacy, Novo Nordisk의 Wegovy 체중 감량 알약 제공 시작 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeW1MSkhSaWlLSG9LU0YtX09WMC04WE5uQWFkSWFUaG80cUZqMUlpMWM2cGtQaFJwZ1FFMTVpbW9yY2N0Zzl0d3Q3LW9VaThXb1d1M3JzNTVwcjFVUFZOa0pUSFZVTWs3SThscjUzMHQ0UGVsRmhxelpDZmY1NUFqSmF6YTQzRVg5REMxRFVPanZlOFRKUHNST204ckRBV2U5WlRkLURPNjlwZ9IBrwFBVV95cUxNLVN0U3V1SDNqRG5zLUZlM0czV0UzQ0FxbGhYRFMxNnhLcnJkTUZvWUNsNEpnVTk5bUJBV2tZYXZEOGl3dTl1ZG1uLUttNDdzUHZnd1U5RFBfem1VZmdWWEd2OWRSc2lrV2ZiZDhyUzhoWE10TmJXbktOcUg3ay1MNWVwM21vLWRCb1dlNXYya1EzNlkyUXRNNDZzRXRzV1Z3SGgxNWRzYW5lbG9pSlBZ?oc=5",
+        "snippet": "Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill  CNBC",
+        "snippet_ko": "Amazon Pharmacy, Novo Nordisk의 Wegovy 체중 감량 알약 제공 시작  CNBC",
+        "source": "news.google.com",
+        "published_date": "2026-01-09",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Amazon"
+      },
+      {
         "title": "Amazon plans first big-box retail store in Chicago suburb - CNBC",
         "title_ko": "아마존, 시카고 교외에 최초의 대형 소매점 계획 - CNBC",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbzY0SHM0bGhMdFZtd3dObU9fM2FrTF91TFc5cGFYQ1VzX3dpOWxnWTFEa0lBeV9uc1NFSV9RcE5WYVBaTXNfMU5CYjIzazZzRW9aS2Z6ekxqdDM1ZEJkcEdrQnRySGxCcVFfMUE4bG0wcE5jM1NpRWxNZklCWjdyMjgtUHRYZUo4WUtCNms0LUI2eEhsNGxHOFVB0gGfAUFVX3lxTE1JbUR5bktoeDhJOXE1dW1yTWxhMktRZm95NEQ3WUZ0cVhhRjFkLWkwSTlDYzQzbHRsN0VnMUoyNHFmaHVrcEJCN1laeW9aazFVRHRrY1c4aE4wM3lYTDNkaXJMeDU2Ymg5VjNGTDJSSHlkTW9hemJOSVRZcGVwSW5zZVFpLTZSclJvU3A0TzZVQmFwcTNVd0xLM0c0Q0w5TQ?oc=5",
@@ -3699,50 +3723,14 @@
         "company": "Amazon"
       },
       {
-        "title": "Amazon is planning a Super Amazon-mart store near Chicago - The Verge",
-        "title_ko": "Amazon은 시카고 근처에 Super Amazon-mart 매장을 계획하고 있습니다.",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlM3RWltdG85aWp0amVJbHNfMjg5dDdVUHc5ZUZwOEtlOGFTd3pGZk81Qm92d3VfQUpVSDlCNWRNZXc0b1VQS3MyR0xkQ3RHakNHYzQyNllMeU51V2FpREc1TmE2bkhvN1VBb1hndVMydXQ4SXVoeENJRUtCQUtKTA?oc=5",
-        "snippet": "Amazon is planning a Super Amazon-mart store near Chicago  The Verge",
-        "snippet_ko": "Amazon은 시카고 근처에 Super Amazon-mart 매장을 계획하고 있습니다.",
-        "source": "news.google.com",
-        "published_date": "2026-01-09",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Amazon"
-      },
-      {
-        "title": "Amazon is apparently planning a big box store in the Chicago suburbs - Engadget",
-        "title_ko": "아마존은 시카고 교외에 대형 매장을 계획하고 있는 것으로 보입니다 - Engadget",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWGVzenNzdVE0elVqRjlNQllLeHZ5d1F5UFJuZmx2dE1NQ0hpQ1pockZ2dXppb2U0dTh5Y25Dc0dCSU5EYVFfYjNCX0lCbDJCTlF1ek5rb1pZQ3p0MVo1Y0NVQnNtVFZvOHJuNTlVREh5Yl9IekZmaG9vVUtwcXJfOWkyajdXMXJsdzU5UXg0S1lJZDFxcFhwVGl4REtDOU1kOEpxQU5KV0UtZkh4c2FQWDNGZzNxbWp3?oc=5",
-        "snippet": "Amazon is apparently planning a big box store in the Chicago suburbs  Engadget",
-        "snippet_ko": "아마존은 시카고 교외에 대형 매장을 계획하고 있는 것으로 보입니다.",
-        "source": "news.google.com",
-        "published_date": "2026-01-09",
-        "category": "Market Trends",
-        "importance_score": 50.0,
-        "company": "Amazon"
-      },
-      {
         "title": "Why Amazon’s CEO Wants Employees to Share Their Achievements - Business Chief",
-        "title_ko": "아마존 CEO가 직원들이 자신의 성과를 공유하기를 원하는 이유 - 비즈니스 책임자",
+        "title_ko": "Amazon CEO가 직원들이 성과를 공유하기를 원하는 이유 - 비즈니스 책임자",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdTdIVTdzN0dZMGZPaVdlMDM0NFU2TkhuTkVIdFFNMTdDWVE1MjdnRElrTnBTVGpWRU9GVldFd2ZnV1JfenY5U1NpTWpwSF9jdTJfa29STTdxLTE1SnZuVkt0cTJBNkZjZ2M4dEtUNFFBYlUwVTZ6aTdFa1doeFdueEdnT1dKRTN4WWdjUjQ4bmV2NXFw?oc=5",
         "snippet": "Why Amazon’s CEO Wants Employees to Share Their Achievements  Business Chief",
         "snippet_ko": "Amazon CEO가 직원들이 성과를 공유하기를 원하는 이유 비즈니스 책임자",
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Leadership & Strategy",
-        "importance_score": 50.0,
-        "company": "Amazon"
-      },
-      {
-        "title": "Google Stock Vs. Microsoft And Amazon - Forbes",
-        "title_ko": "Google 주식 대. 마이크로소프트와 아마존 - 포브스",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGhnZ0lVWW9DZWQ4V3pIMF9JZER3d2dWS3RQZnpqSW5IczNyM0NaYnFsQ2Rhc2hGTzF0aGVYbWFsMFFmV2VBdUZuYlBEa1JVWlFsYmptUVBrUWJwaHZOMlhTMFl5V2xSWFBscW0wc0RUR21JTHU0VG44RE1ZVzVMTXUzQnhXbE1Nb2lISjVoeTlNVEpqTTVadmd2Yw?oc=5",
-        "snippet": "Google Stock Vs. Microsoft And Amazon  Forbes",
-        "snippet_ko": "Google 주식 대. 마이크로소프트와 아마존 포브스",
-        "source": "news.google.com",
-        "published_date": "2026-01-09",
-        "category": "Financial Results",
         "importance_score": 50.0,
         "company": "Amazon"
       },
@@ -3755,6 +3743,18 @@
         "source": "news.google.com",
         "published_date": "2026-01-09",
         "category": "Technology Innovation",
+        "importance_score": 50.0,
+        "company": "Amazon"
+      },
+      {
+        "title": "Ripple and Amazon Partnership Myth Shut Down by XRP Analyst - TradingView — Track All Markets",
+        "title_ko": "XRP 분석가에 의한 Ripple과 Amazon 파트너십 신화 폐쇄 - TradingView — 모든 시장 추적",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGJ3Y0RQRWNMM1dnZEtPSVktWVV3bkZXY29lSlJJOHZOeVZtYnZ1VkNiZUpaWTlUd0JJYjVkMmYxcnBBTjU4ZS1uV2EwYmdGMzRhejVOaGtCTW54Z3Z6b2ZlR3hqcVdQM2g0TDdFZWNwRHQybDZRaHpBelJKaW5UaVFTY1VsU3lRRER3aTg0eUs5SmVTbVdVc19WYXRHS2RFekpzRnlxQVF2N3ZWLVlNMF92M211SUdD?oc=5",
+        "snippet": "Ripple and Amazon Partnership Myth Shut Down by XRP Analyst  TradingView — Track All Markets",
+        "snippet_ko": "XRP 분석가에 의한 Ripple과 Amazon 파트너십 신화 종료  TradingView — 모든 시장 추적",
+        "source": "news.google.com",
+        "published_date": "2026-01-09",
+        "category": "Market Trends",
         "importance_score": 50.0,
         "company": "Amazon"
       },
@@ -3835,7 +3835,7 @@
         "title_ko": "이제 AWS Lambda에서 .NET 10 런타임 사용 가능 - Amazon Web Services(AWS)",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWEotM09oTkM1UG1GODdETkk0U2Jjd3dROVE5NERVcVpDb3lVeG4zVmNjQzNLZWNUczhoeW8yaXpzUTEtMzRzV3ozM045U1FOMUJNcDRYSlZtX2RJYTdOWmRIUU5pdGNyQ01qaHo1bUZENXZWWHhwQXdhOUJUQm5Dd3o5VHhNOWM?oc=5",
         "snippet": ".NET 10 runtime now available in AWS Lambda  Amazon Web Services (AWS)",
-        "snippet_ko": "이제 AWS Lambda  Amazon 웹 서비스(AWS)에서 .NET 10 런타임 사용 가능",
+        "snippet_ko": "이제 AWS Lambda  Amazon Web Services(AWS)에서 .NET 10 런타임 사용 가능",
         "source": "news.google.com",
         "published_date": "2026-01-08",
         "category": "Technology Innovation",
@@ -3892,7 +3892,7 @@
       },
       {
         "title": "From flat to full immersion: The AWS path to Dolby Vision and Dolby Atmos - Amazon Web Services (AWS)",
-        "title_ko": "플랫에서 완전 몰입까지: Dolby Vision 및 Dolby Atmos로 향하는 AWS 경로 - Amazon Web Services(AWS)",
+        "title_ko": "일반 몰입에서 완전 몰입까지: Dolby Vision 및 Dolby Atmos로 향하는 AWS 경로 - Amazon Web Services(AWS)",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU1qVjFjSC1fVGVxUVNDS0tVYzFmM0RhRW9BWXJJb2hyejBSd093bEZrNXA1SU5QSF9rWi01aWRUdm1sTTJpcl9qVTZVdUdiSUZBR0hZSUhWc0QtbmpaWE5sSHU5Q1BjSk5KeWc2cmNuYWxBVkFHR1BLSWVSbnBYYzJ3TUNla3NKWmhaNlJ1cFZabHlMU2tBZXRPa3RkYmhoM3BrRjdkc3BxdXVM?oc=5",
         "snippet": "From flat to full immersion: The AWS path to Dolby Vision and Dolby Atmos  Amazon Web Services (AWS)",
         "snippet_ko": "일반 몰입에서 완전 몰입까지: Dolby Vision 및 Dolby Atmos로 향하는 AWS 경로  Amazon 웹 서비스(AWS)",
@@ -3951,14 +3951,14 @@
         "company": "Amazon"
       },
       {
-        "title": "AWS has the kind of autonomous network telcos want - Fierce Network",
-        "title_ko": "AWS에는 통신사가 원하는 종류의 자율 네트워크가 있습니다. - Fierce Network",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGtmUm56eWQtczNXdWdPMHc0SE9jQUdnbExDbDc0SnlPQk5FMm95V0QtamtFZDZkY0RCLWhINGJkVUNwVEI4VFc4ckJBM2Rfamc5RmY5Mmp5MWc5bTd2OTZaN2g0cmVfbnBBMF9vLVY0QmtHNzdzczB4TDJ4RGRFd2ZJYzRQUQ?oc=5",
-        "snippet": "AWS has the kind of autonomous network telcos want  Fierce Network",
-        "snippet_ko": "AWS에는 통신업체가 원하는 일종의 자율 네트워크가 있습니다. 치열한 네트워크",
+        "title": "CES 2026: Key announcements from Amazon - About Amazon",
+        "title_ko": "CES 2026: Amazon의 주요 발표 - Amazon 소개",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkdSQTU0QnFlakJZeHJweVBOR2NDUHdMRl81cFRHekdhd2J0VVptVlRUNGVOS0hqU3FLbFo0QmNKZm1RbEJkV2dlU1d4RVBpSlpTZmFDSXFFVzlhRGZ5dGdMbUJOSVB0QmZlTzhXRVZqdmxvNXlveXVZclR5LVBmNUxkOW80Um8?oc=5",
+        "snippet": "CES 2026: Key announcements from Amazon  About Amazon",
+        "snippet_ko": "CES 2026: Amazon의 주요 발표  Amazon 소개",
         "source": "news.google.com",
-        "published_date": "2026-01-07",
-        "category": "Market Trends",
+        "published_date": "2026-01-06",
+        "category": "Product Launch",
         "importance_score": 50.0,
         "company": "Amazon"
       },
@@ -4023,6 +4023,18 @@
         "company": "Amazon"
       },
       {
+        "title": "Amazon’s new Fire TV user interface gets you to what you want to watch—even faster - About Amazon",
+        "title_ko": "Amazon의 새로운 Fire TV 사용자 인터페이스를 통해 시청하고 싶은 콘텐츠를 훨씬 더 빠르게 얻을 수 있습니다 - Amazon 소개",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTROYWk3eWlUOVFQeEJzd0lDcC1yVVFINmhaTDQ3cnU3ODNFdUNmaWhOSjAtYk5CdlJVMVh1SmJ4dmtrUFFzRnNqX0JsMlVIVTVGR3VLR0JOUUtNMGVOaEhBZlVIYzlhZTYtMTExYW9NRlUyelhCOFg2Ym5wdTNVYQ?oc=5",
+        "snippet": "Amazon’s new Fire TV user interface gets you to what you want to watch—even faster  About Amazon",
+        "snippet_ko": "Amazon의 새로운 Fire TV 사용자 인터페이스를 통해 시청하고 싶은 콘텐츠를 더욱 빠르게 찾을 수 있습니다. Amazon 정보",
+        "source": "news.google.com",
+        "published_date": "2026-01-05",
+        "category": "Market Trends",
+        "importance_score": 50.0,
+        "company": "Amazon"
+      },
+      {
         "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention - theregister.com",
         "title_ko": "AWS는 토요일에 GPU 가격을 15% 인상합니다. 여러분이 주의를 기울이지 않기를 바랍니다. - theregister.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SU4xdktDaTVXZ0dKdjJ1NkFwaEVwYzJNaFpybHB2TVBSdFo5dUdfcHJCbHBOYlRnMGtsdEpSc3lJMG9iV3lQckdoQ3BoZTZFMVJSSFdrOW45NF9COGJaYTJha0RVaTlTbUE?oc=5",
@@ -4037,7 +4049,7 @@
     ]
   },
   "metadata": {
-    "total_articles": 334,
+    "total_articles": 335,
     "companies": [
       "Google",
       "Meta",
