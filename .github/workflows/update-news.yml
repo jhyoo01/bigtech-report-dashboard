@@ -33,26 +33,21 @@ jobs:
         run: |
           python scripts/update_news.py
       
-      - name: Commit and push if changes
+      - name: Check if data file exists
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
           if [ ! -f data/bigtech_data_latest.json ]; then
             echo "Error: data/bigtech_data_latest.json not found"
             exit 1
           fi
-          
-          git add data/bigtech_data_latest.json
-          
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          
-          git pull --rebase origin main || echo "Nothing to pull"
-          git commit -m "🤖 Auto-update: BigTech News $(date +'%Y-%m-%d %H:%M')"
-          git push origin main
+
+      - name: Commit and push if changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 🤖 Auto-update BigTech News
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          file_pattern: data/bigtech_data_latest.json
 
   deploy:
     needs: update-news
