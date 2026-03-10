@@ -90,7 +90,7 @@ class BigTechNewsUpdater:
             for keyword in keywords[:2]:  # 주요 키워드 2개만
                 try:
                     print(f"  검색 중: {keyword}")
-                    news = self.fetch_real_news(keyword, company, max_items=25)
+                    news = self.fetch_real_news(keyword, company, max_items=10)
                     company_news.extend(news)
                     time.sleep(0.5)
                 except Exception as e:
@@ -103,7 +103,7 @@ class BigTechNewsUpdater:
                 return (priority, n.get('published_date', '2000-01-01'))
             
             company_news.sort(key=sort_key, reverse=True)
-            self.news_data[company] = company_news[:50]  # 최대 50개
+            self.news_data[company] = company_news[:10]  # 최대 10개
             
             print(f"  ✅ {len(self.news_data[company])}개 수집 완료")
             
@@ -147,7 +147,7 @@ class BigTechNewsUpdater:
                         days_old = (now - pub_datetime).days
                         
                         # 14일 이상 된 뉴스는 스킵
-                        if days_old > 14:
+                        if days_old > 7:
                             continue
                         
                         actual_date = pub_datetime.strftime('%Y-%m-%d')
